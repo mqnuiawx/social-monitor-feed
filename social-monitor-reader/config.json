@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "feedUrl": "https://raw.githubusercontent.com/mqnuiawx/social-monitor-feed/main/data/index.json",
+  "feedUrl": "https://cdn.jsdelivr.net/gh/mqnuiawx/social-monitor-feed@main/data/index.json",
   "schedule": {
     "enabled": false,
     "cron": "40 8 * * *",
