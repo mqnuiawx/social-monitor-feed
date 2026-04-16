@@ -1,15 +1,17 @@
 {
   "name": "social-monitor-reader",
-  "version": "1.0.0",
-  "description": "社交媒体监控报告阅读器 - 从中央数据源读取监控结果，零依赖",
-  "author": "Claude + User",
+  "version": "1.1.0",
+  "description": "订阅社交媒体监控数据 - 从 GitHub feed 读取他人分享的监控报告",
+  "author": "mqnuiawx",
   "license": "MIT",
   "skills": "../SKILL.md",
   "dependencies": {},
+  "homepage": "https://github.com/mqnuiawx/social-monitor-feed",
   "keywords": [
     "social-media",
     "monitoring",
-    "reader",
-    "feed"
+    "feed",
+    "subscriber",
+    "reader"
   ]
 }
