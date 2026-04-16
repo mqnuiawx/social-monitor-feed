@@ -170,6 +170,10 @@ function generateReport(update, data, options = {}) {
   items.forEach((item, index) => {
     report += `#### ${index + 1}️⃣ ${item.title}\n\n`;
 
+    if (item.link) {
+      report += `- **链接**: [查看原文](${item.link})\n`;
+    }
+
     if (item.author) {
       report += `- **作者**: ${item.author}\n`;
     }
@@ -180,10 +184,6 @@ function generateReport(update, data, options = {}) {
 
     if (item.likes) {
       report += `- **点赞**: ${item.likes}\n`;
-    }
-
-    if (item.link) {
-      report += `- **链接**: [查看原文](${item.link})\n`;
     }
 
     if (item.content) {
