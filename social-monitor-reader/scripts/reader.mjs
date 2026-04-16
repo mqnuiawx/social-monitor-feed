@@ -19,7 +19,7 @@ const configPath = join(SKILL_DIR, 'config.json');
 const config = JSON.parse(readFileSync(configPath, 'utf-8'));
 
 /**
- * 获取最新的监控数据
+ * 获取最新的监控数据（同一天所有平台）
  */
 async function fetchLatest() {
   console.log(`📡 连接到 feed...`);
@@ -33,12 +33,11 @@ async function fetchLatest() {
   ~/.claude/skills/social-monitor-reader/config.json
 
 将 feedUrl 改为数据提供者的 GitHub raw URL，例如：
-  "feedUrl": "https://raw.githubusercontent.com/zhangqun/social-monitor-feed/main/data/index.json"
+  "feedUrl": "https://cdn.jsdelivr.net/gh/username/social-monitor-feed@main/data/index.json"
     `);
   }
 
   try {
-    // 使用 curl 获取索引
     const indexData = execSync(`curl -s "${config.feedUrl}"`, { encoding: 'utf-8' });
     const index = JSON.parse(indexData);
 
@@ -47,31 +46,31 @@ async function fetchLatest() {
       return null;
     }
 
-    console.log(`✅ 找到 ${index.updates.length} 条更新记录`);
+    // 取最新日期
+    const latestDate = index.updates[0].date;
+    // 找出当天所有平台的数据
+    const todayUpdates = index.updates.filter(u => u.date === latestDate);
+    console.log(`✅ 找到 ${index.updates.length} 条记录，最新日期 ${latestDate} 共 ${todayUpdates.length} 个平台`);
 
-    // 获取最新的数据文件
-    const latestUpdate = index.updates[0];
-    const baseUrl = config.feedUrl.replace('index.json', '');
-    const dataUrl = baseUrl + encodeURIComponent(latestUpdate.file);
-
-    console.log(`📥 下载最新数据: ${latestUpdate.file}`);
-    const dataContent = execSync(`curl -s "${dataUrl}"`, { encoding: 'utf-8' });
-    const data = JSON.parse(dataContent);
-
-    // 缓存数据
-    const cacheDir = join(SKILL_DIR, '.cache');
-    if (!existsSync(cacheDir)) {
-      mkdirSync(cacheDir, { recursive: true });
+    const results = [];
+    for (const update of todayUpdates) {
+      const baseUrl = config.feedUrl.replace('index.json', '');
+      const dataUrl = baseUrl + encodeURIComponent(update.file);
+      console.log(`📥 下载: ${update.file}`);
+      const dataContent = execSync(`curl -s "${dataUrl}"`, { encoding: 'utf-8' });
+      const data = JSON.parse(dataContent);
+      results.push({ update, data });
     }
 
-    const cacheFile = join(cacheDir, 'latest.json');
-    writeFileSync(cacheFile, JSON.stringify({
+    // 缓存
+    const cacheDir = join(SKILL_DIR, '.cache');
+    if (!existsSync(cacheDir)) mkdirSync(cacheDir, { recursive: true });
+    writeFileSync(join(cacheDir, 'latest.json'), JSON.stringify({
       fetchTime: new Date().toISOString(),
-      update: latestUpdate,
-      data
+      results
     }, null, 2), 'utf-8');
 
-    return { update: latestUpdate, data };
+    return { results, date: latestDate };
 
   } catch (error) {
     console.error(`❌ 获取数据失败:`, error.message);
@@ -81,7 +80,7 @@ async function fetchLatest() {
     if (existsSync(cacheFile)) {
       console.log(`📦 使用缓存数据`);
       const cached = JSON.parse(readFileSync(cacheFile, 'utf-8'));
-      return { update: cached.update, data: cached.data, fromCache: true };
+      return { results: cached.results, date: cached.results[0]?.update.date, fromCache: true };
     }
 
     throw error;
@@ -224,11 +223,14 @@ if (process.argv[1] === __filename) {
             process.exit(0);
           }
 
-          const report = generateReport(result.update, result.data, {
-            fromCache: result.fromCache,
-            limit: 20
-          });
-          console.log('\n' + report);
+          console.log(`\n📅 ${result.date} 监控日报（共 ${result.results.length} 个平台）\n`);
+          for (const { update, data } of result.results) {
+            const report = generateReport(update, data, {
+              fromCache: result.fromCache,
+              limit: 20
+            });
+            console.log(report);
+          }
           break;
         }
 
