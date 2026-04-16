@@ -3,6 +3,14 @@
     {
       "date": "2026-04-16",
       "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 6,
+      "file": "2026-04-16_爱奇艺_xiaohongshu.json",
+      "timestamp": "2026-04-16T13:42:20.882Z"
+    },
+    {
+      "date": "2026-04-16",
+      "keyword": "爱奇艺",
       "platform": "zhihu",
       "count": 0,
       "file": "2026-04-16_爱奇艺_zhihu.json",
@@ -15,14 +23,6 @@
       "count": 21,
       "file": "2026-04-16_爱奇艺_weibo.json",
       "timestamp": "2026-04-16T13:28:07.316Z"
-    },
-    {
-      "date": "2026-04-16",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 0,
-      "file": "2026-04-16_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-16T13:27:58.920Z"
     }
   ]
 }
