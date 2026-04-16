@@ -51,7 +51,8 @@ async function fetchLatest() {
 
     // 获取最新的数据文件
     const latestUpdate = index.updates[0];
-    const dataUrl = config.feedUrl.replace('index.json', latestUpdate.file);
+    const baseUrl = config.feedUrl.replace('index.json', '');
+    const dataUrl = baseUrl + encodeURIComponent(latestUpdate.file);
 
     console.log(`📥 下载最新数据: ${latestUpdate.file}`);
     const dataContent = execSync(`curl -s "${dataUrl}"`, { encoding: 'utf-8' });
@@ -124,7 +125,7 @@ async function fetchByDate(date) {
       throw new Error(`未找到 ${date} 的数据`);
     }
 
-    const dataUrl = config.feedUrl.replace('index.json', update.file);
+    const dataUrl = config.feedUrl.replace('index.json', '') + encodeURIComponent(update.file);
     const dataContent = execSync(`curl -s "${dataUrl}"`, { encoding: 'utf-8' });
     const data = JSON.parse(dataContent);
 
