@@ -1,0 +1,25 @@
+{
+  "name": "social-monitor",
+  "version": "1.0.0",
+  "description": "社交媒体内容监控工具 - 支持小红书、微博、知乎等平台的关键词监控",
+  "author": "Claude + User",
+  "license": "MIT",
+  "skills": "../SKILL.md",
+  "dependencies": {
+    "web-access": ">=2.4.0"
+  },
+  "homepage": "https://github.com/yourusername/social-monitor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/social-monitor.git"
+  },
+  "keywords": [
+    "social-media",
+    "monitoring",
+    "xiaohongshu",
+    "weibo",
+    "zhihu",
+    "scraping",
+    "sentiment-analysis"
+  ]
+}

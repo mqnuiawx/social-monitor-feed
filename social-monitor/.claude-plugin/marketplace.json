@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "social-monitor",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["监控", "社交媒体", "舆情", "数据分析"],
+      "description": "自动监控小红书、微博、知乎等平台的关键词内容，支持定时执行和报告生成",
+      "featured": false
+    }
+  ]
+}

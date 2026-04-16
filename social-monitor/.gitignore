@@ -1,0 +1,15 @@
+# 数据文件
+data/*.json
+data/*.csv
+data/*.md
+!data/README.md
+
+# 配置文件（包含敏感信息）
+config.json
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+.DS_Store
