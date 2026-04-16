@@ -1,0 +1,15 @@
+{
+  "name": "social-monitor-reader",
+  "version": "1.0.0",
+  "description": "社交媒体监控报告阅读器 - 从中央数据源读取监控结果，零依赖",
+  "author": "Claude + User",
+  "license": "MIT",
+  "skills": "../SKILL.md",
+  "dependencies": {},
+  "keywords": [
+    "social-media",
+    "monitoring",
+    "reader",
+    "feed"
+  ]
+}

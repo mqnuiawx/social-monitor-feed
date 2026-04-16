@@ -1,0 +1,33 @@
+{
+  "keyword": "爱奇艺",
+  "platform": "xiaohongshu",
+  "crawl_time": "2026-04-15T20:30:00+08:00",
+  "time_range": "1d",
+  "count": 3,
+  "items": [
+    {
+      "title": "爱奇艺我将拥护你",
+      "author": "小羊卷卷圈",
+      "time": "1天前",
+      "likes": "6",
+      "link": "https://www.xiaohongshu.com/explore/69ddc658000000001d0187a1",
+      "summary": "用户发帖表达对爱奇艺的正面支持，可能与近期爱奇艺热播剧集（如《钢铁森林》《佳偶天成》等）带来的观看体验有关，属于品牌好感度类UGC内容。"
+    },
+    {
+      "title": "爱奇艺真不行啊",
+      "author": "DOMI多米",
+      "time": "1天前",
+      "likes": "2",
+      "link": "https://www.xiaohongshu.com/explore/69de32d00000000023027b92",
+      "summary": "用户对爱奇艺表达不满和吐槽。结合近期小红书上其他高热度帖子，反映部分用户对爱奇艺在会员定价、广告策略或产品体验方面存在负面情绪。"
+    },
+    {
+      "title": "爱奇艺电脑端进度条上的绿波模式怎么没有了",
+      "author": "紫川秀还是卢云。",
+      "time": "1天前",
+      "likes": "0",
+      "link": "https://www.xiaohongshu.com/explore/69dd04c1000000002102f90d",
+      "summary": "用户反馈爱奇艺PC端播放器的绿波模式进度条功能消失，该功能此前可显示弹幕热度波形帮助定位精彩片段，用户对功能移除表示困惑和不满。"
+    }
+  ]
+}
