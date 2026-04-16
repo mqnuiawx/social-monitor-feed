@@ -30,26 +30,11 @@ metadata:
 node ~/.claude/skills/social-monitor-reader/scripts/reader.mjs latest
 ```
 
-若 `config.json` 中 `feedUrl` 为空，跳转到 `setup` 流程。
-
 ---
 
 ### `/social-monitor-reader setup`（首次配置 / 重建定时任务）
 
-**Step 1：检查 feedUrl 是否已配置**
-
-```bash
-node ~/.claude/skills/social-monitor-reader/scripts/reader.mjs config
-```
-
-若 `feedUrl` 为空，向用户询问：
-
-> 请提供 Feed URL（由数据提供者给你的 GitHub raw URL），格式为：
-> `https://raw.githubusercontent.com/[用户名]/social-monitor-feed/main/data/index.json`
-
-获取到 URL 后，用 Edit 工具写入 `config.json` 的 `feedUrl` 字段。
-
-**Step 2：测试连接**
+**Step 1：测试连接**
 
 ```bash
 node ~/.claude/skills/social-monitor-reader/scripts/reader.mjs latest
@@ -57,7 +42,7 @@ node ~/.claude/skills/social-monitor-reader/scripts/reader.mjs latest
 
 确认能正常拉取数据后继续。
 
-**Step 3：创建每日 8:40 定时推送**
+**Step 2：创建每日 8:40 定时推送**
 
 使用 CronCreate 工具：
 
@@ -71,7 +56,7 @@ CronCreate({
 
 将返回的 cronId 写入 `config.json` 的 `schedule.cronId`，并将 `schedule.enabled` 设为 `true`。
 
-**Step 4：告知用户**
+**Step 3：告知用户**
 
 ```
 ✅ 配置完成！
@@ -115,7 +100,7 @@ node ~/.claude/skills/social-monitor-reader/scripts/reader.mjs date 2026-04-16
 ```json
 {
   "version": "1.1.0",
-  "feedUrl": "",          // ← 订阅方填写数据提供者的 GitHub raw URL
+  "feedUrl": "https://raw.githubusercontent.com/mqnuiawx/social-monitor-feed/main/data/index.json",  // 已预填，无需修改
   "schedule": {
     "enabled": false,     // 定时任务是否已启用
     "cron": "40 8 * * *", // 触发时间
