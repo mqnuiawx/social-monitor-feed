@@ -2,8 +2,8 @@
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
   "time_range": "8h",
-  "crawl_time": "2026-04-17T08:17:36.380Z",
-  "count": 4,
+  "crawl_time": "2026-04-17T08:36:51.826Z",
+  "count": 5,
   "items": [
     {
       "title": "爱奇艺创始人称AI带了机会",
@@ -44,6 +44,16 @@
       "navLink": "https://www.xiaohongshu.com/search_result/69e1ca1700000000210051fc?xsec_token=AB7uGYR5buRTPynBV2GtM_x-ndrVceNHAgK8Oqxht5oLo=&xsec_source=",
       "platform": "xiaohongshu",
       "summary": "就我和你俩人用，不用担心挤号哈，9.1r"
+    },
+    {
+      "title": "真的有117个艺人去授权AI吗？",
+      "author": "um",
+      "time": "3小时前",
+      "likes": "118",
+      "link": "https://www.xiaohongshu.com/explore/69dfa7a1000000001a02ae36",
+      "navLink": "https://www.xiaohongshu.com/search_result/69dfa7a1000000001a02ae36?xsec_token=ABpq6FhtgT-BMkyOlf766SF64uHGAu5X0MPDouYidxl48=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "真的有117个艺人去授权AI吗？又刷到说后续会增加到千人，天呐 那以后AI剧将会越来越多了，观众会对AI艺人有情感吗？粉艺人还是AI艺人……好突然，但好像又默默习惯AI剧的存在了，总之还是很奇怪。如果大部分是AI剧，感觉会很腻啊…… 这对明星来说是好是坏啊 二编 又刷到CEO关于AI的采访，感觉会有越来越多艺人授权AI了 ▷后续推进方向 加大投资力度，推进基于AI技术的长片商业项目 ▷未来内容行业"
     }
   ]
 }
