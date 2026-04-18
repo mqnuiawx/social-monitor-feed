@@ -2,7 +2,28 @@
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
   "time_range": "8h",
-  "crawl_time": "2026-04-18T11:37:06.148Z",
-  "count": 0,
-  "items": []
+  "crawl_time": "2026-04-18T11:39:44.333Z",
+  "count": 2,
+  "items": [
+    {
+      "title": "哇咔咔，一个超爱看电视剧的人进入爱奇艺啦",
+      "author": "亿元追剧迷",
+      "time": "2小时前",
+      "likes": "1",
+      "link": "https://www.xiaohongshu.com/explore/69e2e60b000000001a0288cf",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e2e60b000000001a0288cf?xsec_token=ABwGlRjICagUUzpvfo3hlanKyApxucvVWCPi5wloBp5nY=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "【爱奇艺实习日志】 对比之下，爱奇艺确实是我看剧最多的app 因为乱七八糟的广告少，排版不吵 虽然近年广告也变多了 室友知道我要到爱奇艺实习，感慨 “听起来就和你的调调很适配” mt很好！组里姐姐也很好 压力不大（反正我没一点压力哈哈哈哈哈） 虽然目前干的工作和想的不太一样 和招聘写的也不太一样 罢了罢了 实习谁还不干dirty work呢[笑哭了R] 感恩mt接受了实习一点也不垂直，甚至毫无关联"
+    },
+    {
+      "title": "(无标题)",
+      "author": "兔仔",
+      "time": "2小时前",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/69e3452b000000001a024cc0",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e3452b000000001a024cc0?xsec_token=ABRXGWpZJDt-2YMel27njcoZKXRs_t0chc73__hMmPHG4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "全平台摇人后天爱奇艺给刘铮亮排面！ 全平台摇人后天爱奇艺给刘铮亮排面！ 全平台摇人后天爱奇艺给刘铮亮排面！ 全平台摇人后天爱奇艺给刘铮亮排面！ 全平台摇人后天爱奇艺给刘铮亮排面！ ​"
+    }
+  ]
 }
