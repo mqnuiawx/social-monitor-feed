@@ -2,8 +2,8 @@
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
   "time_range": "24h",
-  "crawl_time": "2026-04-19T01:47:36.838Z",
-  "count": 6,
+  "crawl_time": "2026-04-19T02:18:53.396Z",
+  "count": 8,
   "items": [
     {
       "title": "(无标题)",
@@ -49,7 +49,7 @@
       "title": "说说最近在播几部剧的走势",
       "author": "。",
       "time": "1天前",
-      "likes": "86",
+      "likes": "87",
       "link": "https://www.xiaohongshu.com/explore/69e2384b0000000021039196",
       "navLink": "https://www.xiaohongshu.com/search_result/69e2384b0000000021039196?xsec_token=ABwGlRjICagUUzpvfo3hlanE3MUcWo2bB5aLsaKmQWXYc=&xsec_source=",
       "platform": "xiaohongshu",
@@ -62,6 +62,24 @@
       "likes": "3",
       "link": "https://www.xiaohongshu.com/explore/69e31ff00000000020039325",
       "navLink": "https://www.xiaohongshu.com/search_result/69e31ff00000000020039325?xsec_token=ABRXGWpZJDt-2YMel27njcod2fVH3n976lGXfzu4SgggU=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "优酷换爱奇艺",
+      "author": "momo",
+      "time": "昨天 17:51",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/69e3540a000000001a0213e9",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e3540a000000001a0213e9?xsec_token=ABRXGWpZJDt-2YMel27njcoSN4Oe1S1RmEBzjbwb-bB1w=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "(无标题)",
+      "author": "兔仔",
+      "time": "昨天 16:47",
+      "likes": "1",
+      "link": "https://www.xiaohongshu.com/explore/69e3452b000000001a024cc0",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e3452b000000001a024cc0?xsec_token=ABRXGWpZJDt-2YMel27njcoQBKy7L4xWyVVlmv1lPkE2c=&xsec_source=",
       "platform": "xiaohongshu"
     }
   ]
