@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "date": "2026-04-19",
+      "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 12,
+      "file": "2026-04-19_爱奇艺_weibo.json",
+      "timestamp": "2026-04-19T01:47:45.267Z"
+    },
+    {
+      "date": "2026-04-19",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 6,
+      "file": "2026-04-19_爱奇艺_xiaohongshu.json",
+      "timestamp": "2026-04-19T01:47:36.838Z"
+    },
+    {
       "date": "2026-04-18",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
