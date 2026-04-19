@@ -1,102 +1,18 @@
 {
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
+  "platform_name": "小红书",
   "time_range": "48h",
-  "crawl_time": "2026-04-19T04:08:31.642Z",
-  "count": 10,
+  "crawl_time": "2026-04-19T06:53:38.037Z",
+  "count": 1,
   "items": [
     {
-      "title": "爱奇艺CEO龚宇谈 AI 时代中国电影市场未来",
-      "author": "北京国际电影节",
-      "time": "1天前",
-      "likes": "68",
-      "link": "https://www.xiaohongshu.com/explore/69e1def200000000220285ce",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e1def200000000220285ce?xsec_token=AB7uGYR5buRTPynBV2GtM_x4DH3EMyJfM0yvGbUTExhlw=&xsec_source=",
-      "platform": "xiaohongshu",
-      "summary": "4月17日举办的第十六届北京国际电影节产业论坛上，爱奇艺创始人、首席执行官龚宇表示，“口红效应”始终存在，多元文娱及 AI 时代的到来，将为中国影视市场增添更多机会。 #北京国际电影节 #产业论坛"
-    },
-    {
-      "title": "爱奇艺回应ai授权",
-      "author": "momo",
-      "time": "2天前",
-      "likes": "22",
-      "link": "https://www.xiaohongshu.com/explore/69e0d013000000002103a07a",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e0d013000000002103a07a?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWoanr4jdIPmAeXTt82Rd3TKI=&xsec_source=",
-      "platform": "xiaohongshu",
-      "summary": "爱奇艺与其深度合作的艺人签订AI形象授权，平台之后会逐渐摆脱对明星演员的依赖#艺人 #明星资讯 #娱乐圈 #影视圈工作 #AI人工智能 #影视剧"
-    },
-    {
-      "title": "绝了，爱奇艺要炼化演员了😂",
-      "author": "Saber的思考笔记",
-      "time": "2天前",
-      "likes": "4686",
-      "link": "https://www.xiaohongshu.com/explore/69e0a56e000000001f0057f3",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e0a56e000000001f0057f3?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWodrSrIinrjVTX2C6irouWns=&xsec_source=",
-      "platform": "xiaohongshu",
-      "summary": "爱奇艺与艺人签约，将真人表演数据数字化，生成AI分身，用于影视制作。此举为未来“囤货”，提升效率，但涉及肖像权和数字资产管理法律风险。AI技术推动影视行业变革，演员需管理数字分身授权。 爱奇艺最近跟头部艺人签AI授权，要把演员的脸、声音、动作数字化，生成数字分身去演AI剧集。 消息一出，网友炸锅：以后看剧全靠合成？演员这行要完？ 爱奇艺CEO龚宇回应说，这叫“表演迁移”——把真人数字化后用在AI内"
-    },
-    {
-      "title": "不是这个田曦薇美成啥样了",
-      "author": "蟹味菇侦探",
-      "time": "33分钟前",
-      "likes": "607",
-      "link": "https://www.xiaohongshu.com/explore/69e44d31000000001a031f84",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e44d31000000001a031f84?xsec_token=ABE2BVU3XkHdRQBVsniz08uq1gJNcmYj4JsMhYR5E3BN4=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "一起期待吧",
-      "author": "^薇wei 🌿^",
-      "time": "15分钟前",
-      "likes": "49",
-      "link": "https://www.xiaohongshu.com/explore/69e45181000000001f0017ab",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e45181000000001f0017ab?xsec_token=ABE2BVU3XkHdRQBVsniz08uojf4TAclqactCkPud-yCbs=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "哇咔咔，一个超爱看电视剧的人进入爱奇艺啦",
-      "author": "亿元追剧迷",
-      "time": "昨天 17:38",
-      "likes": "2",
-      "link": "https://www.xiaohongshu.com/explore/69e2e60b000000001a0288cf",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e2e60b000000001a0288cf?xsec_token=ABwGlRjICagUUzpvfo3hlanFQInfT_6PLlRC64hk7PFHY=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "爱奇艺从巅峰百亿市值到当下挣扎自救",
-      "author": "法法王",
-      "time": "2天前",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/69e0f0db000000001d01aa5f",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e0f0db000000001d01aa5f?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWoV1914z1Xbvo8SFxLwJvDs8=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "爱奇艺会员",
-      "author": "AaAa",
-      "time": "1分钟前",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/69e454c90000000023007f36",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e454c90000000023007f36?xsec_token=ABE2BVU3XkHdRQBVsniz08upAkbHYSFRqqBd012JJ11js=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "左滑，解锁拼豆小房子！",
-      "author": "阳阳",
-      "time": "28分钟前",
-      "likes": "2",
-      "link": "https://www.xiaohongshu.com/explore/69e44e50000000001a021c28",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e44e50000000001a021c28?xsec_token=ABE2BVU3XkHdRQBVsniz08uj39v5DQCbnaImKkblJiU6A=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "王鹤棣｜从道明寺到东方青苍的顶流蜕变",
-      "author": "娱乐说说说",
-      "time": "41分钟前",
-      "likes": "3",
-      "link": "https://www.xiaohongshu.com/explore/69e44b4b0000000021007d64",
-      "navLink": "https://www.xiaohongshu.com/search_result/69e44b4b0000000021007d64?xsec_token=ABE2BVU3XkHdRQBVsniz08uox1zA8tKiGmADekgieY0bs=&xsec_source=",
-      "platform": "xiaohongshu"
+      "title": "爱奇艺创始人称AI带了机会",
+      "summary": "爱奇艺创始人称AI带了机会 #爱奇艺  #AI  #电影节",
+      "publish_time": "2天前",
+      "view_link": "https://www.xiaohongshu.com/explore/69e1cef5000000002003ad36",
+      "author": "新浪AI",
+      "likes": "3"
     }
   ]
 }
