@@ -1,8 +1,93 @@
 {
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
-  "time_range": "24h",
-  "crawl_time": "2026-04-19T03:57:30.214Z",
-  "count": 0,
-  "items": []
+  "time_range": "48h",
+  "crawl_time": "2026-04-19T04:01:33.427Z",
+  "count": 9,
+  "items": [
+    {
+      "title": "爱奇艺CEO龚宇谈 AI 时代中国电影市场未来",
+      "author": "北京国际电影节",
+      "time": "1天前",
+      "likes": "68",
+      "link": "https://www.xiaohongshu.com/explore/69e1def200000000220285ce",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e1def200000000220285ce?xsec_token=AB7uGYR5buRTPynBV2GtM_x4DH3EMyJfM0yvGbUTExhlw=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "4月17日举办的第十六届北京国际电影节产业论坛上，爱奇艺创始人、首席执行官龚宇表示，“口红效应”始终存在，多元文娱及 AI 时代的到来，将为中国影视市场增添更多机会。 #北京国际电影节 #产业论坛"
+    },
+    {
+      "title": "AI长剧Q3定档！腾讯爱奇艺联手开启新纪元",
+      "author": "AI味道有点重",
+      "time": "2天前",
+      "likes": "3",
+      "link": "https://www.xiaohongshu.com/explore/69e06934000000001a02f34a",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e06934000000001a02f34a?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWofE29zO2G6krEaEHHYgCsU4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "家人们，中午好。☕️ 最近很有意思，两家公司在第十三届中国网络视听大会对AI长视频的表态：如果说之前的 AI 视频只是“短视频自嗨”，那么腾讯和爱奇艺15日的发布，直接宣告了 AI 进入长视频正赛。 结合上一条，是不是觉得有些意味深长？（对，我故意设置的差不多时间发） 📊 来自硬核观察员的“变天”拆解： • 企鹅家：三季度上线 AI 长剧，开启“工具链”时代 🛠️ 腾讯副总裁孙忠怀透露，今年 "
+    },
+    {
+      "title": "爱奇艺回应ai授权",
+      "author": "momo",
+      "time": "2天前",
+      "likes": "22",
+      "link": "https://www.xiaohongshu.com/explore/69e0d013000000002103a07a",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e0d013000000002103a07a?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWoanr4jdIPmAeXTt82Rd3TKI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "爱奇艺与其深度合作的艺人签订AI形象授权，平台之后会逐渐摆脱对明星演员的依赖#艺人 #明星资讯 #娱乐圈 #影视圈工作 #AI人工智能 #影视剧"
+    },
+    {
+      "title": "不是这个田曦薇美成啥样了",
+      "author": "蟹味菇侦探",
+      "time": "26分钟前",
+      "likes": "425",
+      "link": "https://www.xiaohongshu.com/explore/69e44d31000000001a031f84",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e44d31000000001a031f84?xsec_token=ABE2BVU3XkHdRQBVsniz08uq1gJNcmYj4JsMhYR5E3BN4=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "一起期待吧",
+      "author": "^薇wei 🌿^",
+      "time": "8分钟前",
+      "likes": "41",
+      "link": "https://www.xiaohongshu.com/explore/69e45181000000001f0017ab",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e45181000000001f0017ab?xsec_token=ABE2BVU3XkHdRQBVsniz08uojf4TAclqactCkPud-yCbs=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "期待云初主母",
+      "author": "「欣皎.Esther」",
+      "time": "13分钟前",
+      "likes": "9",
+      "link": "https://www.xiaohongshu.com/explore/69e4505b000000002102c06d",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e4505b000000002102c06d?xsec_token=ABE2BVU3XkHdRQBVsniz08uhbI0DEu8PPZHJ5vOwlMlJY=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "爱奇艺从巅峰百亿市值到当下挣扎自救",
+      "author": "法法王",
+      "time": "2天前",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/69e0f0db000000001d01aa5f",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e0f0db000000001d01aa5f?xsec_token=ABNA9f_Z-MhnKE-9Ef8sQWoV1914z1Xbvo8SFxLwJvDs8=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "真的有117个艺人去授权AI吗？",
+      "author": "um",
+      "time": "1天前",
+      "likes": "128",
+      "link": "https://www.xiaohongshu.com/explore/69dfa7a1000000001a02ae36",
+      "navLink": "https://www.xiaohongshu.com/search_result/69dfa7a1000000001a02ae36?xsec_token=ABpq6FhtgT-BMkyOlf766SF4sbhrFJZpGwbZTQlGK3HFo=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "左滑，解锁拼豆小房子！",
+      "author": "阳阳",
+      "time": "22分钟前",
+      "likes": "2",
+      "link": "https://www.xiaohongshu.com/explore/69e44e50000000001a021c28",
+      "navLink": "https://www.xiaohongshu.com/search_result/69e44e50000000001a021c28?xsec_token=ABE2BVU3XkHdRQBVsniz08uj39v5DQCbnaImKkblJiU6A=&xsec_source=",
+      "platform": "xiaohongshu"
+    }
+  ]
 }
