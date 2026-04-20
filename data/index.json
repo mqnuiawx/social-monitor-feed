@@ -4,167 +4,9 @@
       "date": "2026-04-20",
       "keyword": "爱奇艺",
       "platform": "weibo",
-      "count": 21,
+      "count": 0,
       "file": "2026-04-20_爱奇艺_weibo.json",
-      "analysisFile": "2026-04-20_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-04-20_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-04-20T07:41:52.103Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺疯",
-            31
-          ],
-          [
-            "爱奇艺",
-            11
-          ],
-          [
-            "艺人库",
-            7
-          ],
-          [
-            "展开",
-            6
-          ],
-          [
-            "张若昀",
-            6
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "本想照例盘一盘爱奇艺今天发布的预告，看完龚宇的发言觉得爱奇艺不配。\n\n艺人授权AI形象拍戏，这件事在法律、行业道德、技术...",
-            "summary": "本想照例盘一盘爱奇艺今天发布的预告，看完龚宇的发言觉得爱奇艺不配。\n\n艺人授权AI形象拍戏，这件事在法律、行业道德、技术规范、商业模式等所有实际操作层面都还没有任何当然的可实施性，爱奇艺就开始喜滋滋画饼了，这是在给资本市场讲故事我知道，但人穷疯眼也得有底线吧？我们盘盘他这个故事的逻辑 ​ 展开c",
-            "publish_time": "今天14:12",
-            "view_link": "https://weibo.com/5938766432/QBFCj0nsy?refer_flag=1001030103_",
-            "author": "爱吐槽的栗小姐",
-            "likes": "8215",
-            "likeCount": 8215
-          },
-          {
-            "title": "2026爱奇艺造梦大剧片单 期待哪部？\n#爱奇艺 长剧# ​",
-            "summary": "2026爱奇艺造梦大剧片单 期待哪部？\n#爱奇艺 长剧# ​",
-            "publish_time": "34分钟前",
-            "view_link": "https://weibo.com/6871390978/QBFYmrYMx?refer_flag=1001030103_",
-            "author": "快乐追星十级学渣",
-            "likes": "2770",
-            "likeCount": 2770
-          },
-          {
-            "title": "#爱奇艺疯了##AI观众#我天，真的太疯狂了，爱奇艺签约的ai艺人居然有这么多熟悉的面孔，AI脸再逼真，也少了点活人感啊...",
-            "summary": "#爱奇艺疯了##AI观众#我天，真的太疯狂了，爱奇艺签约的ai艺人居然有这么多熟悉的面孔，AI脸再逼真，也少了点活人感啊 ​",
-            "publish_time": "36分钟前",
-            "view_link": "https://weibo.com/7331622139/QBFXzC6My?refer_flag=1001030103_",
-            "author": "小怡说车",
-            "likes": "1735",
-            "likeCount": 1735
-          }
-        ],
-        "totalLikes": 17451,
-        "avgLikes": 1586,
-        "sentiment": {
-          "positive": 1,
-          "negative": 2,
-          "neutral": 18,
-          "positivePercent": 5,
-          "negativePercent": 10,
-          "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 10,
-      "file": "2026-04-20_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-04-20_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-04-20_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-04-20T07:57:57.592Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺世",
-            3
-          ],
-          [
-            "爱奇艺",
-            3
-          ],
-          [
-            "逐玉",
-            2
-          ],
-          [
-            "的成功在",
-            2
-          ],
-          [
-            "于第三集",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺：《逐玉》的成功在于第三集续看率95%",
-            "author": "姜屁桃看内娱",
-            "time": "1小时前",
-            "likes": "2437",
-            "link": "https://www.xiaohongshu.com/explore/69e5a52e0000000021007416",
-            "navLink": "https://www.xiaohongshu.com/search_result/69e5a52e0000000021007416?xsec_token=AB4v0pbbsaWAkzF2SXhuD7mRyG5H17g-dVynMpqZGpvuQ=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "在2026年爱奇艺世界大会上 爱奇艺首席内容官特别提到 《逐玉》的成功在于第三集续看率95% 即100个人里95个人看到了第三集",
-            "likeCount": 2437
-          },
-          {
-            "title": "爱奇艺新综艺《超燃青春的合唱》首发片花",
-            "author": "木子希同学",
-            "time": "26分钟前",
-            "likes": "109",
-            "link": "https://www.xiaohongshu.com/explore/69e5d61e0000000022003098",
-            "navLink": "https://www.xiaohongshu.com/search_result/69e5d61e0000000022003098?xsec_token=AB4v0pbbsaWAkzF2SXhuD7mbXI75vgICFZJy_WCmmw4ro=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 109
-          },
-          {
-            "title": "敖瑞鹏 来爱奇艺悦享会啦",
-            "author": "Luna放映屋",
-            "time": "3分钟前",
-            "likes": "77",
-            "link": "https://www.xiaohongshu.com/explore/69e5db7c000000001a030a59",
-            "navLink": "https://www.xiaohongshu.com/search_result/69e5db7c000000001a030a59?xsec_token=AB4v0pbbsaWAkzF2SXhuD7mVVgPIXNT8U2mC3gfdIuYD8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 77
-          }
-        ],
-        "totalLikes": 2698,
-        "avgLikes": 300,
-        "sentiment": {
-          "positive": 1,
-          "negative": 2,
-          "neutral": 7,
-          "positivePercent": 10,
-          "negativePercent": 20,
-          "neutralPercent": 70
-        }
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 10,
-      "file": "2026-04-20_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-20T07:57:57.592Z"
-    },
-    {
-      "date": "2026-04-20",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-04-20_爱奇艺_weibo.json",
-      "timestamp": "2026-04-20T07:41:52.103Z"
+      "timestamp": "2026-04-20T09:27:01.968Z"
     },
     {
       "date": "2026-04-20",
@@ -172,7 +14,7 @@
       "platform": "xiaohongshu",
       "count": 0,
       "file": "2026-04-20_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-20T07:41:43.609Z"
+      "timestamp": "2026-04-20T09:26:53.529Z"
     },
     {
       "date": "2026-04-19",
