@@ -34,6 +34,17 @@ ln -s ~/social-monitor-feed/social-monitor-reader ~/.claude/skills/
 
 按提示填入 Feed URL，即可完成配置并开启每日 8:40 自动推送。
 
+## 📊 最新监控分析
+
+## 2026-04-20
+
+暂无新内容
+
+[查看详细数据](./data/2026-04-20_爱奇艺_xiaohongshu.json) · [微博](./data/2026-04-20_爱奇艺_weibo.json)
+
+---
+
+
 ## 📂 数据目录
 
 | 文件 | 说明 |
