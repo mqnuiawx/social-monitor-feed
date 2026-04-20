@@ -3,6 +3,14 @@
     {
       "date": "2026-04-20",
       "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 10,
+      "file": "2026-04-20_爱奇艺_xiaohongshu.json",
+      "timestamp": "2026-04-20T07:57:57.592Z"
+    },
+    {
+      "date": "2026-04-20",
+      "keyword": "爱奇艺",
       "platform": "weibo",
       "count": 21,
       "file": "2026-04-20_爱奇艺_weibo.json",
