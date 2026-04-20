@@ -3,13 +3,13 @@
   "platform": "xiaohongshu",
   "platform_name": "小红书",
   "time_range": "24h",
-  "crawl_time": "2026-04-20T10:24:02.996Z",
-  "count": 8,
+  "crawl_time": "2026-04-20T10:50:10.080Z",
+  "count": 10,
   "items": [
     {
       "title": "2026-2027爱奇艺综艺片单来了🍠",
       "summary": "今日发布23部综艺+8部微综艺片单，包括【综N代】《种地吧4》《说唱巅峰对决2026》《喜剧之王单口季3》《宇宙闪烁请注意2》《音乐缘计划3》《喜欢你我也是6》等；还有【全新综艺IP】《超燃青春的合唱》《快乐七次方》《天才厨人》《我做经纪人》《玫瑰与骑士》《好事在花生》等，#爱奇艺世界大会综艺片单#2026爱奇艺造梦片单#2026爱奇艺世界大会#综艺推荐 #超燃青春的合唱#种地吧4 #说唱巅峰对决2026 #宇宙请闪烁请注意2 #音乐缘计划3 #玫瑰与骑士",
-      "publish_time": "5小时前",
+      "publish_time": "6小时前",
       "view_link": "https://www.xiaohongshu.com/explore/69e5aaeb000000002200dd98",
       "author": "呆子娱乐资讯",
       "likes": "28"
@@ -17,15 +17,15 @@
     {
       "title": "今日路人评价：李兰迪的美貌 超乎我的想象",
       "summary": "比朝雪录那次更美了 果然女人离开男人就会越来越好#爱奇艺世界大会 #喀什恋歌 #李兰迪 #郭俊辰",
-      "publish_time": "13分钟前",
+      "publish_time": "39分钟前",
       "view_link": "https://www.xiaohongshu.com/explore/69e5fb87000000002102e257",
       "author": "一位平平无奇的打工千金",
-      "likes": "45"
+      "likes": "74"
     },
     {
       "title": "今日物料MVP",
       "summary": "i古装真的狂喜 #张新成 #秦谜 #张新成芈元 #爱奇艺世界大会 #古装剧 #历史传奇",
-      "publish_time": "1小时前",
+      "publish_time": "2小时前",
       "view_link": "https://www.xiaohongshu.com/explore/69e5e6970000000022001499",
       "author": "momo",
       "likes": "69"
@@ -39,20 +39,36 @@
       "likes": "2"
     },
     {
+      "title": "今日感受：这个女孩了不得，这个男人无敌了！",
+      "summary": "今日感受：这个女孩了不得，这个男人无敌了！",
+      "publish_time": "6分钟前",
+      "view_link": "https://www.xiaohongshu.com/explore/69e603290000000023017bc4",
+      "author": "一半咸鱼",
+      "likes": "7"
+    },
+    {
       "title": "侯明昊 艾米《雀骨》|又燃又有CP感",
       "summary": "侯明昊 艾米《雀骨》|又燃又有CP感",
       "publish_time": "1小时前",
       "view_link": "https://www.xiaohongshu.com/explore/69e5e931000000001a031f03",
       "author": "木子希同学",
-      "likes": "43"
+      "likes": "45"
+    },
+    {
+      "title": "爱奇艺疯了！AI艺人库引爆全网争议",
+      "summary": "爱奇艺疯了！AI艺人库引爆全网争议",
+      "publish_time": "2小时前",
+      "view_link": "https://www.xiaohongshu.com/explore/69e5e5e1000000001f00243a",
+      "author": "Ai科技速报",
+      "likes": "赞"
     },
     {
       "title": "瞳盟星演员宋郁河新剧《入局》今日官宣",
       "summary": "瞳盟星演员宋郁河新剧《入局》今日官宣",
-      "publish_time": "8小时前",
+      "publish_time": "9小时前",
       "view_link": "https://www.xiaohongshu.com/explore/69e4f22e0000000022026296",
       "author": "瞳盟星",
-      "likes": "7"
+      "likes": "8"
     },
     {
       "title": "今日预告｜下午悦享会和好朋友们一起唠嗑！",
@@ -65,10 +81,10 @@
     {
       "title": "众星今日亮相爱奇艺悦享会状态一览",
       "summary": "众星今日亮相爱奇艺悦享会状态一览",
-      "publish_time": "18分钟前",
+      "publish_time": "44分钟前",
       "view_link": "https://www.xiaohongshu.com/explore/69e5fa38000000002101261d",
       "author": "Star Fashion星势",
-      "likes": "23"
+      "likes": "41"
     }
   ],
   "insights": {
@@ -97,14 +113,20 @@
     "sentiment": {
       "level": "中性",
       "indicator": "🟢",
-      "negative_ratio": 13,
-      "positive_ratio": 13
+      "negative_ratio": 20,
+      "positive_ratio": 10
     },
     "key_findings": [
-      "共抓取8条内容",
+      "共抓取10条内容",
       "热门话题: #爱奇艺世界大会、#爱奇艺世界大会综艺片单、#2026爱奇艺世界大会、#超燃青春的合唱、#说唱巅峰对决2026"
     ],
     "top_items": [
+      {
+        "title": "今日路人评价：李兰迪的美貌 超乎我的想象",
+        "author": "一位平平无奇的打工千金",
+        "likes": "74",
+        "link": "https://www.xiaohongshu.com/explore/69e5fb87000000002102e257"
+      },
       {
         "title": "今日物料MVP",
         "author": "momo",
@@ -118,22 +140,16 @@
         "link": "https://www.xiaohongshu.com/explore/69e561f8000000001a031b0e"
       },
       {
-        "title": "今日路人评价：李兰迪的美貌 超乎我的想象",
-        "author": "一位平平无奇的打工千金",
-        "likes": "45",
-        "link": "https://www.xiaohongshu.com/explore/69e5fb87000000002102e257"
-      },
-      {
         "title": "侯明昊 艾米《雀骨》|又燃又有CP感",
         "author": "木子希同学",
-        "likes": "43",
+        "likes": "45",
         "link": "https://www.xiaohongshu.com/explore/69e5e931000000001a031f03"
       },
       {
-        "title": "2026-2027爱奇艺综艺片单来了🍠",
-        "author": "呆子娱乐资讯",
-        "likes": "28",
-        "link": "https://www.xiaohongshu.com/explore/69e5aaeb000000002200dd98"
+        "title": "众星今日亮相爱奇艺悦享会状态一览",
+        "author": "Star Fashion星势",
+        "likes": "41",
+        "link": "https://www.xiaohongshu.com/explore/69e5fa38000000002101261d"
       }
     ]
   }
