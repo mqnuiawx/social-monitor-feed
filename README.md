@@ -38,12 +38,23 @@ ln -s ~/social-monitor-feed/social-monitor-reader ~/.claude/skills/
 
 ## 2026-04-20
 
-暂无新内容
+🟢 正常监控 - 小红书8条，微博0条
+
+**热点内容**：
+- 📱 今日物料MVP (69赞)
+- 📱 今日预告｜下午悦享会和好朋友们一起唠嗑！ (64赞)
 
 [查看详细数据](./data/2026-04-20_爱奇艺_xiaohongshu.json) · [微博](./data/2026-04-20_爱奇艺_weibo.json)
 
 ---
 
+
+
+## 2026-04-20
+
+暂无新内容
+
+[查看详细数据](./data/2026-04-20_爱奇艺_xiaohongshu.json) · [微博](./data/2026-04-20_爱奇艺_weibo.json)
 
 ## 📂 数据目录
 
