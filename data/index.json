@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "date": "2026-04-21",
+      "keyword": "爱奇艺",
+      "platform": "zhihu",
+      "count": 0,
+      "file": "2026-04-21_爱奇艺_zhihu.json",
+      "timestamp": "2026-04-21T02:52:21.004Z"
+    },
+    {
+      "date": "2026-04-21",
+      "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 22,
+      "file": "2026-04-21_爱奇艺_weibo.json",
+      "timestamp": "2026-04-21T02:52:12.174Z"
+    },
+    {
+      "date": "2026-04-21",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 26,
+      "file": "2026-04-21_爱奇艺_xiaohongshu.json",
+      "timestamp": "2026-04-21T02:52:03.632Z"
+    },
+    {
       "date": "2026-04-20",
       "keyword": "爱奇艺",
       "platform": "weibo",
