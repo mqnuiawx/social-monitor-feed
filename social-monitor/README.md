@@ -8,6 +8,7 @@
 - ✅ **定时监控**: 自动定期抓取最新内容
 - ✅ **智能过滤**: 按时间范围筛选内容
 - ✅ **结构化报告**: 清晰的数据呈现
+- ✅ **智能洞察**: 🆕 自动生成 `insight-2` 总结分析
 - ✅ **去重机制**: 避免重复内容
 - ✅ **历史记录**: 可选保存历史数据
 
@@ -44,11 +45,26 @@ git clone [your-repo-url] social-monitor
 # 直接使用，无需参数！
 /social-monitor
 ```
-**默认行为**: 监控小红书上最近1天关于"爱奇艺"的内容
+**默认行为**: 监控小红书上最近4小时关于"爱奇艺"的内容
+
+### 快捷脚本（推荐）
+
+```bash
+# 使用快捷脚本监控最近4小时的内容
+./scripts/monitor-iqiyi-4h.sh
+
+# 分析最新抓取的数据
+node scripts/analyze-data.mjs
+```
 
 ### 自定义用法
 
 ```bash
+# 监控不同时间范围
+node scripts/monitor.mjs 爱奇艺 xiaohongshu 4h    # 最近4小时
+node scripts/monitor.mjs 爱奇艺 xiaohongshu 12h   # 最近12小时
+node scripts/monitor.mjs 爱奇艺 xiaohongshu 1天   # 最近1天
+
 # 监控微博上的爱奇艺
 /social-monitor 爱奇艺 微博 1天
 
@@ -56,6 +72,23 @@ git clone [your-repo-url] social-monitor
 /social-monitor 人工智能 微博 12小时
 /social-monitor Claude 知乎 3天
 ```
+
+### 数据分析
+
+```bash
+# 分析最新抓取的数据
+node scripts/analyze-data.mjs
+
+# 分析指定数据文件
+node scripts/analyze-data.mjs data/2026-04-20T07-57-57_爱奇艺_xiaohongshu.json
+```
+
+**分析功能包括**:
+- ⏰ 时间分布统计
+- 👍 互动数据分析（点赞数统计）
+- 🔥 热门内容识别（Top 3）
+- 🏷️ 热门关键词���取
+- 👤 活跃作者排名
 
 ### 设置定时任务
 

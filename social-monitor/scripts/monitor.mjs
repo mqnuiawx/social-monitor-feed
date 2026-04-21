@@ -13,7 +13,9 @@ import { execSync } from 'child_process';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const SKILL_DIR = join(__dirname, '..');
-const WEB_ACCESS_DIR = join(SKILL_DIR, '../web-access');
+// 优先使用 ~/.claude/skills/web-access，如果不存在则尝试相对路径
+const HOME_WEB_ACCESS = join(process.env.HOME, '.claude/skills/web-access');
+const WEB_ACCESS_DIR = existsSync(HOME_WEB_ACCESS) ? HOME_WEB_ACCESS : join(SKILL_DIR, '../web-access');
 
 // CDP Proxy 地址
 const CDP_BASE = 'http://localhost:3456';
@@ -141,20 +143,25 @@ async function fetchWithCDP(url, platform, timeRange) {
       console.log(`✅ 第一批提取 ${firstBatch.length} 条`);
     }
 
-    // 4. 滚动加载更多
-    if (results.length < config.settings.maxResultsPerPlatform) {
-      console.log(`📜 滚动加载更多...`);
+    // 4. 滚动加载更多（多次滚动以获取更多内容）
+    const maxScrolls = 3; // 最多滚动3次
+    for (let i = 0; i < maxScrolls && results.length < config.settings.maxResultsPerPlatform; i++) {
+      console.log(`📜 滚动加载更多 (${i + 1}/${maxScrolls})...`);
       cdpGet(`/scroll?target=${tabId}&direction=bottom`);
       await sleep(config.settings.scrollDelay || 1500);
 
       const evalData2 = cdpPost(`/eval?target=${tabId}`, extractScript);
-      const secondBatch = evalData2?.value ?? evalData2?.result ?? [];
-      if (Array.isArray(secondBatch)) {
-        const newItems = secondBatch.filter(
+      const newBatch = evalData2?.value ?? evalData2?.result ?? [];
+      if (Array.isArray(newBatch)) {
+        const newItems = newBatch.filter(
           item => !results.some(existing => existing.link === item.link)
         );
+        if (newItems.length === 0) {
+          console.log(`⚠️  没有新内容了，停止滚动`);
+          break;
+        }
         results.push(...newItems);
-        console.log(`✅ 新增 ${newItems.length} 条`);
+        console.log(`✅ 新增 ${newItems.length} 条（总计 ${results.length} 条）`);
       }
     }
 
@@ -166,6 +173,14 @@ async function fetchWithCDP(url, platform, timeRange) {
     // 6. 时间过滤
     const filtered = filterByTimeRange(results, timeRange);
     console.log(`📅 时间过滤后剩余 ${filtered.length} 条（共抓取 ${results.length} 条）`);
+
+    // 调试：显示前3条的时间信息
+    if (results.length > 0 && filtered.length === 0) {
+      console.log(`⚠️  调试信息 - 前3条内容的时间:`);
+      results.slice(0, 3).forEach((item, i) => {
+        console.log(`  ${i + 1}. "${item.title.substring(0, 30)}" - 时间: ${item.time}`);
+      });
+    }
 
     // 7. 补充摘要（进入详情页抓正文）
     await enrichWithSummary(filtered, platform);
@@ -459,6 +474,84 @@ function parseTimeText(text) {
 }
 
 /**
+ * 生成智能洞察总结
+ */
+function generateInsight(keyword, platform, results) {
+  if (results.length === 0) {
+    return "暂无数据，无法生成洞察。";
+  }
+
+  const platformName = config.platforms[platform]?.name || platform;
+
+  // 统计高互动内容（点赞数 > 1000）
+  const highEngagement = results.filter(item => {
+    const likes = item.likes?.toString().replace(/[^\d]/g, '') || '0';
+    return parseInt(likes) > 1000;
+  });
+
+  // 提取关键话题（从标题中）
+  const topicKeywords = {};
+  results.forEach(item => {
+    const title = item.title || '';
+    // 简单的关键词提取（可以优化）
+    const words = title.split(/[，。！？、\s]+/).filter(w => w.length > 2 && w.length < 10);
+    words.forEach(word => {
+      topicKeywords[word] = (topicKeywords[word] || 0) + 1;
+    });
+  });
+
+  const sortedTopics = Object.entries(topicKeywords)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([word]) => word);
+
+  // 生成洞察
+  let insight = `【${platformName}·${keyword}】监控洞察\n\n`;
+  insight += `📊 数据概览：\n`;
+  insight += `- 共抓取 ${results.length} 条内容\n`;
+  insight += `- 高互动内容（>1000赞）：${highEngagement.length} 条\n\n`;
+
+  if (highEngagement.length > 0) {
+    insight += `🔥 热门内容：\n`;
+    highEngagement.slice(0, 3).forEach((item, i) => {
+      insight += `${i + 1}. ${item.title}（${item.likes}）\n`;
+    });
+    insight += `\n`;
+  }
+
+  if (sortedTopics.length > 0) {
+    insight += `🏷️ 热门话题：${sortedTopics.join('、')}\n\n`;
+  }
+
+  // 情感倾向分析（简单版）
+  const negativeWords = ['失望', '糟糕', '差', '烂', '坑', '骗', '垃圾', '疯了'];
+  const positiveWords = ['好', '赞', '棒', '优秀', '精彩', '成功', '喜欢'];
+
+  let negativeCount = 0;
+  let positiveCount = 0;
+
+  results.forEach(item => {
+    const text = (item.title + ' ' + (item.summary || item.content || '')).toLowerCase();
+    negativeWords.forEach(word => {
+      if (text.includes(word)) negativeCount++;
+    });
+    positiveWords.forEach(word => {
+      if (text.includes(word)) positiveCount++;
+    });
+  });
+
+  if (negativeCount > positiveCount * 1.5) {
+    insight += `💡 情感倾向：负面情绪较多，建议关注用户反馈\n`;
+  } else if (positiveCount > negativeCount * 1.5) {
+    insight += `💡 情感倾向：正面评价居多，品牌口碑良好\n`;
+  } else {
+    insight += `💡 情感倾向：正负面评价相当，保持中性\n`;
+  }
+
+  return insight;
+}
+
+/**
  * 保存结果到 JSON 文件
  */
 async function saveResults(keyword, platform, timeRange, results) {
@@ -469,12 +562,16 @@ async function saveResults(keyword, platform, timeRange, results) {
   const filename = `${timestamp}_${keyword}_${platform}.json`;
   const filepath = join(dataDir, filename);
 
+  // 生成智能洞察
+  const insight2 = generateInsight(keyword, platform, results);
+
   writeFileSync(filepath, JSON.stringify({
     keyword,
     platform,
     time_range: timeRange,
     crawl_time: new Date().toISOString(),
     count: results.length,
+    'insight-2': insight2,
     items: results
   }, null, 2), 'utf-8');
 
