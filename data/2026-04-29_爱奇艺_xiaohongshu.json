@@ -1,0 +1,21 @@
+{
+  "keyword": "爱奇艺",
+  "platform": "xiaohongshu",
+  "platform_name": "小红书",
+  "time_range": "24h",
+  "crawl_time": "2026-04-29T02:49:05.096Z",
+  "count": 0,
+  "items": [],
+  "insights": {
+    "hot_topics": [],
+    "sentiment": {
+      "level": "无数据",
+      "indicator": "⚪",
+      "negative_ratio": 0
+    },
+    "key_findings": [
+      "小红书上最近时间段内暂无关于\"爱奇艺\"的新内容"
+    ],
+    "top_items": []
+  }
+}
