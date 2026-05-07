@@ -1,0 +1,74 @@
+{
+  "keyword": "爱奇艺",
+  "platform": "xiaohongshu",
+  "platform_name": "小红书",
+  "time_range": "24h",
+  "crawl_time": "2026-05-07T10:27:38.019Z",
+  "count": 2,
+  "items": [
+    {
+      "title": "她重生后，凭实力逆袭不憋屈！",
+      "summary": "重生即死局，她的逆袭之路，藏着多少秘密？今日开播，一起来解锁~#吴纯一  #黑龙与恶凤  #黑龙与恶凤开播  #爱奇艺短剧  #短剧  #好剧推荐",
+      "publish_time": "8小时前",
+      "view_link": "https://www.xiaohongshu.com/explore/69f178850000000037036de4",
+      "author": "爱奇艺短剧",
+      "likes": "6"
+    },
+    {
+      "title": "网大《东北奇妙故事之摇篮曲》今日开播",
+      "summary": "片名：东北奇妙故事之摇篮曲 又名：东北奇妙物语系列 类型：剧情 / 惊悚 播出日期：2026-05-06(今天) 播出平台：爱奇艺 导演：刘知焕 / 乔涵 编剧：黄彦霏 主演：李明 / 张雪菡 / 冯筱童 剧情简介：殡葬民俗与悬疑探案交织，借一座老宅、一口古井，揭开三代人缠绕的执念与秘密。 影片以阿尔茨海默病家庭为切口，用科学精神破除迷信迷障，在悬疑与反转中传递温暖主题。 #红薯地影视狂飙季 #我在小红书追电影 #网大 #电影东北奇妙故事之摇篮曲 #今日开播",
+      "publish_time": "1天前",
+      "view_link": "https://www.xiaohongshu.com/explore/69facd5a00000000220262d3",
+      "author": "娱娱鱼",
+      "likes": "4"
+    }
+  ],
+  "insights": {
+    "hot_topics": [
+      {
+        "topic": "#吴纯一",
+        "count": 1
+      },
+      {
+        "topic": "#黑龙与恶凤",
+        "count": 1
+      },
+      {
+        "topic": "#黑龙与恶凤开播",
+        "count": 1
+      },
+      {
+        "topic": "#爱奇艺短剧",
+        "count": 1
+      },
+      {
+        "topic": "#短剧",
+        "count": 1
+      }
+    ],
+    "sentiment": {
+      "level": "中性",
+      "indicator": "🟢",
+      "negative_ratio": 0,
+      "positive_ratio": 50
+    },
+    "key_findings": [
+      "共抓取2条内容",
+      "热门话题: #吴纯一、#黑龙与恶凤、#黑龙与恶凤开播、#爱奇艺短剧、#短剧"
+    ],
+    "top_items": [
+      {
+        "title": "她重生后，凭实力逆袭不憋屈！",
+        "author": "爱奇艺短剧",
+        "likes": "6",
+        "link": "https://www.xiaohongshu.com/explore/69f178850000000037036de4"
+      },
+      {
+        "title": "网大《东北奇妙故事之摇篮曲》今日开播",
+        "author": "娱娱鱼",
+        "likes": "4",
+        "link": "https://www.xiaohongshu.com/explore/69facd5a00000000220262d3"
+      }
+    ]
+  }
+}
