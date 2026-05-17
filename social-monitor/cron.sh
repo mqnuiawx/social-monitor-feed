@@ -20,6 +20,20 @@ run_monitor() {
     || log "❌ 抓取失败，查看日志: $LOG_FILE"
 }
 
+# 初始化 Feed 仓库（容器首次启动时 clone）
+FEED_REPO="/root/social-monitor-feed"
+if [ ! -d "$FEED_REPO/.git" ]; then
+  log "📦 初始化 Feed 仓库..."
+  if [ -n "$GITHUB_TOKEN" ]; then
+    REPO_URL="https://${GITHUB_TOKEN}@github.com/mqnuiawx/social-monitor-feed.git"
+  else
+    REPO_URL="git@github.com:mqnuiawx/social-monitor-feed.git"
+  fi
+  git clone "$REPO_URL" "$FEED_REPO" && log "✅ Feed 仓库 clone 完成" || { log "❌ Feed 仓库 clone 失败"; exit 1; }
+else
+  log "✅ Feed 仓库已存在，跳过 clone"
+fi
+
 log "⏰ 定时任务已启动，每天 08:45 执行"
 
 while true; do

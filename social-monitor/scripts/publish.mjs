@@ -32,7 +32,8 @@ async function publish(dataFile) {
   console.log(`   内容数: ${data.count}`);
 
   // 2. 检查 feed 仓库
-  const feedRepo = join(process.env.HOME, 'social-monitor-feed');
+  // 容器内用 FEED_REPO_PATH 环境变量指定路径，本地开发回退到 ~/social-monitor-feed
+  const feedRepo = process.env.FEED_REPO_PATH || join(process.env.HOME, 'social-monitor-feed');
   if (!existsSync(feedRepo)) {
     console.log(`⚠️  Feed 仓库不存在: ${feedRepo}`);
     console.log(`   请先运行: bash setup-feed-repo.sh [你的GitHub用户名]`);
