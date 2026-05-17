@@ -1,5 +1,5 @@
 # 使用 Playwright 官方镜像，已内置 Chromium 及所有依赖
-FROM mcr.microsoft.com/playwright:v1.44.0-noble
+FROM mcr.microsoft.com/playwright:v1.60.0-noble
 
 WORKDIR /app
 
