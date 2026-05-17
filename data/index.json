@@ -3,6 +3,74 @@
     {
       "date": "2026-05-17",
       "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 2,
+      "file": "2026-05-17_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-17_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-17_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-17T08:45:26.097Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "家业今日",
+            1
+          ],
+          [
+            "点半爱奇",
+            1
+          ],
+          [
+            "艺开播",
+            1
+          ],
+          [
+            "剧粉们一",
+            1
+          ],
+          [
+            "起来实时",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "家业今日7点半爱奇艺开播！🥳🥳🥳",
+            "author": "皮皮",
+            "time": "1小时前",
+            "likes": "14",
+            "link": "https://www.xiaohongshu.com/explore/6a0969fa0000000008001c3e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0969fa0000000008001c3e?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkWgLdp4FZVoc_-4b5_QogOo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "剧粉们一起来实时追剧吧#电视剧 #家业 #好看国产剧推荐 #鱼灯 #徽墨 #宅斗 #倭寇 #家产 #争气 #旅游",
+            "likeCount": 14
+          },
+          {
+            "title": "ican爱奇艺大赛国一作品分享",
+            "author": "灵火芝芝",
+            "time": "5小时前",
+            "likes": "4",
+            "link": "https://www.xiaohongshu.com/explore/6a0938e9000000003501ce8a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0938e9000000003501ce8a?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkSAo4hTueXpvryR8xiRYd3k=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "辅导原创 侵权必究",
+            "likeCount": 4
+          }
+        ],
+        "totalLikes": 18,
+        "avgLikes": 9,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 2,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "keyword": "爱奇艺",
       "platform": "weibo",
       "count": 19,
       "file": "2026-05-17_爱奇艺_weibo.json",

@@ -1,16 +1,26 @@
 {
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
-  "time_range": "1h",
-  "crawl_time": "2026-05-17T04:01:26.438Z",
-  "count": 1,
-  "insight-2": "【小红书·爱奇艺】监控洞察\n\n📊 数据概览：\n- 共抓取 1 条内容\n- 高互动内容（>1000赞）：0 条\n\n💡 情感倾向：正负面评价相当，保持中性\n",
+  "time_range": "24h",
+  "crawl_time": "2026-05-17T08:45:26.097Z",
+  "count": 2,
+  "insight-2": "【小红书·爱奇艺】监控洞察\n\n📊 数据概览：\n- 共抓取 2 条内容\n- 高互动内容（>1000赞）：0 条\n\n🏷️ 热门话题：🥳🥳🥳\n\n💡 情感倾向：正面评价居多，品牌口碑良好\n",
   "items": [
+    {
+      "title": "家业今日7点半爱奇艺开播！🥳🥳🥳",
+      "author": "皮皮",
+      "time": "1小时前",
+      "likes": "14",
+      "link": "https://www.xiaohongshu.com/explore/6a0969fa0000000008001c3e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a0969fa0000000008001c3e?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkWgLdp4FZVoc_-4b5_QogOo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "剧粉们一起来实时追剧吧#电视剧 #家业 #好看国产剧推荐 #鱼灯 #徽墨 #宅斗 #倭寇 #家产 #争气 #旅游"
+    },
     {
       "title": "ican爱奇艺大赛国一作品分享",
       "author": "灵火芝芝",
-      "time": "19分钟前",
-      "likes": "赞",
+      "time": "5小时前",
+      "likes": "4",
       "link": "https://www.xiaohongshu.com/explore/6a0938e9000000003501ce8a",
       "navLink": "https://www.xiaohongshu.com/search_result/6a0938e9000000003501ce8a?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkSAo4hTueXpvryR8xiRYd3k=&xsec_source=",
       "platform": "xiaohongshu",
