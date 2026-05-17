@@ -122,11 +122,19 @@ async function fetchWithPlaywright(url, platform, timeRange) {
     page = await context.newPage();
     // 1. 打开搜索页
     console.log(`📖 打开页面...`);
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
-    console.log(`✅ 页面已加载`);
+    // 用 domcontentloaded 而非 networkidle，避免小红书二次跳转导致 context 销毁
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    // 等待页面稳定（处理可能的重定向和动态渲染）
+    await sleep(5000);
+    console.log(`✅ 页面已加载，当前 URL: ${page.url()}`);
+
+    // 如果被重定向到登录页，提前退出
+    if (page.url().includes('login') || page.url().includes('signin')) {
+      throw new Error(`Cookie 已失效，被重定向到登录页: ${page.url()}`);
+    }
 
     // 2. 等待内容渲染
-    await sleep(3000);
+    await sleep(2000);
 
     // 3. 提取内容（第一次）
     console.log(`📊 提取内容...`);
@@ -223,7 +231,7 @@ async function enrichWithSummary(items, platform, context) {
   for (const item of targets) {
     const detailPage = await context.newPage();
     try {
-      await detailPage.goto(item.navLink || item.link, { waitUntil: 'networkidle', timeout: 20000 });
+      await detailPage.goto(item.navLink || item.link, { waitUntil: 'domcontentloaded', timeout: 20000 });
       await sleep(2500);
 
       const summary = await detailPage.evaluate((sel) => {
