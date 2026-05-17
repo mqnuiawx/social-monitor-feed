@@ -65,9 +65,21 @@ function loadCookies(platform) {
     console.warn(`⚠️  Cookie 文件不存在: ${cookiePath}，将以未登录状态抓取`);
     return [];
   }
-  const cookies = JSON.parse(readFileSync(cookiePath, 'utf-8'));
-  console.log(`✅ 已加载 ${cookies.length} 个 Cookie (${platform})`);
-  return cookies;
+  const rawCookies = JSON.parse(readFileSync(cookiePath, 'utf-8'));
+  console.log(`✅ 已加载 ${rawCookies.length} 个 Cookie (${platform})`);
+
+  // 清洗 sameSite 字段，Playwright 只接受 Strict|Lax|None
+  const SAME_SITE_MAP = {
+    strict: 'Strict', lax: 'Lax', none: 'None',
+    no_restriction: 'None', unspecified: 'Lax',
+  };
+  return rawCookies.map(c => {
+    const { sameSite, ...rest } = c;
+    const normalized = sameSite
+      ? SAME_SITE_MAP[sameSite.toLowerCase()] ?? 'Lax'
+      : undefined;
+    return normalized ? { ...rest, sameSite: normalized } : rest;
+  });
 }
 
 /**
@@ -92,21 +104,22 @@ async function fetchWithPlaywright(url, platform, timeRange) {
     args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
   });
 
-  const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    viewport: { width: 1280, height: 800 }
-  });
-
-  // 加载 Cookie
-  const cookies = loadCookies(platform);
-  if (cookies.length > 0) {
-    await context.addCookies(cookies);
-  }
-
-  const page = await context.newPage();
+  let context, page;
   const results = [];
 
   try {
+    context = await browser.newContext({
+      userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      viewport: { width: 1280, height: 800 }
+    });
+
+    // 加载 Cookie
+    const cookies = loadCookies(platform);
+    if (cookies.length > 0) {
+      await context.addCookies(cookies);
+    }
+
+    page = await context.newPage();
     // 1. 打开搜索页
     console.log(`📖 打开页面...`);
     await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
@@ -168,8 +181,8 @@ async function fetchWithPlaywright(url, platform, timeRange) {
     console.error(`❌ Playwright 抓取失败:`, error.message);
     throw error;
   } finally {
-    await page.close();
-    await context.close();
+    await page?.close();
+    await context?.close();
     await browser.close();
   }
 }
@@ -242,6 +255,7 @@ async function enrichWithSummary(items, platform, context) {
  */
 function getExtractScript(platform) {
   const scripts = {
+    // ⚠️ 以下函数会被序列化到浏览器上下文中执行，不能引用任何 Node.js 闭包变量
     xiaohongshu: () => {
       const items = [];
       const cards = document.querySelectorAll('section.note-item');
