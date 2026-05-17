@@ -1,0 +1,35 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺大",
+      1
+    ],
+    [
+      "赛国一作",
+      1
+    ],
+    [
+      "品分享",
+      1
+    ],
+    [
+      "辅导原创",
+      1
+    ],
+    [
+      "侵权必究",
+      1
+    ]
+  ],
+  "topItems": [],
+  "totalLikes": 0,
+  "avgLikes": 0,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
