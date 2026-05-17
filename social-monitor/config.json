@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "defaultKeyword": "爱奇艺",
+  "tasks": [
+    {
+      "id": "task_1776739782234",
+      "name": "每日爱奇艺监控",
+      "keywords": ["爱奇艺"],
+      "platforms": ["xiaohongshu", "weibo"],
+      "schedule": "45 8 * * *",
+      "timeRange": "24h",
+      "cronId": "f72aabdf",
+      "enabled": true,
+      "createdAt": "2026-04-21T02:49:42.234Z",
+      "lastRun": null,
+      "updatedAt": "2026-05-17T00:00:00.000Z"
+    }
+  ],
+  "platforms": {
+    "xiaohongshu": {
+      "name": "小红书",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword={keyword}&source=web_search_result_notes&sortType=time",
+      "enabled": true,
+      "requiresLogin": true,
+      "useCDP": false
+    },
+    "weibo": {
+      "name": "微博",
+      "searchUrl": "https://s.weibo.com/weibo?q={keyword}",
+      "enabled": true,
+      "requiresLogin": true,
+      "useCDP": false
+    },
+    "zhihu": {
+      "name": "知乎",
+      "searchUrl": "https://www.zhihu.com/search?type=content&q={keyword}",
+      "enabled": false,
+      "requiresLogin": false,
+      "useCDP": false
+    }
+  },
+  "settings": {
+    "defaultKeyword": "爱奇艺",
+    "defaultPlatform": "xiaohongshu",
+    "defaultTimeRange": "24h",
+    "maxResultsPerPlatform": 50,
+    "scrollDelay": 800,
+    "retryAttempts": 3,
+    "maxSummaryFetch": 5,
+    "summaryFetchDelay": 1200,
+    "enableDeduplication": true,
+    "saveHistory": true,
+    "historyPath": "./data/"
+  }
+}
