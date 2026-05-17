@@ -3,6 +3,85 @@
     {
       "date": "2026-05-17",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 21,
+      "file": "2026-05-17_爱奇艺_weibo.json",
+      "analysisFile": "2026-05-17_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-05-17_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-05-17T08:45:37.509Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "家业",
+            12
+          ],
+          [
+            "家业开播",
+            11
+          ],
+          [
+            "展开",
+            9
+          ],
+          [
+            "给成毅",
+            7
+          ],
+          [
+            "优酷和爱",
+            6
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45804",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45804
+          },
+          {
+            "title": "优酷和爱奇艺两大平台卡点为财神爷成毅送生日祝福! ​",
+            "content": "优酷和爱奇艺两大平台卡点为财神爷成毅送生日祝福! ​",
+            "author": "言情小姐姐",
+            "time": "今天01:04",
+            "likes": "3773",
+            "link": "https://weibo.com/5387153978/QFGZLCnyd?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "优酷和爱奇艺两大平台卡点为财神爷成毅送生日祝福! ​",
+            "likeCount": 3773
+          },
+          {
+            "title": "爱奇艺有点不正常！新起的耗子一共发了五条微博，全是关于成毅的，关注列表也全是成毅的作品！ ​",
+            "content": "爱奇艺有点不正常！新起的耗子一共发了五条微博，全是关于成毅的，关注列表也全是成毅的作品！ ​",
+            "author": "小岛兴田",
+            "time": "05月16日 14:17",
+            "likes": "3230",
+            "link": "https://weibo.com/1543579924/QFCLcwp7d?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺有点不正常！新起的耗子一共发了五条微博，全是关于成毅的，关注列表也全是成毅的作品！ ​",
+            "likeCount": 3230
+          }
+        ],
+        "totalLikes": 69124,
+        "avgLikes": 3840,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 19,
+          "positivePercent": 10,
+          "negativePercent": 0,
+          "neutralPercent": 90
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 2,
       "file": "2026-05-17_爱奇艺_xiaohongshu.json",
