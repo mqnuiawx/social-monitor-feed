@@ -1,0 +1,8 @@
+{
+  "name": "social-monitor",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
