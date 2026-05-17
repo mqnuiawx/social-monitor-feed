@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  social-monitor:
+    build: .
+    container_name: social-monitor
+    restart: unless-stopped
+
+    # 注入 GitHub Token（用于 git push）
+    environment:
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - GIT_AUTHOR_NAME=Social Monitor Bot
+      - GIT_AUTHOR_EMAIL=monitor@social-monitor
+      - GIT_COMMITTER_NAME=Social Monitor Bot
+      - GIT_COMMITTER_EMAIL=monitor@social-monitor
+
+    volumes:
+      # 持久化 Cookie（容器重建不丢失）
+      - ./cookies:/app/cookies
+      # 持久化抓取数据
+      - ./data:/app/data
+      # 持久化日志
+      - ./logs:/var/log
+
+    # 共享宿主机内存，避免 Chromium OOM
+    shm_size: '2gb'

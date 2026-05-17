@@ -8,6 +8,7 @@ import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { existsSync, readFileSync, writeFileSync, copyFileSync, mkdirSync } from 'fs';
 import { execSync } from 'child_process';
+import { generateHotspotReport } from './generate-hotspot-report.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -57,6 +58,18 @@ async function publish(dataFile) {
   console.log(`📋 保存历史: ${date}_${data.keyword}_${data.platform}.json`);
   copyFileSync(dataFile, historyFile);
 
+  // 4.5. 生成热点分析报告
+  console.log(`📝 生成热点分析报告...`);
+  const { report, insights } = generateHotspotReport(data);
+
+  const reportFile = join(feedDataDir, `${date}_${data.keyword}_${data.platform}_analysis.md`);
+  writeFileSync(reportFile, report, 'utf-8');
+  console.log(`✅ 报告已生成: ${date}_${data.keyword}_${data.platform}_analysis.md`);
+
+  // 同时保存洞察数据（JSON格式，供程序读取）
+  const insightsFile = join(feedDataDir, `${date}_${data.keyword}_${data.platform}_insights.json`);
+  writeFileSync(insightsFile, JSON.stringify(insights, null, 2), 'utf-8');
+
   // 5. 更新索引文件
   console.log(`📝 更新索引...`);
   const indexFile = join(feedDataDir, 'index.json');
@@ -72,7 +85,10 @@ async function publish(dataFile) {
     platform: data.platform,
     count: data.count,
     file: `${date}_${data.keyword}_${data.platform}.json`,
-    timestamp: data.crawl_time
+    analysisFile: `${date}_${data.keyword}_${data.platform}_analysis.md`,
+    insightsFile: `${date}_${data.keyword}_${data.platform}_insights.json`,
+    timestamp: data.crawl_time,
+    insights: insights // 包含热点洞察摘要
   });
 
   // 只保留最近 30 条更新记录
@@ -100,7 +116,17 @@ async function publish(dataFile) {
     execSync(`git commit -m "${commitMsg}"`, { stdio: 'inherit' });
 
     // 推送
-    execSync('git push origin main', { stdio: 'inherit' });
+    // 用 GITHUB_TOKEN 构造认证 URL（容器内无 SSH Key 时使用）
+    const token = process.env.GITHUB_TOKEN;
+    if (token) {
+      const remoteUrl = execSync('git config --get remote.origin.url', { encoding: 'utf-8' }).trim();
+      // 将 https://github.com/user/repo.git 改为 https://<token>@github.com/user/repo.git
+      const authedUrl = remoteUrl.replace('https://github.com/', `https://${token}@github.com/`);
+      execSync(`git push "${authedUrl}" main`, { stdio: 'inherit' });
+    } else {
+      // 没有 Token 时走 SSH（本地开发）
+      execSync('git push origin main', { stdio: 'inherit' });
+    }
 
     console.log(`✅ 发布成功！`);
 
