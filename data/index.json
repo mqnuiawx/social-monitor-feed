@@ -1,6 +1,63 @@
 {
   "updates": [
     {
+      "date": "2026-05-18",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 1,
+      "file": "2026-05-18_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-18_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-18_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-18T08:45:20.941Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺家",
+            1
+          ],
+          [
+            "业云包场",
+            1
+          ],
+          [
+            "真让人无",
+            1
+          ],
+          [
+            "好久没看",
+            1
+          ],
+          [
+            "杨紫的剧",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺家业云包场真让人无语",
+            "author": "郝稫福",
+            "time": "昨天 20:56",
+            "likes": "9",
+            "link": "https://www.xiaohongshu.com/explore/6a09bb0a000000000800146b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a09bb0a000000000800146b?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkTx82k6rZhknjDcvq5PCVfU=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "好久没看杨紫的剧了，想试着去抢一下云包场 也是第一次抢爱奇艺的云包场，它这个每次要先报名才能算时长，不像别的软件的可以小屏再点进云包场页面，到时候刷新一下就好了，但是爱奇艺这个就不行！（之前抢到过腾讯和优酷的） 第一次见定档出来第一集都要vip才能看的。。。。没有vip抢观看十五分钟的三十分钟的云包场要慢倍速看几遍前十分钟的内容，真无语。按理来说不是没有会员的人更需要这个云包场吗？本来很期待来着#",
+            "likeCount": 9
+          }
+        ],
+        "totalLikes": 9,
+        "avgLikes": 9,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "positivePercent": 100,
+          "negativePercent": 0,
+          "neutralPercent": 0
+        }
+      }
+    },
+    {
       "date": "2026-05-17",
       "keyword": "爱奇艺",
       "platform": "weibo",
