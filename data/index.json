@@ -1,6 +1,85 @@
 {
   "updates": [
     {
+      "date": "2026-05-19",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 6,
+      "file": "2026-05-19_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-19_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-19_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-19T08:45:44.128Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "亿元",
+            13
+          ],
+          [
+            "爱奇艺第",
+            7
+          ],
+          [
+            "一季度运",
+            4
+          ],
+          [
+            "财报显示",
+            4
+          ],
+          [
+            "民币",
+            4
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺第一季度运营亏损超2亿元",
+            "author": "财经杂志",
+            "time": "4小时前",
+            "likes": "35",
+            "link": "https://www.xiaohongshu.com/explore/6a0bdb42000000003502accd",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0bdb42000000003502accd?xsec_token=ABCa2W2gU1oluPMplkZocbj1Y9sAhbIg1lN4pQ3An7AFs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "财报显示，爱奇艺第一季度总收入为人民币62.3亿元（约合9.025亿美元），同比下降13%。 财报显示，爱奇艺第一季度运营利润为-2.284亿元人民币，运营亏损率为4%；而2025年同期运营收入为人民币3.419亿元，运营收入率为5%。 非公认会计准则下归属于爱奇艺的净亏损为人民币2.344亿元（约合3400万美元），而2025年同期非公认会计准则下归属于爱奇艺的净利润为人民币3.044亿元。（蓝",
+            "likeCount": 35
+          },
+          {
+            "title": "爱奇艺26Q1季度亏损新高-2.94e",
+            "author": "止风藏星✨",
+            "time": "昨天 21:57",
+            "likes": "31",
+            "link": "https://www.xiaohongshu.com/explore/6a0b1ad2000000003501ca13",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0b1ad2000000003501ca13?xsec_token=ABCa2W2gU1oluPMplkZocbj-sw9rDJYX2ZPRj_FFPNsaA=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "爱奇艺公布26Q1季度财报，总营收62.26e，归母净利润-2.94e，连续4季度亏损且超过去年Q3季度创下亏损金额新高[嘻嘻R] 此前爱奇艺的美股股价变动和多家研报早已披露反应其Q1季度表现不容乐观，暗示财务可能的亏损状况。此次财报公布结果早在预料之中",
+            "likeCount": 31
+          },
+          {
+            "title": "爱奇艺家业云包场真让人无语",
+            "author": "郝稫福",
+            "time": "1天前",
+            "likes": "11",
+            "link": "https://www.xiaohongshu.com/explore/6a09bb0a000000000800146b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a09bb0a000000000800146b?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkSP7_a5hD8L7u-4v7wA8v_A=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "好久没看杨紫的剧了，想试着去抢一下云包场 也是第一次抢爱奇艺的云包场，它这个每次要先报名才能算时长，不像别的软件的可以小屏再点进云包场页面，到时候刷新一下就好了，但是爱奇艺这个就不行！（之前抢到过腾讯和优酷的） 第一次见定档出来第一集都要vip才能看的。。。。没有vip抢观看十五分钟的三十分钟的云包场要慢倍速看几遍前十分钟的内容，真无语。按理来说不是没有会员的人更需要这个云包场吗？本来很期待来着#",
+            "likeCount": 11
+          }
+        ],
+        "totalLikes": 90,
+        "avgLikes": 18,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 5,
+          "positivePercent": 17,
+          "negativePercent": 0,
+          "neutralPercent": 83
+        }
+      }
+    },
+    {
       "date": "2026-05-18",
       "keyword": "爱奇艺",
       "platform": "weibo",
