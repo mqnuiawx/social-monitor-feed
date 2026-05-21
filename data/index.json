@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-05-21",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 12,
+      "file": "2026-05-21_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-21_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-21_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-21T00:45:41.956Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            3
+          ],
+          [
+            "爱奇艺",
+            2
+          ],
+          [
+            "片单大揭",
+            1
+          ],
+          [
+            "谁才是今",
+            1
+          ],
+          [
+            "年的",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "李现张婧仪 雾里青爱意浮现💜",
+            "author": "爱奇艺",
+            "time": "昨天 10:01",
+            "likes": "3251",
+            "link": "https://www.xiaohongshu.com/explore/6a0d11b0000000003501c699",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0d11b0000000003501c699?xsec_token=ABMjdUc8M1O-bH5cTEIPuOeV9dHslfEXfF4ch6kqRSdRs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 3251
+          },
+          {
+            "title": "「鲍德熹・爱奇艺电影剧场」全球创作者招募",
+            "author": "爱奇艺",
+            "time": "昨天 11:21",
+            "likes": "34",
+            "link": "https://www.xiaohongshu.com/explore/6a0d1b290000000036019b5b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0d1b290000000036019b5b?xsec_token=ABMjdUc8M1O-bH5cTEIPuOee5j5Okml-7QfxyPH6q2u2g=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "寻觅能用 AI 讲出超绝故事的创作团队，题材通通不设限，只要你的故事能狠狠戳中人心！ 最终我们将打造出 10 部 AIGC 华语商业电影，由爱奇艺投资出品，还有奥斯卡大佬鲍德熹老师全程监制！ 想报名或者了解更多详情，登录官方网站，说不定你的创意就能在大银幕上绽放光彩哦🌈https://ppm.iqiyi.com/ #鲍德熹爱奇艺电影剧场  #AIGC创作招募",
+            "likeCount": 34
+          },
+          {
+            "title": "爱奇艺520片单大揭秘！谁才是今年的",
+            "author": "白兰鸽rd2",
+            "time": "昨天 21:00",
+            "likes": "26",
+            "link": "https://www.xiaohongshu.com/explore/6a0db08900000000080022b9",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0db08900000000080022b9?xsec_token=ABMjdUc8M1O-bH5cTEIPuOeadR78IAEZ8YEBpxgi86jQo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "人们！爱奇艺520的官宣数据都扒来了！👀 整理了20部待播剧的红薯数据，这波谁能杀出重围？ 🏆 热度断层组（数据王）： 《毕正明的证明》白宇+章若楠，点赞破万，稳得一批！ 《北上》白鹿+欧豪，年代感拉满，期待值给满💯 🚀 黑马潜力组： 《念无双》唐嫣+杨洋，这配置还要啥自行车？ 《七根心简》刘浩存+宋威龙，流量这块拿捏了～ 😶 查无此人组： 有些剧数据真的有点惨淡…（懂的都懂） 💬 投",
+            "likeCount": 26
+          }
+        ],
+        "totalLikes": 3317,
+        "avgLikes": 553,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 11,
+          "positivePercent": 8,
+          "negativePercent": 0,
+          "neutralPercent": 92
+        }
+      }
+    },
+    {
       "date": "2026-05-20",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -1011,14 +1089,6 @@
       "count": 0,
       "file": "2026-04-16_爱奇艺_zhihu.json",
       "timestamp": "2026-04-16T13:28:15.865Z"
-    },
-    {
-      "date": "2026-04-16",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-04-16_爱奇艺_weibo.json",
-      "timestamp": "2026-04-16T13:28:07.316Z"
     }
   ]
 }
