@@ -1,0 +1,47 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺又",
+      1
+    ],
+    [
+      "在闯什么",
+      1
+    ],
+    [
+      "祸呢",
+      1
+    ],
+    [
+      "今日已更",
+      1
+    ],
+    [
+      "十个勤天",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "🥝爱奇艺又在闯什么祸呢",
+      "author": "我喜欢阴天",
+      "time": "昨天 10:46",
+      "likes": "5",
+      "link": "https://www.xiaohongshu.com/explore/6a0e71e90000000038020e28",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a0e71e90000000038020e28?xsec_token=ABnKeUSBLXc5XLFTOnfWXDtMQz-D-aRQWLXcnH0opIDSI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "今日已更 #十个勤天",
+      "likeCount": 5
+    }
+  ],
+  "totalLikes": 5,
+  "avgLikes": 5,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}

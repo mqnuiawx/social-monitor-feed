@@ -1,6 +1,63 @@
 {
   "updates": [
     {
+      "date": "2026-05-22",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 1,
+      "file": "2026-05-22_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-22_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-22_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-22T00:45:20.166Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺又",
+            1
+          ],
+          [
+            "在闯什么",
+            1
+          ],
+          [
+            "祸呢",
+            1
+          ],
+          [
+            "今日已更",
+            1
+          ],
+          [
+            "十个勤天",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "🥝爱奇艺又在闯什么祸呢",
+            "author": "我喜欢阴天",
+            "time": "昨天 10:46",
+            "likes": "5",
+            "link": "https://www.xiaohongshu.com/explore/6a0e71e90000000038020e28",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a0e71e90000000038020e28?xsec_token=ABnKeUSBLXc5XLFTOnfWXDtMQz-D-aRQWLXcnH0opIDSI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "今日已更 #十个勤天",
+            "likeCount": 5
+          }
+        ],
+        "totalLikes": 5,
+        "avgLikes": 5,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-05-21",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -1152,14 +1209,6 @@
       "count": 20,
       "file": "2026-04-17_爱奇艺_weibo.json",
       "timestamp": "2026-04-17T06:40:31.401Z"
-    },
-    {
-      "date": "2026-04-16",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 6,
-      "file": "2026-04-16_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-16T13:42:20.882Z"
     }
   ]
 }
