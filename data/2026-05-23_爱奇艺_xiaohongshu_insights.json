@@ -1,0 +1,47 @@
+{
+  "topKeywords": [
+    [
+      "为什么还",
+      2
+    ],
+    [
+      "是打不过",
+      2
+    ],
+    [
+      "腾讯和爱",
+      2
+    ],
+    [
+      "奇艺",
+      2
+    ],
+    [
+      "阿里收购",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "为什么还是打不过腾讯和爱奇艺？",
+      "author": "Ai与商业",
+      "time": "1天前",
+      "likes": "34",
+      "link": "https://www.xiaohongshu.com/explore/6a0ec2d4000000000603567c",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a0ec2d4000000000603567c?xsec_token=ABnKeUSBLXc5XLFTOnfWXDtJ4tpHK4sokrHsnDZOwF5p8=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "阿里收购优酷多年，为什么还是打不过腾讯和爱奇艺？",
+      "likeCount": 34
+    }
+  ],
+  "totalLikes": 34,
+  "avgLikes": 34,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 1,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
