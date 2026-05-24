@@ -123,14 +123,22 @@ async function fetchWithPlaywright(url, platform, timeRange) {
     // 1. 打开搜索页
     console.log(`📖 打开页面...`);
     // 用 domcontentloaded 而非 networkidle，避免小红书二次跳转导致 context 销毁
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
     // 等待页面稳定（处理可能的重定向和动态渲染）
     await sleep(5000);
     console.log(`✅ 页面已加载，当前 URL: ${page.url()}`);
 
-    // 如果被重定向到登录页，提前退出
+    // 如果被重定向到登录页，清空 Cookie 以游客身份重试
     if (page.url().includes('login') || page.url().includes('signin')) {
-      throw new Error(`Cookie 已失效，被重定向到登录页: ${page.url()}`);
+      console.warn(`⚠️  Cookie 已失效，被重定向到登录页，尝试以游客身份重新访问...`);
+      await context.clearCookies();
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      await sleep(3000);
+      // 游客身份仍跳登录页则放弃
+      if (page.url().includes('login') || page.url().includes('signin')) {
+        throw new Error(`游客身份也无法访问，页面强制要求登录: ${page.url()}`);
+      }
+      console.log(`✅ 游客身份访问成功，当前 URL: ${page.url()}`);
     }
 
     // 2. 等待内容渲染
@@ -269,15 +277,22 @@ function getExtractScript(platform) {
       const cards = document.querySelectorAll('section.note-item');
       cards.forEach(card => {
         try {
+          // 标题：优先取专属标题，图片/视频笔记可能没有标题，用正文内容兜底
           const titleEl = card.querySelector('.footer a.title span, .footer .title span');
-          const title = titleEl ? titleEl.textContent.trim() : '(无标题)';
+          const descEl = card.querySelector('.footer .desc, .footer [class*="desc"], .note-content');
+          const rawTitle = titleEl ? titleEl.textContent.trim() : '';
+          const rawDesc = descEl ? descEl.textContent.trim() : '';
+          const title = rawTitle || rawDesc || '(无标题)';
+
           const authorEl = card.querySelector('.name-time-wrapper .name, .author .name');
           const author = authorEl ? authorEl.textContent.trim() : '';
           const timeEl = card.querySelector('.name-time-wrapper .time, .author .time');
           const time = timeEl ? timeEl.textContent.trim() : '';
           const likeEl = card.querySelector('[class*="like-wrapper"] span:last-child');
           const likes = likeEl ? likeEl.textContent.trim() : '';
-          const exploreEl = card.querySelector('a[href*="/explore/"]');
+
+          // 链接：覆盖 /explore/ 和 /discovery/item/ 两种路径
+          const exploreEl = card.querySelector('a[href*="/explore/"], a[href*="/discovery/item/"]');
           const navEl = card.querySelector('a.cover[href], a.title[href]');
           const toAbs = href => href
             ? (href.startsWith('http') ? href : 'https://www.xiaohongshu.com' + href)
@@ -285,7 +300,9 @@ function getExtractScript(platform) {
           const exploreLink = toAbs(exploreEl?.getAttribute('href') || '');
           const navLink = toAbs(navEl?.getAttribute('href') || '');
           const link = exploreLink || navLink;
-          if (link || title !== '(无标题)') {
+
+          // 只要 link、author、time 三者有其一就保留，避免漏掉无标题的图片/视频笔记
+          if (link || author || time) {
             items.push({ title, author, time, likes, link, navLink: navLink || link, platform: 'xiaohongshu' });
           }
         } catch (e) {}
@@ -386,6 +403,13 @@ function parseTimeText(text) {
     d.setMonth(parseInt(mdMatch[1]) - 1, parseInt(mdMatch[2]));
     d.setHours(0, 0, 0, 0);
     return d.getTime();
+  }
+
+  // "YYYY-MM-DD HH:mm" 格式（小红书搜索结果中带具体时分的格式）
+  const fullWithTimeMatch = text.match(/^(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})$/);
+  if (fullWithTimeMatch) {
+    const [, y, mo, d, h, m] = fullWithTimeMatch;
+    return new Date(`${y}-${mo}-${d}T${h}:${m}:00`).getTime();
   }
 
   // "YYYY-MM-DD" 格式
