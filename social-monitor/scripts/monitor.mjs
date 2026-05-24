@@ -124,8 +124,16 @@ async function fetchWithPlaywright(url, platform, timeRange) {
     console.log(`📖 打开页面...`);
     // 用 domcontentloaded 而非 networkidle，避免小红书二次跳转导致 context 销毁
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    // 等待页面稳定（处理可能的重定向和动态渲染）
-    await sleep(5000);
+    // 等待页面稳定（小红书加载后会二次跳转刷新，需要等更长时间）
+    await sleep(8000);
+    // 如果页面还在跳转，继续等待直到稳定
+    let lastUrl = page.url();
+    for (let i = 0; i < 5; i++) {
+      await sleep(2000);
+      if (page.url() === lastUrl) break;
+      lastUrl = page.url();
+      console.log(`⏳ 等待页面稳定... ${page.url()}`);
+    }
     console.log(`✅ 页面已加载，当前 URL: ${page.url()}`);
 
     // 如果被重定向到登录页，清空 Cookie 以游客身份重试
