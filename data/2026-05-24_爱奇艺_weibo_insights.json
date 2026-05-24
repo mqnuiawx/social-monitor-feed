@@ -1,23 +1,23 @@
 {
   "topKeywords": [
     [
-      "家业",
-      26
-    ],
-    [
-      "杨紫",
-      22
-    ],
-    [
       "爱奇艺",
+      19
+    ],
+    [
+      "家业",
       16
     ],
     [
-      "展开",
-      8
+      "杨紫",
+      15
     ],
     [
       "年第一",
+      8
+    ],
+    [
+      "网页链接",
       8
     ]
   ],
@@ -49,21 +49,21 @@
       "content": "杨紫《家业》爱奇艺热度破8888，稳稳保持6广\n#家业热度# ​",
       "author": "友谊已走到尽头啦",
       "time": "05月22日 21:55",
-      "likes": "8386",
+      "likes": "8387",
       "link": "https://weibo.com/5091022623/R0CROnqSa?refer_flag=1001030103_",
       "platform": "weibo",
       "summary": "杨紫《家业》爱奇艺热度破8888，稳稳保持6广\n#家业热度# ​",
-      "likeCount": 8386
+      "likeCount": 8387
     }
   ],
-  "totalLikes": 218039,
-  "avgLikes": 14536,
+  "totalLikes": 217928,
+  "avgLikes": 14529,
   "sentiment": {
-    "positive": 2,
+    "positive": 0,
     "negative": 0,
-    "neutral": 18,
-    "positivePercent": 10,
+    "neutral": 21,
+    "positivePercent": 0,
     "negativePercent": 0,
-    "neutralPercent": 90
+    "neutralPercent": 100
   }
 }
