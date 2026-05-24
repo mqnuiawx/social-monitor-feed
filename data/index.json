@@ -3,6 +3,82 @@
     {
       "date": "2026-05-24",
       "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 12,
+      "file": "2026-05-24_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-24_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-24_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-24T04:23:43.574Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "入驻",
+            3
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "爱奇艺",
+            2
+          ],
+          [
+            "宝宝爱奇",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "🐱9部治愈日剧，每一部都想住进去",
+            "author": "所長的电影世界",
+            "time": "1天前",
+            "likes": "404",
+            "link": "https://www.xiaohongshu.com/explore/6a10daa7000000003502cd07",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a10daa7000000003502cd07?xsec_token=ABD_phlH-VwYqsT1gGvrvXs-C17UZPJUQ9JGxq2oCHweE=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 404
+          },
+          {
+            "title": "电视剧《问心2》定档",
+            "author": "影视剧透社",
+            "time": "昨天 19:45",
+            "likes": "109",
+            "link": "https://www.xiaohongshu.com/explore/6a11933f0000000007023214",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a11933f0000000007023214?xsec_token=ABlBUTR86eaq9EkFwIK9fLeQkf69FfqYC9k4Hi2Vy4yKE=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 109
+          },
+          {
+            "title": "爱奇艺会员运营实习生招继任（急）",
+            "author": "楠穆糍",
+            "time": "1天前",
+            "likes": "83",
+            "link": "https://www.xiaohongshu.com/explore/6a1028f1000000000702adae",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1028f1000000000702adae?xsec_token=ABD_phlH-VwYqsT1gGvrvXs3OTamUBYmMkLwvye7cUjj8=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 83
+          }
+        ],
+        "totalLikes": 737,
+        "avgLikes": 74,
+        "sentiment": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 10,
+          "positivePercent": 8,
+          "negativePercent": 8,
+          "neutralPercent": 83
+        }
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "keyword": "爱奇艺",
       "platform": "weibo",
       "count": 20,
       "file": "2026-05-24_爱奇艺_weibo.json",
@@ -1391,14 +1467,6 @@
       "count": 7,
       "file": "2026-04-19_爱奇艺_xiaohongshu.json",
       "timestamp": "2026-04-19T07:40:28.627Z"
-    },
-    {
-      "date": "2026-04-18",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 2,
-      "file": "2026-04-18_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-18T11:39:44.333Z"
     }
   ]
 }
