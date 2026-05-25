@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2026-05-25",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 0,
+      "file": "2026-05-25_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-25_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-25_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-25T00:45:45.187Z",
+      "insights": null
+    },
+    {
       "date": "2026-05-24",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -1530,14 +1541,6 @@
       "count": 10,
       "file": "2026-04-20_爱奇艺_xiaohongshu.json",
       "timestamp": "2026-04-20T10:50:10.080Z"
-    },
-    {
-      "date": "2026-04-19",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 15,
-      "file": "2026-04-19_爱奇艺_weibo.json",
-      "timestamp": "2026-04-19T07:40:37.019Z"
     }
   ]
 }
