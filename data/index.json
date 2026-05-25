@@ -3,6 +3,85 @@
     {
       "date": "2026-05-25",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 21,
+      "file": "2026-05-25_爱奇艺_weibo.json",
+      "analysisFile": "2026-05-25_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-05-25_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-05-25T00:46:01.456Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "家业爱奇",
+            12
+          ],
+          [
+            "优酷",
+            12
+          ],
+          [
+            "爱奇艺",
+            11
+          ],
+          [
+            "家业",
+            10
+          ],
+          [
+            "艺热度破",
+            9
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45777",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45777
+          },
+          {
+            "title": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#...",
+            "content": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#家业# 爱奇艺热度值破9000！#墨记李祯# ​",
+            "author": "杨紫工作室",
+            "time": "05月24日 20:57",
+            "likes": "16349",
+            "link": "https://weibo.com/5943858696/R0VleDuM2?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#家业# 爱奇艺热度值破9000！#墨记李祯# ​",
+            "likeCount": 16349
+          },
+          {
+            "title": "杨紫《家业》今日酷云平均收视率1.3995%，爱奇艺站内热度破9000 ​",
+            "content": "杨紫《家业》今日酷云平均收视率1.3995%，爱奇艺站内热度破9000 ​",
+            "author": "学不会玩滑板",
+            "time": "05月24日 21:43",
+            "likes": "16053",
+            "link": "https://weibo.com/6084463177/R0VDLfqxO?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "杨紫《家业》今日酷云平均收视率1.3995%，爱奇艺站内热度破9000 ​",
+            "likeCount": 16053
+          }
+        ],
+        "totalLikes": 108426,
+        "avgLikes": 8340,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 21,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 0,
       "file": "2026-05-25_爱奇艺_xiaohongshu.json",
@@ -1533,14 +1612,6 @@
       "count": 7,
       "file": "2026-04-20_爱奇艺_weibo.json",
       "timestamp": "2026-04-20T10:50:19.550Z"
-    },
-    {
-      "date": "2026-04-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 10,
-      "file": "2026-04-20_爱奇艺_xiaohongshu.json",
-      "timestamp": "2026-04-20T10:50:10.080Z"
     }
   ]
 }
