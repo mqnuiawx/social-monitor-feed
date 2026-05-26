@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      3
+    ],
+    [
+      "爱奇艺",
+      2
+    ],
+    [
+      "家业",
+      2
+    ],
+    [
+      "点更新变",
+      1
+    ],
+    [
+      "成了没通",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "小猫乖乖",
+      "time": "昨天 10:12",
+      "likes": "705",
+      "link": "https://www.xiaohongshu.com/explore/6a13b025000000000702454b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a13b025000000000702454b?xsec_token=ABhGaAo1BwhCjrEZF3kBVuuqAK8p5PL3NLg61UhaUJXJA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "从12点更新变成了没通知任何人的10点，到现在才发wb告知更新时间被改。到底在给谁让路？#十个勤天 #我真的不理解 #爱奇艺",
+      "likeCount": 705
+    },
+    {
+      "title": "(无标题)",
+      "author": "JJ_十个勤天",
+      "time": "昨天 13:20",
+      "likes": "277",
+      "link": "https://www.xiaohongshu.com/explore/6a13dc380000000008030c7b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a13dc380000000008030c7b?xsec_token=ABhGaAo1BwhCjrEZF3kBVuukHX07BDhyJyD4TdzNxGEr0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 277
+    },
+    {
+      "title": "《家业》年度大爆剧预定无疑",
+      "author": "小圆闹影视",
+      "time": "昨天 17:36",
+      "likes": "74",
+      "link": "https://www.xiaohongshu.com/explore/6a141819000000003502e53e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a141819000000003502e53e?xsec_token=ABz0PHN8aBnWmC58Xq4gfVRLnJV7kLcM0X9Jk906ObikM=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 74
+    }
+  ],
+  "totalLikes": 1206,
+  "avgLikes": 121,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 12,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
