@@ -431,23 +431,23 @@ function parseTimeText(text) {
     return d.getTime();
   }
 
-  // "MM月DD日" 格式（无时间部分）
+  // "MM月DD日" 格式（无时间部分，设为当天 23:59 避免漏掉当天晚上发的内容）
   const weiboDateOnly = text.match(/^(\d{1,2})月(\d{1,2})日$/);
   if (weiboDateOnly) {
     const [, mo, day] = weiboDateOnly;
     const d = new Date();
     d.setMonth(parseInt(mo) - 1, parseInt(day));
-    d.setHours(0, 0, 0, 0);
+    d.setHours(23, 59, 59, 0);
     if (d.getTime() > Date.now()) d.setFullYear(d.getFullYear() - 1);
     return d.getTime();
   }
 
-  // "MM-DD" 格式（当年）
+  // "MM-DD" 格式（当年，设为当天 23:59 避免漏掉当天晚上发的内容）
   const mdMatch = text.match(/^(\d{2})-(\d{2})$/);
   if (mdMatch) {
     const d = new Date();
     d.setMonth(parseInt(mdMatch[1]) - 1, parseInt(mdMatch[2]));
-    d.setHours(0, 0, 0, 0);
+    d.setHours(23, 59, 59, 0);
     return d.getTime();
   }
 
@@ -458,10 +458,12 @@ function parseTimeText(text) {
     return new Date(`${y}-${mo}-${d}T${h}:${m}:00`).getTime();
   }
 
-  // "YYYY-MM-DD" 格式
+  // "YYYY-MM-DD" 格式（设为当天 23:59 避免漏掉当天晚上发的内容）
   const fullMatch = text.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (fullMatch) {
-    return new Date(text).getTime();
+    const d = new Date(text);
+    d.setHours(23, 59, 59, 0);
+    return d.getTime();
   }
 
   return null;
