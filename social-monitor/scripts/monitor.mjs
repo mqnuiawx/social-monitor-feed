@@ -348,9 +348,12 @@ function getExtractScript(platform) {
   return scripts[platform] || scripts.xiaohongshu;
 }
 
+// 屏蔽关键词列表：含这些词的内容直接过滤掉
+const BLOCKED_KEYWORDS = ['腾讯卡', '芒果卡', '爱奇艺卡', '优酷卡', '视频会员卡'];
+
 /**
- * 过滤时间范围
- * 支持: "1天前" "3小时前" "昨天 22:16" "04-15" "03-02" 等小红书时间格式
+ * 过滤时间范围 + 屏蔽关键词
+ * 支持: "1天前" "3小时前" "昨天 22:16" "04-15" "03-02" "04月20日 16:35" 等格式
  */
 function filterByTimeRange(items, timeRange) {
   const match = timeRange.match(/^(\d+)(天|小时|h|d)$/i);
@@ -365,9 +368,21 @@ function filterByTimeRange(items, timeRange) {
   const cutoff = Date.now() - hours * 3600 * 1000;
 
   return items.filter(item => {
+    // 1. 屏蔽关键词过滤：标题或正文含屏蔽词则丢弃
+    const fullText = [item.title, item.content, item.summary].filter(Boolean).join(' ');
+    if (BLOCKED_KEYWORDS.some(kw => fullText.includes(kw))) {
+      console.log(`🚫 屏蔽关键词命中，跳过: ${item.title?.substring(0, 30)}`);
+      return false;
+    }
+
+    // 2. 时间过滤
     if (!item.time) return true; // 无时间信息保留
     const t = parseTimeText(item.time);
-    if (t === null) return true; // 解析失败保留（保守策略）
+    if (t === null) {
+      // 解析失败时记录日志，不再盲目保留
+      console.log(`⚠️  时间格式无法解析，丢弃: "${item.time}" - ${item.title?.substring(0, 20)}`);
+      return false;
+    }
     return t > cutoff;
   });
 }
@@ -401,6 +416,29 @@ function parseTimeText(text) {
     const [h, m] = timePart.split(':').map(Number);
     const d = new Date();
     d.setHours(isNaN(h) ? 0 : h, isNaN(m) ? 0 : m, 0, 0);
+    return d.getTime();
+  }
+
+  // "MM月DD日 HH:mm" 格式（微博时间，如 "04月20日 16:35"、"05月24日 20:57"）
+  const weiboMatch = text.match(/^(\d{1,2})月(\d{1,2})日\s+(\d{2}):(\d{2})$/);
+  if (weiboMatch) {
+    const [, mo, day, h, m] = weiboMatch;
+    const d = new Date();
+    d.setMonth(parseInt(mo) - 1, parseInt(day));
+    d.setHours(parseInt(h), parseInt(m), 0, 0);
+    // 若解析出的日期比当前时间晚（跨年边界），则视为上一年
+    if (d.getTime() > Date.now()) d.setFullYear(d.getFullYear() - 1);
+    return d.getTime();
+  }
+
+  // "MM月DD日" 格式（无时间部分）
+  const weiboDateOnly = text.match(/^(\d{1,2})月(\d{1,2})日$/);
+  if (weiboDateOnly) {
+    const [, mo, day] = weiboDateOnly;
+    const d = new Date();
+    d.setMonth(parseInt(mo) - 1, parseInt(day));
+    d.setHours(0, 0, 0, 0);
+    if (d.getTime() > Date.now()) d.setFullYear(d.getFullYear() - 1);
     return d.getTime();
   }
 
