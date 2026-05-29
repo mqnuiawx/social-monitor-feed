@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "哭惹",
+      4
+    ],
+    [
+      "爱奇艺",
+      2
+    ],
+    [
+      "需要联系",
+      2
+    ],
+    [
+      "爱奇艺客",
+      2
+    ],
+    [
+      "电话回复",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "今天也要开心呀",
+      "time": "昨天 12:51",
+      "likes": "157",
+      "link": "https://www.xiaohongshu.com/explore/6a17c9ec0000000035032825",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a17c9ec0000000035032825?xsec_token=ABD-CR_eL-DJJJWNwbsG3y0ga8vz4yA_kDp21YJQvmKg0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 157
+    },
+    {
+      "title": "爱奇艺你就说还要多少钱 我才能看到",
+      "author": "署前街少女",
+      "time": "昨天 14:38",
+      "likes": "55",
+      "link": "https://www.xiaohongshu.com/explore/6a17e2ea000000000803389d",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a17e2ea000000000803389d?xsec_token=ABD-CR_eL-DJJJWNwbsG3y0qzsj7qAi0UCcckmFYF8QvY=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "爱奇艺你还需要多少钱 我们才能看落地签啊 我太想看了[哭惹R][哭惹R][哭惹R][哭惹R]",
+      "likeCount": 55
+    },
+    {
+      "title": "服了这个爱奇艺！",
+      "author": "晚风叙信",
+      "time": "昨天 21:20",
+      "likes": "49",
+      "link": "https://www.xiaohongshu.com/explore/6a18410100000000380348e6",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a18410100000000380348e6?xsec_token=ABH2ePrT6-kS1jJRsKOV4mHOUvwpstDXXahYSjkAOJeJg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 49
+    }
+  ],
+  "totalLikes": 300,
+  "avgLikes": 30,
+  "sentiment": {
+    "positive": 0,
+    "negative": 1,
+    "neutral": 11,
+    "positivePercent": 0,
+    "negativePercent": 8,
+    "neutralPercent": 92
+  }
+}
