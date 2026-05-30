@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺会",
+      6
+    ],
+    [
+      "无标题",
+      6
+    ],
+    [
+      "爱奇艺",
+      3
+    ],
+    [
+      "爱奇艺吃",
+      2
+    ],
+    [
+      "爱奇艺云",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺一如既往只推自己的剧",
+      "author": "Danielle",
+      "time": "1天前",
+      "likes": "281",
+      "link": "https://www.xiaohongshu.com/explore/6a17b2890000000038035a21",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a17b2890000000038035a21?xsec_token=ABD-CR_eL-DJJJWNwbsG3y0rj2TQVRmY3S_RvXwls4rwo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 281
+    },
+    {
+      "title": "服了这个爱奇艺！",
+      "author": "晚风叙信",
+      "time": "1天前",
+      "likes": "118",
+      "link": "https://www.xiaohongshu.com/explore/6a18410100000000380348e6",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a18410100000000380348e6?xsec_token=ABH2ePrT6-kS1jJRsKOV4mHM961jqdw4v9FoVkvhgXy5Q=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 118
+    },
+    {
+      "title": "(无标题)",
+      "author": "相对吃瓜论（重生版）",
+      "time": "1天前",
+      "likes": "90",
+      "link": "https://www.xiaohongshu.com/explore/6a18358b000000003503af9b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a18358b000000003503af9b?xsec_token=ABH2ePrT6-kS1jJRsKOV4mHIO0t22ojePFsUvTUYmPYxo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 90
+    }
+  ],
+  "totalLikes": 882,
+  "avgLikes": 49,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 26,
+    "positivePercent": 4,
+    "negativePercent": 0,
+    "neutralPercent": 96
+  }
+}
