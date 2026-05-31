@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-05-31",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 14,
+      "file": "2026-05-31_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-05-31_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-05-31_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-05-31T00:45:48.044Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            3
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "念相思",
+            2
+          ],
+          [
+            "虞书欣",
+            2
+          ],
+          [
+            "侯明昊",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "嗑瓜子专用君",
+            "time": "昨天 18:48",
+            "likes": "384",
+            "link": "https://www.xiaohongshu.com/explore/6a1ac0760000000036031706",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1ac0760000000036031706?xsec_token=ABt7164RaAjt3WGkVaMtIIFvxupFGf7H6H8YtOFZntnRs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "爱奇艺古装剧《念相思》虞书欣、侯明昊 导演：钟青《花间令》 编剧：赵天佑、应志南《柳舟记》 造型：易小雅《苍兰诀》 开机时间：6月30日横店 拍摄周期：3个月+ 改编自一度君华小说《神仙肉》。#念相思 #虞书欣 #侯明昊 #神仙肉 #小说改编 #一度君华 #古装 #仙侠 #电视剧 #影视资讯",
+            "likeCount": 384
+          },
+          {
+            "title": "爱奇艺你压热度是何意味啊",
+            "author": "Savior",
+            "time": "昨天 15:20",
+            "likes": "182",
+            "link": "https://www.xiaohongshu.com/explore/6a1a8fd70000000007023497",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1a8fd70000000007023497?xsec_token=ABt7164RaAjt3WGkVaMtIIFq1bpFL4aAJW0vMU3VXJ33M=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "无话可说了爱奇艺，🗡️的没边了",
+            "likeCount": 182
+          },
+          {
+            "title": "🥝到底在干什么啊🤬",
+            "author": "forever.木云🌾",
+            "time": "昨天 12:07",
+            "likes": "118",
+            "link": "https://www.xiaohongshu.com/explore/6a1a627f00000000350396b7",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1a627f00000000350396b7?xsec_token=ABt7164RaAjt3WGkVaMtIIFkR3zo3cWCqUwFoLZM6Ghjk=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 118
+          }
+        ],
+        "totalLikes": 902,
+        "avgLikes": 75,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 13,
+          "positivePercent": 7,
+          "negativePercent": 0,
+          "neutralPercent": 93
+        }
+      }
+    },
+    {
       "date": "2026-05-30",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2133,74 +2211,6 @@
           "positivePercent": 10,
           "negativePercent": 0,
           "neutralPercent": 90
-        }
-      }
-    },
-    {
-      "date": "2026-05-17",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 2,
-      "file": "2026-05-17_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-17_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-17_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-17T08:45:26.097Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "家业今日",
-            1
-          ],
-          [
-            "点半爱奇",
-            1
-          ],
-          [
-            "艺开播",
-            1
-          ],
-          [
-            "剧粉们一",
-            1
-          ],
-          [
-            "起来实时",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "家业今日7点半爱奇艺开播！🥳🥳🥳",
-            "author": "皮皮",
-            "time": "1小时前",
-            "likes": "14",
-            "link": "https://www.xiaohongshu.com/explore/6a0969fa0000000008001c3e",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0969fa0000000008001c3e?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkWgLdp4FZVoc_-4b5_QogOo=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "剧粉们一起来实时追剧吧#电视剧 #家业 #好看国产剧推荐 #鱼灯 #徽墨 #宅斗 #倭寇 #家产 #争气 #旅游",
-            "likeCount": 14
-          },
-          {
-            "title": "ican爱奇艺大赛国一作品分享",
-            "author": "灵火芝芝",
-            "time": "5小时前",
-            "likes": "4",
-            "link": "https://www.xiaohongshu.com/explore/6a0938e9000000003501ce8a",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0938e9000000003501ce8a?xsec_token=ABZ-ZUwKSIipQ33MIwlm_LkSAo4hTueXpvryR8xiRYd3k=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "辅导原创 侵权必究",
-            "likeCount": 4
-          }
-        ],
-        "totalLikes": 18,
-        "avgLikes": 9,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 2,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
