@@ -2,63 +2,65 @@
   "topKeywords": [
     [
       "爱奇艺季",
-      9
-    ],
-    [
-      "爱奇艺",
-      6
-    ],
-    [
-      "京东",
       4
     ],
     [
-      "爱奇艺会",
+      "寒战",
+      4
+    ],
+    [
+      "出京东爱",
       3
     ],
     [
-      "出爱奇艺",
+      "奇艺黄金",
+      3
+    ],
+    [
+      "会员季卡",
       3
     ]
   ],
   "topItems": [
     {
-      "title": "6月各平台都扎堆上剧",
-      "author": "哈哈哈哈",
-      "time": "1天前",
-      "likes": "271",
-      "link": "https://www.xiaohongshu.com/explore/6a1aef3a0000000035026217",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a1aef3a0000000035026217?xsec_token=ABt7164RaAjt3WGkVaMtIIFpAzBwzySaq1GgX2Jmqe4gA=&xsec_source=",
+      "title": "寒战宇宙：警匪对决，港式权谋天花板",
+      "author": "小森林",
+      "time": "1小时前",
+      "likes": "11",
+      "link": "https://www.xiaohongshu.com/explore/6a1bd6070000000008027d0e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1bd6070000000008027d0e?xsec_token=AByVvOwLbemQruFChTwZIZU_lC5_kZ8FVOKMlhtObXfJ8=&xsec_source=",
       "platform": "xiaohongshu",
-      "likeCount": 271
+      "summary": "作为一个港片爱好者，自从五一看完《寒战1994》就一直在想怎么写这篇推荐，删删减减，终于在今天完稿，为寒战1995尽快上映做出小小努力。 推荐一百部电影🎬：3️⃣3️⃣/100 🎬电影名称：寒战1 寒战2 寒战1994 🔧电影类型：剧情｜动作｜香港 🚗观看途径：腾讯 爱奇艺 优酷 咪咕 B站等 🌟豆瓣评分：7.6 7.2 7.2 🏆影片得奖：金像奖 金马奖 📖关键词：警匪斗争 政治博",
+      "likeCount": 11
     },
     {
-      "title": "爱奇艺你压热度是何意味啊",
-      "author": "Savior",
-      "time": "1天前",
-      "likes": "215",
-      "link": "https://www.xiaohongshu.com/explore/6a1a8fd70000000007023497",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a1a8fd70000000007023497?xsec_token=ABt7164RaAjt3WGkVaMtIIFhIn3Bj2FxX8tTGlxSTRrys=&xsec_source=",
+      "title": "中立平台解说不应该带有倾向性",
+      "author": "Emil",
+      "time": "昨天 12:41",
+      "likes": "8",
+      "link": "https://www.xiaohongshu.com/explore/6a1bba1b00000000350262b5",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1bba1b00000000350262b5?xsec_token=AByVvOwLbemQruFChTwZIZU98ITo8kL_lDJfxJWULUlWM=&xsec_source=",
       "platform": "xiaohongshu",
-      "likeCount": 215
+      "summary": "昨天怒砸 18 大洋在爱某艺购买了独家版权的欧冠决赛。但是该平台两位解说嘉宾全程表现出对于阿森纳的偏爱，和明显的倾向性，让我一个大巴黎球迷无法理解。最后不得已切换成现场声模式。平台解说不应该中立吗？#欧冠 #仅个人观点 #公平与正义 #不平等对待 #爱奇艺",
+      "likeCount": 8
     },
     {
-      "title": "6月和7月各平台排播🍉（5.30）",
-      "author": "福气大橘",
-      "time": "1天前",
-      "likes": "117",
-      "link": "https://www.xiaohongshu.com/explore/6a1aeb2c00000000380352db",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a1aeb2c00000000380352db?xsec_token=ABt7164RaAjt3WGkVaMtIIFkHKqpAQYawbuz70OIeFTSg=&xsec_source=",
+      "title": "20出京东爱奇艺黄金会员季卡",
+      "author": "Holiday",
+      "time": "昨天 16:20",
+      "likes": "6",
+      "link": "https://www.xiaohongshu.com/explore/6a1bee91000000000702d485",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1bee91000000000702d485?xsec_token=AByVvOwLbemQruFChTwZIZU5CUgQHBgfz3PanqSqb5Gcg=&xsec_source=",
       "platform": "xiaohongshu",
-      "likeCount": 117
+      "likeCount": 6
     }
   ],
-  "totalLikes": 642,
-  "avgLikes": 49,
+  "totalLikes": 25,
+  "avgLikes": 8,
   "sentiment": {
     "positive": 0,
     "negative": 0,
-    "neutral": 22,
+    "neutral": 7,
     "positivePercent": 0,
     "negativePercent": 0,
     "neutralPercent": 100

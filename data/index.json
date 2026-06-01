@@ -4,6 +4,84 @@
       "date": "2026-06-01",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
+      "count": 7,
+      "file": "2026-06-01_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-01_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-01_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-01T02:24:52.745Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺季",
+            4
+          ],
+          [
+            "寒战",
+            4
+          ],
+          [
+            "出京东爱",
+            3
+          ],
+          [
+            "奇艺黄金",
+            3
+          ],
+          [
+            "会员季卡",
+            3
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "寒战宇宙：警匪对决，港式权谋天花板",
+            "author": "小森林",
+            "time": "1小时前",
+            "likes": "11",
+            "link": "https://www.xiaohongshu.com/explore/6a1bd6070000000008027d0e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1bd6070000000008027d0e?xsec_token=AByVvOwLbemQruFChTwZIZU_lC5_kZ8FVOKMlhtObXfJ8=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "作为一个港片爱好者，自从五一看完《寒战1994》就一直在想怎么写这篇推荐，删删减减，终于在今天完稿，为寒战1995尽快上映做出小小努力。 推荐一百部电影🎬：3️⃣3️⃣/100 🎬电影名称：寒战1 寒战2 寒战1994 🔧电影类型：剧情｜动作｜香港 🚗观看途径：腾讯 爱奇艺 优酷 咪咕 B站等 🌟豆瓣评分：7.6 7.2 7.2 🏆影片得奖：金像奖 金马奖 📖关键词：警匪斗争 政治博",
+            "likeCount": 11
+          },
+          {
+            "title": "中立平台解说不应该带有倾向性",
+            "author": "Emil",
+            "time": "昨天 12:41",
+            "likes": "8",
+            "link": "https://www.xiaohongshu.com/explore/6a1bba1b00000000350262b5",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1bba1b00000000350262b5?xsec_token=AByVvOwLbemQruFChTwZIZU98ITo8kL_lDJfxJWULUlWM=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "昨天怒砸 18 大洋在爱某艺购买了独家版权的欧冠决赛。但是该平台两位解说嘉宾全程表现出对于阿森纳的偏爱，和明显的倾向性，让我一个大巴黎球迷无法理解。最后不得已切换成现场声模式。平台解说不应该中立吗？#欧冠 #仅个人观点 #公平与正义 #不平等对待 #爱奇艺",
+            "likeCount": 8
+          },
+          {
+            "title": "20出京东爱奇艺黄金会员季卡",
+            "author": "Holiday",
+            "time": "昨天 16:20",
+            "likes": "6",
+            "link": "https://www.xiaohongshu.com/explore/6a1bee91000000000702d485",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a1bee91000000000702d485?xsec_token=AByVvOwLbemQruFChTwZIZU5CUgQHBgfz3PanqSqb5Gcg=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 6
+          }
+        ],
+        "totalLikes": 25,
+        "avgLikes": 8,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 7,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
       "count": 22,
       "file": "2026-06-01_爱奇艺_xiaohongshu.json",
       "analysisFile": "2026-06-01_爱奇艺_xiaohongshu_analysis.md",
@@ -2151,85 +2229,6 @@
           "positivePercent": 17,
           "negativePercent": 0,
           "neutralPercent": 83
-        }
-      }
-    },
-    {
-      "date": "2026-05-18",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-05-18_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-18_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-18_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-18T08:45:32.712Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "家业",
-            27
-          ],
-          [
-            "电视剧",
-            16
-          ],
-          [
-            "杨紫",
-            14
-          ],
-          [
-            "爱奇艺",
-            13
-          ],
-          [
-            "每晚",
-            11
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45798",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45798
-          },
-          {
-            "title": "杨紫超话#杨紫李祯# #杨紫家业# \n一砚墨香染袖，万里江水同舟。\n再与李祯@杨紫 同路，共此墨中辉光！恭贺#家业# ...",
-            "content": "杨紫超话#杨紫李祯# #杨紫家业# \n一砚墨香染袖，万里江水同舟。\n再与李祯@杨紫 同路，共此墨中辉光！恭贺#家业# 爱奇艺热度值破7000！#墨记李祯# ​",
-            "author": "杨紫工作室",
-            "time": "今天10:12",
-            "likes": "13402",
-            "link": "https://weibo.com/5943858696/QFU0xqKmy?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "杨紫超话#杨紫李祯# #杨紫家业# \n一砚墨香染袖，万里江水同舟。\n再与李祯@杨紫 同路，共此墨中辉光！恭贺#家业# 爱奇艺热度值破7000！#墨记李祯# ​",
-            "likeCount": 13402
-          },
-          {
-            "title": "【家中有喜】「家」绩频至，热度再攀！#家业爱奇艺热度破6500# 啦！#家业开播# 门庭有续，家风长存！祖孙相望承薪火，...",
-            "content": "【家中有喜】「家」绩频至，热度再攀！#家业爱奇艺热度破6500# 啦！#家业开播# 门庭有续，家风长存！祖孙相望承薪火，岁月无声蕴深情。感恩每份支持与期待，墨香浸润风骨，一同解锁藏在时光里的家业传承~#家业# 每晚19:30，锁定CCTV-8@CCTV电视剧 黄金强档，@爱奇艺 全网独播！@杨紫 @田小洁 ​",
-            "author": "电视剧家业",
-            "time": "05月17日 22:57",
-            "likes": "12270",
-            "link": "https://weibo.com/7948183734/QFPANgcBI?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "【家中有喜】「家」绩频至，热度再攀！#家业爱奇艺热度破6500# 啦！#家业开播# 门庭有续，家风长存！祖孙相望承薪火，岁月无声蕴深情。感恩每份支持与期待，墨香浸润风骨，一同解锁藏在时光里的家业传承~#家业# 每晚19:30，锁定CCTV-8@CCTV电视剧 黄金强档，@爱奇艺 全网独播！@杨紫 @",
-            "likeCount": 12270
-          }
-        ],
-        "totalLikes": 116874,
-        "avgLikes": 7792,
-        "sentiment": {
-          "positive": 1,
-          "negative": 0,
-          "neutral": 20,
-          "positivePercent": 5,
-          "negativePercent": 0,
-          "neutralPercent": 95
         }
       }
     }
