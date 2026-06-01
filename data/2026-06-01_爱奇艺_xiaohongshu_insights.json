@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺季",
+      9
+    ],
+    [
+      "爱奇艺",
+      6
+    ],
+    [
+      "京东",
+      4
+    ],
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "出爱奇艺",
+      3
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "6月各平台都扎堆上剧",
+      "author": "哈哈哈哈",
+      "time": "1天前",
+      "likes": "271",
+      "link": "https://www.xiaohongshu.com/explore/6a1aef3a0000000035026217",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1aef3a0000000035026217?xsec_token=ABt7164RaAjt3WGkVaMtIIFpAzBwzySaq1GgX2Jmqe4gA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 271
+    },
+    {
+      "title": "爱奇艺你压热度是何意味啊",
+      "author": "Savior",
+      "time": "1天前",
+      "likes": "215",
+      "link": "https://www.xiaohongshu.com/explore/6a1a8fd70000000007023497",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1a8fd70000000007023497?xsec_token=ABt7164RaAjt3WGkVaMtIIFhIn3Bj2FxX8tTGlxSTRrys=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 215
+    },
+    {
+      "title": "6月和7月各平台排播🍉（5.30）",
+      "author": "福气大橘",
+      "time": "1天前",
+      "likes": "117",
+      "link": "https://www.xiaohongshu.com/explore/6a1aeb2c00000000380352db",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a1aeb2c00000000380352db?xsec_token=ABt7164RaAjt3WGkVaMtIIFkHKqpAQYawbuz70OIeFTSg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 117
+    }
+  ],
+  "totalLikes": 642,
+  "avgLikes": 49,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 22,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
