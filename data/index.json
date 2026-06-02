@@ -3,6 +3,85 @@
     {
       "date": "2026-06-02",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 22,
+      "file": "2026-06-02_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-02_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-02_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-02T00:46:07.165Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "腾讯",
+            20
+          ],
+          [
+            "爱奇艺",
+            13
+          ],
+          [
+            "想把你和",
+            10
+          ],
+          [
+            "时间藏起",
+            10
+          ],
+          [
+            "芒果",
+            9
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅...",
+            "content": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖 ​ 展开c",
+            "author": "朱红院",
+            "time": "05月30日 17:35",
+            "likes": "48277",
+            "link": "https://weibo.com/2949989907/R1OA3FDYc?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖 ​ 展",
+            "likeCount": 48277
+          },
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45752",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45752
+          },
+          {
+            "title": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心...",
+            "content": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑 ​",
+            "author": "想把你和时间藏起来官微",
+            "time": "06月01日 12:00",
+            "likes": "15882",
+            "link": "https://weibo.com/7311580609/R25eVEJmT?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑 ​",
+            "likeCount": 15882
+          }
+        ],
+        "totalLikes": 138299,
+        "avgLikes": 9879,
+        "sentiment": {
+          "positive": 4,
+          "negative": 0,
+          "neutral": 18,
+          "positivePercent": 18,
+          "negativePercent": 0,
+          "neutralPercent": 82
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 16,
       "file": "2026-06-02_爱奇艺_xiaohongshu.json",
@@ -2150,83 +2229,6 @@
           "positivePercent": 9,
           "negativePercent": 5,
           "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-05-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 15,
-      "file": "2026-05-20_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-20_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-20_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-20T06:09:47.517Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "无标题",
-            4
-          ],
-          [
-            "来战",
-            2
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "影视会员",
-            2
-          ],
-          [
-            "季度亏损",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "来战🥝鞠婧祎张云龙心动落款",
-            "author": "爱奇艺",
-            "time": "4小时前",
-            "likes": "3778",
-            "link": "https://www.xiaohongshu.com/explore/6a0c3fa7000000003700c96a",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0c3fa7000000003700c96a?xsec_token=ABfmZkm7SOKgA2OL_g2C5vIrp2CkjkOG8UOcMLr2nnFaE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "谁来懂一下阿黛#鞠婧祎  萧逸寒#张云龙  这美妙的氛围感，描摹专属印记，对视间心跳悄然失序。期待与#来战  早日相见！#爱奇艺520一秒嗑上了",
-            "likeCount": 3778
-          },
-          {
-            "title": "李现张婧仪 雾里青爱意浮现💜",
-            "author": "爱奇艺",
-            "time": "4小时前",
-            "likes": "1993",
-            "link": "https://www.xiaohongshu.com/explore/6a0d11b0000000003501c699",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0d11b0000000003501c699?xsec_token=ABMjdUc8M1O-bH5cTEIPuOeZOM3IMHeTPTOrOxh-e721o=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 1993
-          },
-          {
-            "title": "雀骨 侯明昊艾米眉眼低垂深情相依",
-            "author": "爱奇艺",
-            "time": "4小时前",
-            "likes": "943",
-            "link": "https://www.xiaohongshu.com/explore/6a0c37ca000000003701c150",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0c37ca000000003701c150?xsec_token=ABfmZkm7SOKgA2OL_g2C5vImZY49wMWEqbls-NINpsexc=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 943
-          }
-        ],
-        "totalLikes": 6783,
-        "avgLikes": 969,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 13,
-          "positivePercent": 13,
-          "negativePercent": 0,
-          "neutralPercent": 87
         }
       }
     }
