@@ -3,6 +3,85 @@
     {
       "date": "2026-06-03",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 21,
+      "file": "2026-06-03_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-03_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-03_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-03T00:46:07.478Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "灵魂摆渡",
+            33
+          ],
+          [
+            "十年",
+            14
+          ],
+          [
+            "展开",
+            11
+          ],
+          [
+            "想把你和",
+            10
+          ],
+          [
+            "时间藏起",
+            10
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅...",
+            "content": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖 展开c",
+            "author": "朱红院",
+            "time": "05月30日 17:35",
+            "likes": "48351",
+            "link": "https://weibo.com/2949989907/R1OA3FDYc?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺古装剧《念相思》\n主演：虞书欣、侯明昊、古子成\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖 展开c",
+            "likeCount": 48351
+          },
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45745",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45745
+          },
+          {
+            "title": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心...",
+            "content": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑",
+            "author": "想把你和时间藏起来官微",
+            "time": "06月01日 12:00",
+            "likes": "16617",
+            "link": "https://weibo.com/7311580609/R25eVEJmT?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑",
+            "likeCount": 16617
+          }
+        ],
+        "totalLikes": 141520,
+        "avgLikes": 10109,
+        "sentiment": {
+          "positive": 3,
+          "negative": 0,
+          "neutral": 18,
+          "positivePercent": 14,
+          "negativePercent": 0,
+          "neutralPercent": 86
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 15,
       "file": "2026-06-03_爱奇艺_xiaohongshu.json",
@@ -2152,82 +2231,6 @@
           "positivePercent": 5,
           "negativePercent": 5,
           "neutralPercent": 91
-        }
-      }
-    },
-    {
-      "date": "2026-05-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 16,
-      "file": "2026-05-20_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-20_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-20_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-20T06:29:47.074Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "无标题",
-            3
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "爱奇艺会",
-            2
-          ],
-          [
-            "腾讯",
-            2
-          ],
-          [
-            "优酷",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺26Q1季度亏损新高-2.94e",
-            "author": "止风藏星✨",
-            "time": "1天前",
-            "likes": "34",
-            "link": "https://www.xiaohongshu.com/explore/6a0b1ad2000000003501ca13",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0b1ad2000000003501ca13?xsec_token=ABCa2W2gU1oluPMplkZocbjyj7Nby6UPErf91zR5fvSaY=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 34
-          },
-          {
-            "title": "杨紫角色热度破三亿 影视寒冬寒不到好演员",
-            "author": "小圆闹影视",
-            "time": "3小时前",
-            "likes": "24",
-            "link": "https://www.xiaohongshu.com/explore/6a0d1eb8000000003701e79f",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0d1eb8000000003701e79f?xsec_token=ABMjdUc8M1O-bH5cTEIPuOebkeE1MhKFttRxF2KmMfdag=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 24
-          },
-          {
-            "title": "(无标题)",
-            "author": "零零落落零零落落零零落落啦啦",
-            "time": "2小时前",
-            "likes": "7",
-            "link": "https://www.xiaohongshu.com/explore/6a0d2d350000000007020806",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0d2d350000000007020806?xsec_token=ABMjdUc8M1O-bH5cTEIPuOed8lWZjzGKfmFFGssNcxHRE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 7
-          }
-        ],
-        "totalLikes": 70,
-        "avgLikes": 14,
-        "sentiment": {
-          "positive": 1,
-          "negative": 0,
-          "neutral": 15,
-          "positivePercent": 6,
-          "negativePercent": 0,
-          "neutralPercent": 94
         }
       }
     }
