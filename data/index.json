@@ -3,6 +3,85 @@
     {
       "date": "2026-06-05",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 22,
+      "file": "2026-06-05_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-05_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-05_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-05T00:46:03.782Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "芒果",
+            15
+          ],
+          [
+            "会员腾讯",
+            12
+          ],
+          [
+            "视频会员",
+            12
+          ],
+          [
+            "优酷",
+            12
+          ],
+          [
+            "微博会员",
+            12
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45738",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45738
+          },
+          {
+            "title": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史...",
+            "content": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频",
+            "author": "柚子娱乐",
+            "time": "06月04日 09:29",
+            "likes": "36869",
+            "link": "https://weibo.com/2284130703/R2wxsAtPd?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频",
+            "likeCount": 36869
+          },
+          {
+            "title": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫...",
+            "content": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐#",
+            "author": "爱奇艺",
+            "time": "06月03日 10:45",
+            "likes": "22492",
+            "link": "https://weibo.com/1731986465/R2nBHET4g?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐#",
+            "likeCount": 22492
+          }
+        ],
+        "totalLikes": 162474,
+        "avgLikes": 10832,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 20,
+          "positivePercent": 9,
+          "negativePercent": 0,
+          "neutralPercent": 91
+        }
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 6,
       "file": "2026-06-05_爱奇艺_xiaohongshu.json",
@@ -2166,63 +2245,6 @@
         ],
         "totalLikes": 34,
         "avgLikes": 34,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 1,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-05-22",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 1,
-      "file": "2026-05-22_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-22_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-22_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-22T00:45:20.166Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺又",
-            1
-          ],
-          [
-            "在闯什么",
-            1
-          ],
-          [
-            "祸呢",
-            1
-          ],
-          [
-            "今日已更",
-            1
-          ],
-          [
-            "十个勤天",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "🥝爱奇艺又在闯什么祸呢",
-            "author": "我喜欢阴天",
-            "time": "昨天 10:46",
-            "likes": "5",
-            "link": "https://www.xiaohongshu.com/explore/6a0e71e90000000038020e28",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0e71e90000000038020e28?xsec_token=ABnKeUSBLXc5XLFTOnfWXDtMQz-D-aRQWLXcnH0opIDSI=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "今日已更 #十个勤天",
-            "likeCount": 5
-          }
-        ],
-        "totalLikes": 5,
-        "avgLikes": 5,
         "sentiment": {
           "positive": 0,
           "negative": 0,
