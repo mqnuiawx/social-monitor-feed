@@ -1,6 +1,85 @@
 {
   "updates": [
     {
+      "date": "2026-06-05",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 6,
+      "file": "2026-06-05_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-05_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-05_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-05T00:45:47.154Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "腾讯视频",
+            3
+          ],
+          [
+            "爱奇艺的",
+            2
+          ],
+          [
+            "爱奇艺",
+            2
+          ],
+          [
+            "最高会员",
+            2
+          ],
+          [
+            "爱奇艺骚",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺，给我开发票！！！",
+            "author": "嗷哈哈",
+            "time": "昨天 17:34",
+            "likes": "45",
+            "link": "https://www.xiaohongshu.com/explore/6a2146b20000000038023177",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2146b20000000038023177?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwRlkYP8dooKSXfHkCRnbVUI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "看家业的朋友们，买了超点或者星钻，记得在爱奇艺开发票哟！！！！卡热度是吧，那就把发票开起来，备注家业加更礼。在订单里面点击右上角三个点，输入开票信息后，即可开发票了～～～",
+            "likeCount": 45
+          },
+          {
+            "title": "体验了下爱奇艺的AIGC平台",
+            "author": "十七卡蓝里",
+            "time": "昨天 13:44",
+            "likes": "27",
+            "link": "https://www.xiaohongshu.com/explore/6a2110b90000000038034fa7",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2110b90000000038034fa7?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwW0Wp4v6rbdHFDbeeC5LGeI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "爱奇艺的纳逗pro蕞近搞了联合happyhorse的社区作品投稿项目，有对应模型的积分体验。有夯有拉。 体验不错的: 1️⃣这次主要体验了画布，有一个案例prompt参考，确实可以作为比较专业的剧本框架学 2️⃣画布使用不难，文生和图生效果都还不错，多个模型可以选，但得看纳逗积分的定向适用哪些模型。可以邀请团队成员共同创作 3️⃣同一个prompt和图片素材放在纳逗pro的happyhorse比直",
+            "likeCount": 27
+          },
+          {
+            "title": "爱奇艺骚操作",
+            "author": "球吖",
+            "time": "昨天 12:02",
+            "likes": "25",
+            "link": "https://www.xiaohongshu.com/explore/6a20f8f2000000002201a727",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a20f8f2000000002201a727?xsec_token=AB8HHPrV8oq-fzKchdfqWjW3q3zT9_IxX3irex2zTlXB8=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "冲个会员追剧，追了这么多天了，没想到大结局还要我额外花钱看，果断弃剧，不是剧不好看，是我们路人不会为一个剧充值又充值，爱奇艺一生黑#影视会员 #家业 #爱奇艺会员 #家业大结局",
+            "likeCount": 25
+          }
+        ],
+        "totalLikes": 107,
+        "avgLikes": 21,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 6,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-04",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2151,85 +2230,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-05-21",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 22,
-      "file": "2026-05-21_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-21_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-21_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-21T00:45:53.384Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            37
-          ],
-          [
-            "杨紫",
-            15
-          ],
-          [
-            "家业",
-            15
-          ],
-          [
-            "杨紫超话",
-            12
-          ],
-          [
-            "杨紫李祯",
-            12
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家...",
-            "content": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家业#正在热播中！ ​",
-            "author": "爱奇艺",
-            "time": "05月19日 10:10",
-            "likes": "138871",
-            "link": "https://weibo.com/1731986465/R05Y5fi4J?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家业#正在热播中！ ​",
-            "likeCount": 138871
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45787",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45787
-          },
-          {
-            "title": "#爱奇艺520新剧物料预告# 前方高甜请注意桃厂 520「全糖模式」即将开启，超多剧集、综艺心动物料即将掉落，还有更多神...",
-            "content": "#爱奇艺520新剧物料预告# 前方高甜请注意桃厂 520「全糖模式」即将开启，超多剧集、综艺心动物料即将掉落，还有更多神秘惊喜待解锁，速速码住这份预告，准备好迎接🥝520的甜蜜席卷吧#520夯甜剧会# ​",
-            "author": "爱奇艺",
-            "time": "05月19日 14:00",
-            "likes": "44614",
-            "link": "https://weibo.com/1731986465/R07tbnJzU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#爱奇艺520新剧物料预告# 前方高甜请注意桃厂 520「全糖模式」即将开启，超多剧集、综艺心动物料即将掉落，还有更多神秘惊喜待解锁，速速码住这份预告，准备好迎接🥝520的甜蜜席卷吧#520夯甜剧会# ​",
-            "likeCount": 44614
-          }
-        ],
-        "totalLikes": 376350,
-        "avgLikes": 22138,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 20,
-          "positivePercent": 9,
-          "negativePercent": 0,
-          "neutralPercent": 91
         }
       }
     }
