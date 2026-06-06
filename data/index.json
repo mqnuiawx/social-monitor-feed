@@ -3,6 +3,85 @@
     {
       "date": "2026-06-06",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 22,
+      "file": "2026-06-06_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-06_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-06_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-06T00:46:04.427Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            11
+          ],
+          [
+            "想把你和",
+            10
+          ],
+          [
+            "时间藏起",
+            10
+          ],
+          [
+            "家业没破",
+            8
+          ],
+          [
+            "南部档案",
+            8
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45738",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45738
+          },
+          {
+            "title": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史...",
+            "content": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频 ​",
+            "author": "柚子娱乐",
+            "time": "06月04日 09:29",
+            "likes": "37383",
+            "link": "https://weibo.com/2284130703/R2wxsAtPd?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频 ​",
+            "likeCount": 37383
+          },
+          {
+            "title": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫...",
+            "content": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐# ​",
+            "author": "爱奇艺",
+            "time": "06月03日 10:45",
+            "likes": "22825",
+            "link": "https://weibo.com/1731986465/R2nBHET4g?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐# ​",
+            "likeCount": 22825
+          }
+        ],
+        "totalLikes": 166163,
+        "avgLikes": 9231,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 20,
+          "positivePercent": 9,
+          "negativePercent": 0,
+          "neutralPercent": 91
+        }
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 11,
       "file": "2026-06-06_爱奇艺_xiaohongshu.json",
@@ -2193,84 +2272,6 @@
           "positivePercent": 10,
           "negativePercent": 0,
           "neutralPercent": 90
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 11,
-      "file": "2026-05-24_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-24_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-24_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-24T01:37:09.920Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            3
-          ],
-          [
-            "入驻",
-            3
-          ],
-          [
-            "奇艺",
-            3
-          ],
-          [
-            "无标题",
-            3
-          ],
-          [
-            "拒绝职场",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "(无标题)",
-            "author": "小婧祎",
-            "time": "昨天 14:06",
-            "likes": "116",
-            "link": "https://www.xiaohongshu.com/explore/6a11436e000000000702e713",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a11436e000000000702e713?xsec_token=ABlBUTR86eaq9EkFwIK9fLeSffqhGQqW8lcxgEzcExXvY=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 116
-          },
-          {
-            "title": "爱奇艺会员运营实习生招继任（急）",
-            "author": "楠穆糍",
-            "time": "1天前",
-            "likes": "82",
-            "link": "https://www.xiaohongshu.com/explore/6a1028f1000000000702adae",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1028f1000000000702adae?xsec_token=ABD_phlH-VwYqsT1gGvrvXs3OTamUBYmMkLwvye7cUjj8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "【岗位名称】爱奇艺 - 会员运营实习生 【Base 地点】北京・三里屯（爱奇艺青春中心） 📌 核心工作职责 1.协助配置系统对外接口中日常，促销，精细化人群策略相关参数，监控配置上线进度。 2.协助产品优化项目的落地支持工作，在新版系统上线后能够对其熟练运用。 3.协助日常运营数据统计，包括BI系统取数，数据分析及看板搭建。 📌 任职要求 本科及以上在校生，统计学、财务、经济等相关专业优先； ",
-            "likeCount": 82
-          },
-          {
-            "title": "女生必看9部长脑子的电视剧",
-            "author": "蔚然在成长",
-            "time": "1天前",
-            "likes": "81",
-            "link": "https://www.xiaohongshu.com/explore/6a0bf18000000000060312b4",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0bf18000000000060312b4?xsec_token=ABCa2W2gU1oluPMplkZocbj8qxcVENxDrpvPo0PlZV8Qs=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "迷茫困惑，内耗无助的时候看看，每部电视或多或少都有自己的影子📺 ✨《玫瑰的故事》｜腾.讯 看清婚姻的样子，及时止损 ✨《都挺好》｜爱.奇艺 原生家庭自愈教科书 ✨《风吹半夏》｜爱.奇艺 拒绝职场玻璃心，成长教科书 ✨《新闻女王》｜优.酷 拒绝职场玻璃心，成长靠努力力 ✨《去有风的地方》｜芒.果TV 工作累了，就休息放松下 ✨《幸福到万家》｜优.酷 普通女性觉醒范本 ✨《人世间》｜央.视 生活虽苦",
-            "likeCount": 81
-          }
-        ],
-        "totalLikes": 365,
-        "avgLikes": 46,
-        "sentiment": {
-          "positive": 2,
-          "negative": 1,
-          "neutral": 8,
-          "positivePercent": 18,
-          "negativePercent": 9,
-          "neutralPercent": 73
         }
       }
     }
