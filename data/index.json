@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-06-06",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 11,
+      "file": "2026-06-06_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-06_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-06_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-06T00:45:47.314Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺季",
+            8
+          ],
+          [
+            "爱奇艺会",
+            5
+          ],
+          [
+            "京东",
+            5
+          ],
+          [
+            "换绑",
+            4
+          ],
+          [
+            "介意勿拍",
+            3
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺，给我开发票！！！",
+            "author": "嗷哈哈",
+            "time": "1天前",
+            "likes": "68",
+            "link": "https://www.xiaohongshu.com/explore/6a2146b20000000038023177",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2146b20000000038023177?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwdJaYwBDDZoKV2IdRLL0SPI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 68
+          },
+          {
+            "title": "感谢爱奇艺金豪笔编剧之夜",
+            "author": "凤梨宇宙漫游日记",
+            "time": "昨天 14:04",
+            "likes": "54",
+            "link": "https://www.xiaohongshu.com/explore/6a2266dd0000000036033e81",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2266dd0000000036033e81?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCJtToV-mnSD29CM5P6HzGYo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 54
+          },
+          {
+            "title": "爱奇艺会员",
+            "author": "lii_yoown",
+            "time": "昨天 17:59",
+            "likes": "2",
+            "link": "https://www.xiaohongshu.com/explore/6a229e10000000002202b2a7",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a229e10000000002202b2a7?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCFa1F7-rzRfOXB4OQ9APREU=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 2
+          }
+        ],
+        "totalLikes": 128,
+        "avgLikes": 18,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 10,
+          "positivePercent": 9,
+          "negativePercent": 0,
+          "neutralPercent": 91
+        }
+      }
+    },
+    {
       "date": "2026-06-05",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2195,63 +2271,6 @@
           "positivePercent": 18,
           "negativePercent": 9,
           "neutralPercent": 73
-        }
-      }
-    },
-    {
-      "date": "2026-05-23",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 1,
-      "file": "2026-05-23_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-23_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-23_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-23T00:45:20.809Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "为什么还",
-            2
-          ],
-          [
-            "是打不过",
-            2
-          ],
-          [
-            "腾讯和爱",
-            2
-          ],
-          [
-            "奇艺",
-            2
-          ],
-          [
-            "阿里收购",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "为什么还是打不过腾讯和爱奇艺？",
-            "author": "Ai与商业",
-            "time": "1天前",
-            "likes": "34",
-            "link": "https://www.xiaohongshu.com/explore/6a0ec2d4000000000603567c",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a0ec2d4000000000603567c?xsec_token=ABnKeUSBLXc5XLFTOnfWXDtJ4tpHK4sokrHsnDZOwF5p8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "阿里收购优酷多年，为什么还是打不过腾讯和爱奇艺？",
-            "likeCount": 34
-          }
-        ],
-        "totalLikes": 34,
-        "avgLikes": 34,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 1,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }

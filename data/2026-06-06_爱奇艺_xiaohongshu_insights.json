@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺季",
+      8
+    ],
+    [
+      "爱奇艺会",
+      5
+    ],
+    [
+      "京东",
+      5
+    ],
+    [
+      "换绑",
+      4
+    ],
+    [
+      "介意勿拍",
+      3
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺，给我开发票！！！",
+      "author": "嗷哈哈",
+      "time": "1天前",
+      "likes": "68",
+      "link": "https://www.xiaohongshu.com/explore/6a2146b20000000038023177",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2146b20000000038023177?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwdJaYwBDDZoKV2IdRLL0SPI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 68
+    },
+    {
+      "title": "感谢爱奇艺金豪笔编剧之夜",
+      "author": "凤梨宇宙漫游日记",
+      "time": "昨天 14:04",
+      "likes": "54",
+      "link": "https://www.xiaohongshu.com/explore/6a2266dd0000000036033e81",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2266dd0000000036033e81?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCJtToV-mnSD29CM5P6HzGYo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 54
+    },
+    {
+      "title": "爱奇艺会员",
+      "author": "lii_yoown",
+      "time": "昨天 17:59",
+      "likes": "2",
+      "link": "https://www.xiaohongshu.com/explore/6a229e10000000002202b2a7",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a229e10000000002202b2a7?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCFa1F7-rzRfOXB4OQ9APREU=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 2
+    }
+  ],
+  "totalLikes": 128,
+  "avgLikes": 18,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 10,
+    "positivePercent": 9,
+    "negativePercent": 0,
+    "neutralPercent": 91
+  }
+}
