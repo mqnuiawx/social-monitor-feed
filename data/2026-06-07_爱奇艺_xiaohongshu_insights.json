@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "爱奇艺",
+      3
+    ],
+    [
+      "艺会员",
+      2
+    ],
+    [
+      "爱奇艺的",
+      2
+    ],
+    [
+      "长期主义",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "感谢爱奇艺金豪笔编剧之夜",
+      "author": "凤梨读博日志",
+      "time": "1天前",
+      "likes": "88",
+      "link": "https://www.xiaohongshu.com/explore/6a2266dd0000000036033e81",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2266dd0000000036033e81?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCNwJB6dhoziOXq7cyQxSF6s=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 88
+    },
+    {
+      "title": "超燃青春的合唱剪辑",
+      "author": "贴两张大饼子",
+      "time": "1天前",
+      "likes": "57",
+      "link": "https://www.xiaohongshu.com/explore/6a235bf8000000002200a240",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a235bf8000000002200a240?xsec_token=ABiPonnL7sHHJEzEQSWiQ_vyzNoB_LtGWuGYDUA5AwJ2M=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 57
+    },
+    {
+      "title": "爱奇艺！你吃相真有点难看了！",
+      "author": "花晚莳",
+      "time": "1天前",
+      "likes": "23",
+      "link": "https://www.xiaohongshu.com/explore/6a22b975000000001702ca8b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a22b975000000001702ca8b?xsec_token=ABTtgCl8bpPgYQi9yt_ciGCHyc559Mb5CNhyhfwe0sr-0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 23
+    }
+  ],
+  "totalLikes": 213,
+  "avgLikes": 15,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 16,
+    "positivePercent": 6,
+    "negativePercent": 0,
+    "neutralPercent": 94
+  }
+}
