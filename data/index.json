@@ -3,6 +3,85 @@
     {
       "date": "2026-06-07",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 22,
+      "file": "2026-06-07_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-07_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-07_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-07T00:46:13.953Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "会员",
+            31
+          ],
+          [
+            "爱奇艺",
+            15
+          ],
+          [
+            "京东",
+            11
+          ],
+          [
+            "想把你和",
+            10
+          ],
+          [
+            "时间藏起",
+            10
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45737",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45737
+          },
+          {
+            "title": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫...",
+            "content": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐# ​",
+            "author": "爱奇艺",
+            "time": "06月03日 10:45",
+            "likes": "22970",
+            "link": "https://weibo.com/1731986465/R2nBHET4g?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#桃艺心动播报# 小奇来祝@Dear-迪丽热巴 生日快乐啦！愿你永远被爱包围，想要的都能得到，想去的地方都能抵达期待和卫蓝早日见面~也可以来@爱奇艺 重温李慧珍、周放、安旎、邓妍的精彩故事哦！#迪丽热巴0603生日快乐# ​",
+            "likeCount": 22970
+          },
+          {
+            "title": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心...",
+            "content": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑 ​",
+            "author": "想把你和时间藏起来官微",
+            "time": "06月01日 12:00",
+            "likes": "18128",
+            "link": "https://weibo.com/7311580609/R25eVEJmT?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#想把你和时间藏起来时差回响杀青特辑# #想把你和时间藏起来杀青# 恰逢其时的相遇，思绪辗转的重逢。宿命拨弄分秒时差，心跳回响，爱意永恒。#想把你和时间藏起来#\n@爱奇艺 心动预约：O网页链接\nL《想把你和时间藏起来》时差回响杀青特辑 ​",
+            "likeCount": 18128
+          }
+        ],
+        "totalLikes": 131897,
+        "avgLikes": 10146,
+        "sentiment": {
+          "positive": 4,
+          "negative": 0,
+          "neutral": 18,
+          "positivePercent": 18,
+          "negativePercent": 0,
+          "neutralPercent": 82
+        }
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 17,
       "file": "2026-06-07_爱奇艺_xiaohongshu.json",
@@ -2193,82 +2272,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 12,
-      "file": "2026-05-24_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-24_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-24_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-24T04:23:43.574Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "入驻",
-            3
-          ],
-          [
-            "无标题",
-            3
-          ],
-          [
-            "爱奇艺会",
-            3
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "宝宝爱奇",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "🐱9部治愈日剧，每一部都想住进去",
-            "author": "所長的电影世界",
-            "time": "1天前",
-            "likes": "404",
-            "link": "https://www.xiaohongshu.com/explore/6a10daa7000000003502cd07",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a10daa7000000003502cd07?xsec_token=ABD_phlH-VwYqsT1gGvrvXs-C17UZPJUQ9JGxq2oCHweE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 404
-          },
-          {
-            "title": "电视剧《问心2》定档",
-            "author": "影视剧透社",
-            "time": "昨天 19:45",
-            "likes": "109",
-            "link": "https://www.xiaohongshu.com/explore/6a11933f0000000007023214",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a11933f0000000007023214?xsec_token=ABlBUTR86eaq9EkFwIK9fLeQkf69FfqYC9k4Hi2Vy4yKE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 109
-          },
-          {
-            "title": "爱奇艺会员运营实习生招继任（急）",
-            "author": "楠穆糍",
-            "time": "1天前",
-            "likes": "83",
-            "link": "https://www.xiaohongshu.com/explore/6a1028f1000000000702adae",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1028f1000000000702adae?xsec_token=ABD_phlH-VwYqsT1gGvrvXs3OTamUBYmMkLwvye7cUjj8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 83
-          }
-        ],
-        "totalLikes": 737,
-        "avgLikes": 74,
-        "sentiment": {
-          "positive": 1,
-          "negative": 1,
-          "neutral": 10,
-          "positivePercent": 8,
-          "negativePercent": 8,
-          "neutralPercent": 83
         }
       }
     }
