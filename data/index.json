@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-08",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 13,
+      "file": "2026-06-08_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-08_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-08_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-08T00:45:47.097Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺季",
+            4
+          ],
+          [
+            "京东",
+            3
+          ],
+          [
+            "爱奇艺",
+            3
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "艺会员",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺热度",
+            "author": "花开富贵宁静致远",
+            "time": "1天前",
+            "likes": "763",
+            "link": "https://www.xiaohongshu.com/explore/6a242fa90000000017009ff4",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a242fa90000000017009ff4?xsec_token=ABqhrn0H1Z25c8xwkyMT3nPfPK0vl1gMq5P_l0vD2Zdkc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "家业超点+6，自制剧超点+400，你说这是正常热度鬼都不信……#家业 #爱奇艺 #自制剧 #热度",
+            "likeCount": 763
+          },
+          {
+            "title": "封神 10 部年代剧｜剧荒直接码住不踩雷✅",
+            "author": "趣味",
+            "time": "1天前",
+            "likes": "41",
+            "link": "https://www.xiaohongshu.com/explore/6a23880c0000000007027472",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a23880c0000000007027472?xsec_token=ABiPonnL7sHHJEzEQSWiQ_v8CRBVjWOBT7lRg86LaUgcI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 41
+          },
+          {
+            "title": "爱奇艺吃相真难看",
+            "author": "辰玉",
+            "time": "1天前",
+            "likes": "28",
+            "link": "https://www.xiaohongshu.com/explore/6a23f75d000000001702bd15",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a23f75d000000001702bd15?xsec_token=ABiPonnL7sHHJEzEQSWiQ_vxDJhZxoh-obXRsaSlgTvWM=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 28
+          }
+        ],
+        "totalLikes": 858,
+        "avgLikes": 95,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 13,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-07",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2195,85 +2272,6 @@
       "insightsFile": "2026-05-25_爱奇艺_xiaohongshu_insights.json",
       "timestamp": "2026-05-25T00:45:45.187Z",
       "insights": null
-    },
-    {
-      "date": "2026-05-24",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-05-24_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-24_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-24_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-24T04:24:00.089Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            19
-          ],
-          [
-            "家业",
-            16
-          ],
-          [
-            "杨紫",
-            15
-          ],
-          [
-            "年第一",
-            8
-          ],
-          [
-            "网页链接",
-            8
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家...",
-            "content": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家业#正在热播中！ ​",
-            "author": "爱奇艺",
-            "time": "05月19日 10:10",
-            "likes": "139257",
-            "link": "https://weibo.com/1731986465/R05Y5fi4J?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#杨紫爱奇艺角色破两亿#\n柔肩担家业，方寸蕴初心，恭喜李祯@杨紫 #爱奇艺角色热度# 破两亿！每日19:30@爱奇艺#家业#正在热播中！ ​",
-            "likeCount": 139257
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45776",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45776
-          },
-          {
-            "title": "杨紫《家业》爱奇艺热度破8888，稳稳保持6广\n#家业热度# ​",
-            "content": "杨紫《家业》爱奇艺热度破8888，稳稳保持6广\n#家业热度# ​",
-            "author": "友谊已走到尽头啦",
-            "time": "05月22日 21:55",
-            "likes": "8387",
-            "link": "https://weibo.com/5091022623/R0CROnqSa?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "杨紫《家业》爱奇艺热度破8888，稳稳保持6广\n#家业热度# ​",
-            "likeCount": 8387
-          }
-        ],
-        "totalLikes": 217928,
-        "avgLikes": 14529,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 21,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
-        }
-      }
     }
   ]
 }
