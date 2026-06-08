@@ -3,6 +3,85 @@
     {
       "date": "2026-06-08",
       "keyword": "爱奇艺",
+      "platform": "weibo",
+      "count": 21,
+      "file": "2026-06-08_爱奇艺_weibo.json",
+      "analysisFile": "2026-06-08_爱奇艺_weibo_analysis.md",
+      "insightsFile": "2026-06-08_爱奇艺_weibo_insights.json",
+      "timestamp": "2026-06-08T00:46:03.455Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "会员",
+            14
+          ],
+          [
+            "爱奇艺",
+            9
+          ],
+          [
+            "超点当天",
+            7
+          ],
+          [
+            "家业",
+            6
+          ],
+          [
+            "爱奇艺热",
+            6
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
+            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
+            "author": "爱奇艺",
+            "time": "04月20日 16:35",
+            "likes": "45736",
+            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
+            "likeCount": 45736
+          },
+          {
+            "title": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史...",
+            "content": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频 ​",
+            "author": "柚子娱乐",
+            "time": "06月04日 09:29",
+            "likes": "37535",
+            "link": "https://weibo.com/2284130703/R2wxsAtPd?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "版权剧在站内待遇太差了，家业热度放在近几年爱奇艺非自制非版权剧里已经算佼佼者了，剧情是真的很不错，有意思的是埋了很多历史细节，还挺值得看的。#家业没破万# L柚子娱乐的微博视频 ​",
+            "likeCount": 37535
+          },
+          {
+            "title": "#家业# 爱奇艺热度峰值达9342！千锤百炼，方得一锭徽墨；万水千山，不负一脉家业。一方团圆，便是最踏实的圆满！来爱奇艺...",
+            "content": "#家业# 爱奇艺热度峰值达9342！千锤百炼，方得一锭徽墨；万水千山，不负一脉家业。一方团圆，便是最踏实的圆满！来爱奇艺，重温徽州墨韵的温情与力量。@杨紫 @韩东君ElvisHan @吴冕1013 @田小洁 @徐百慧V @王梓豪Mikael @谢心_ @演员李泓良 @杨斯 ​",
+            "author": "电视剧家业",
+            "time": "06月06日 22:08",
+            "likes": "14869",
+            "link": "https://weibo.com/7948183734/R2UmkdILs?refer_flag=1001030103_",
+            "platform": "weibo",
+            "summary": "#家业# 爱奇艺热度峰值达9342！千锤百炼，方得一锭徽墨；万水千山，不负一脉家业。一方团圆，便是最踏实的圆满！来爱奇艺，重温徽州墨韵的温情与力量。@杨紫 @韩东君ElvisHan @吴冕1013 @田小洁 @徐百慧V @王梓豪Mikael @谢心_ @演员李泓良 @杨斯 ​",
+            "likeCount": 14869
+          }
+        ],
+        "totalLikes": 129836,
+        "avgLikes": 7637,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 19,
+          "positivePercent": 10,
+          "negativePercent": 0,
+          "neutralPercent": 90
+        }
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "keyword": "爱奇艺",
       "platform": "xiaohongshu",
       "count": 13,
       "file": "2026-06-08_爱奇艺_xiaohongshu.json",
@@ -2261,17 +2340,6 @@
           "neutralPercent": 100
         }
       }
-    },
-    {
-      "date": "2026-05-25",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 0,
-      "file": "2026-05-25_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-25_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-25_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-25T00:45:45.187Z",
-      "insights": null
     }
   ]
 }
