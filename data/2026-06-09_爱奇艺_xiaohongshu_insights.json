@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      2
+    ],
+    [
+      "爱奇艺破",
+      1
+    ],
+    [
+      "万俱乐部",
+      1
+    ],
+    [
+      "部剧",
+      1
+    ],
+    [
+      "带你盘点",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺破万俱乐部23部剧，带你盘点",
+      "author": "清单小宇宙",
+      "time": "昨天 18:10",
+      "likes": "20",
+      "link": "https://www.xiaohongshu.com/explore/6a264b5b00000000220221a0",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a264b5b00000000220221a0?xsec_token=ABlIIuC8DkyEUM6DzClK0Ioxr8GNs4xVtTcoXh6hgpUmo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "最近做数据复盘，把爱奇艺站内热度值突破10000的23部剧全部拉出来，按豆瓣评分、年份、类型、热度峰值做了几个维度的交叉对比。热度值是爱奇艺综合播放量、互动量等数据的指标，破万算是一个很硬的成绩。 几个事实摆在这里： 23部剧横跨2018到2026年，豆瓣评分从5.3到8.6，分差超过3分。唐诡西行8.6领跑，漂白5.3垫底。 从年度走势看，2024年是质量高点，3部剧均分8.03。2025年同样",
+      "likeCount": 20
+    },
+    {
+      "title": "爱奇艺是真·爆款制造机",
+      "author": "小圆闹影视",
+      "time": "昨天 17:09",
+      "likes": "8",
+      "link": "https://www.xiaohongshu.com/explore/6a2686d2000000002100acd6",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2686d2000000002100acd6?xsec_token=ABlIIuC8DkyEUM6DzClK0IowkPzGHJieqH9JZnuENAA1w=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 8
+    },
+    {
+      "title": "收爱奇艺会员，",
+      "author": "贝贝",
+      "time": "昨天 16:12",
+      "likes": "5",
+      "link": "https://www.xiaohongshu.com/explore/6a267956000000001503cf97",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a267956000000001503cf97?xsec_token=ABlIIuC8DkyEUM6DzClK0Io8378aFOUStql6jSQ0vveCk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "想看灵魂摆渡#爱奇艺",
+      "likeCount": 5
+    }
+  ],
+  "totalLikes": 39,
+  "avgLikes": 6,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
