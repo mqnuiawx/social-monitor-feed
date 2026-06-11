@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-06-11",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 22,
+      "file": "2026-06-11_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-11_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-11_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-11T00:45:49.120Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            7
+          ],
+          [
+            "无标题",
+            7
+          ],
+          [
+            "爱奇艺真",
+            2
+          ],
+          [
+            "腾讯",
+            2
+          ],
+          [
+            "优酷谁能",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "点击收听李亦非傲娇“毒舌”语录~",
+            "author": "爱奇艺",
+            "time": "昨天 15:00",
+            "likes": "2596",
+            "link": "https://www.xiaohongshu.com/explore/6a28df16000000001c027759",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a28df16000000001c027759?xsec_token=AB2thRlSsS197dJMY8EszHIG-UtxlMLVmVtgcUb2FgHPA=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 2596
+          },
+          {
+            "title": "今天下午六点空降爱奇艺，是真的吗？",
+            "author": "WiFi",
+            "time": "昨天 10:53",
+            "likes": "133",
+            "link": "https://www.xiaohongshu.com/explore/6a28d195000000002003b6f9",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a28d195000000002003b6f9?xsec_token=AB2thRlSsS197dJMY8EszHIOocwvj8FNk4K5zPLsx3MgM=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 133
+          },
+          {
+            "title": "爱奇艺销售运营实习生招继任（急）",
+            "author": "楠穆糍",
+            "time": "昨天 12:05",
+            "likes": "56",
+            "link": "https://www.xiaohongshu.com/explore/6a28e01000000000080256e5",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a28e01000000000080256e5?xsec_token=AB2thRlSsS197dJMY8EszHIBi8C12RQKUIGFlrpMRZtx4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 56
+          }
+        ],
+        "totalLikes": 2826,
+        "avgLikes": 236,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 22,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-10",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2259,85 +2335,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-05-26",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 20,
-      "file": "2026-05-26_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-26_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-26_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-26T00:46:04.125Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "家业",
-            19
-          ],
-          [
-            "杨紫",
-            15
-          ],
-          [
-            "一路繁花",
-            11
-          ],
-          [
-            "爱奇艺站",
-            9
-          ],
-          [
-            "内热度破",
-            9
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45775",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45775
-          },
-          {
-            "title": "以笔为刃破审美边界，以妆为魂凭匠意加冕，一场审美与创意的终极博弈正式拉开序幕，封神召集人@乐华娱乐杜华 ，封神见证官@何...",
-            "content": "以笔为刃破审美边界，以妆为魂凭匠意加冕，一场审美与创意的终极博弈正式拉开序幕，封神召集人@乐华娱乐杜华 ，封神见证官@何广智-、金靖@金九粒 、@孔雪儿 、@刘宇Yu_ ，封神体验官@王怡人yiren_ （按姓名首字母排序），封神鉴艺官@华天崎 、@侍慧Vicky 满怀期许，静待各路彩妆高手奔赴巅峰之战。 ​ 展开c",
-            "author": "爱奇艺艺笔封神",
-            "time": "05月25日 12:00",
-            "likes": "19648",
-            "link": "https://weibo.com/9042378846/R11fCAA8J?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "以笔为刃破审美边界，以妆为魂凭匠意加冕，一场审美与创意的终极博弈正式拉开序幕，封神召集人@乐华娱乐杜华 ，封神见证官@何广智-、金靖@金九粒 、@孔雪儿 、@刘宇Yu_ ，封神体验官@王怡人yiren_ （按姓名首字母排序），封神鉴艺官@华天崎 、@侍慧Vicky 满怀期许，静待各路彩妆高手奔赴巅峰",
-            "likeCount": 19648
-          },
-          {
-            "title": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#...",
-            "content": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#家业# 爱奇艺热度值破9000！#墨记李祯# ​",
-            "author": "杨紫工作室",
-            "time": "05月24日 20:57",
-            "likes": "18869",
-            "link": "https://weibo.com/5943858696/R0VleDuM2?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "杨紫超话#杨紫李祯##杨紫家业# \n粉金撒墨底，徽州入梦深。\n一步一回音，墨色诉不尽，此间情意。李祯@杨紫 与您同贺#家业# 爱奇艺热度值破9000！#墨记李祯# ​",
-            "likeCount": 18869
-          }
-        ],
-        "totalLikes": 128085,
-        "avgLikes": 7116,
-        "sentiment": {
-          "positive": 3,
-          "negative": 0,
-          "neutral": 17,
-          "positivePercent": 15,
-          "negativePercent": 0,
-          "neutralPercent": 85
         }
       }
     }
