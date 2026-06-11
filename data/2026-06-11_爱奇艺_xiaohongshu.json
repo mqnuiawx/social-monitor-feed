@@ -2,14 +2,14 @@
   "keyword": "爱奇艺",
   "platform": "xiaohongshu",
   "time_range": "24h",
-  "crawl_time": "2026-06-11T00:45:49.120Z",
-  "count": 22,
-  "insight-2": "【小红书·爱奇艺】监控洞察\n\n📊 数据概览：\n- 共抓取 22 条内容\n- 高互动内容（>1000赞）：1 条\n\n🔥 热门内容：\n1. 点击收听李亦非傲娇“毒舌”语录~（2596）\n\n🏷️ 热门话题：(无标题)、爱奇艺真NN的恶心、爱奇艺、优酷谁能撑到最后、爱奇艺真恶心人\n\n💡 情感倾向：正负面评价相当，保持中性\n",
+  "crawl_time": "2026-06-11T03:27:18.823Z",
+  "count": 20,
+  "insight-2": "【小红书·爱奇艺】监控洞察\n\n📊 数据概览：\n- 共抓取 20 条内容\n- 高互动内容（>1000赞）：2 条\n\n🔥 热门内容：\n1. 点击收听李亦非傲娇“毒舌”语录~（2696）\n2. 李亦非钱菲 和喜欢的人一起吃啥都幸福（2806）\n\n🏷️ 热门话题：(无标题)、爱奇艺真NN的恶心、爱奇艺、优酷谁能撑到最后、出爱奇艺季卡\n\n💡 情感倾向：正面评价居多，品牌口碑良好\n",
   "items": [
     {
       "title": "爱奇艺真NN的恶心",
       "author": "汪旺雪饼",
-      "time": "1小时前",
+      "time": "4小时前",
       "likes": "赞",
       "link": "https://www.xiaohongshu.com/explore/6a29ec1f000000003502b12c",
       "navLink": "https://www.xiaohongshu.com/search_result/6a29ec1f000000003502b12c?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi4_uYP9HHzX_aEMBOt_p-pQ=&xsec_source=",
@@ -20,94 +20,11 @@
       "title": "爱奇艺 腾讯 优酷谁能撑到最后？",
       "author": "Gin科技",
       "time": "昨天 16:37",
-      "likes": "赞",
+      "likes": "2",
       "link": "https://www.xiaohongshu.com/explore/6a29223f0000000008025828",
       "navLink": "https://www.xiaohongshu.com/search_result/6a29223f0000000008025828?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi7bnhOw6NdBOT2vBP5KM9os=&xsec_source=",
       "platform": "xiaohongshu",
       "summary": "爱奇艺 腾讯 优酷谁能撑到最后？"
-    },
-    {
-      "title": "爱奇艺真恶心人",
-      "author": "大福是兔宝",
-      "time": "昨天 19:23",
-      "likes": "3",
-      "link": "https://www.xiaohongshu.com/explore/6a29494a000000001702e590",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a29494a000000001702e590?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi59rhu7v3FRKQsYpJVF71BI=&xsec_source=",
-      "platform": "xiaohongshu",
-      "summary": "可以同时登陆两台设备但是两台设备都没有在观看 准备用平板看的时候总提示这个#爱奇艺会员 #爱奇艺视频 #爱奇艺 #爱奇艺 #爱奇艺"
-    },
-    {
-      "title": "爱奇艺的超前点播太不合理了",
-      "author": "星星眨眼",
-      "time": "昨天 22:39",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a2977360000000035020796",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a2977360000000035020796?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi0T7ECgyGAp70qZsLwm4gY0=&xsec_source=",
-      "platform": "xiaohongshu",
-      "summary": "灵摆今天更新到20集了，它的价格还是18元，人家腾讯都是3块钱一集点播，他这是固定礼包价18元，这就有点不合理了。最离谱的是我平板没登苹果的账号没办法付费，我就用手机爱奇艺付款了，付完自动开始播放21集，也就两秒钟吧，我就直接退出手机app了。准备切换到我的平板上大看特看一波，结果给我弹这个提示真离谱啊，我这个账号一共就登陆一台平板一台手机，我还不能同时看了？ 爱奇艺你不可能赚到所有钱的，真正想逃"
-    },
-    {
-      "title": "点击收听李亦非傲娇“毒舌”语录~",
-      "author": "爱奇艺",
-      "time": "昨天 15:00",
-      "likes": "2596",
-      "link": "https://www.xiaohongshu.com/explore/6a28df16000000001c027759",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28df16000000001c027759?xsec_token=AB2thRlSsS197dJMY8EszHIG-UtxlMLVmVtgcUb2FgHPA=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "爱奇艺销售运营实习生招继任（急）",
-      "author": "楠穆糍",
-      "time": "昨天 12:05",
-      "likes": "56",
-      "link": "https://www.xiaohongshu.com/explore/6a28e01000000000080256e5",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28e01000000000080256e5?xsec_token=AB2thRlSsS197dJMY8EszHIBi8C12RQKUIGFlrpMRZtx4=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "(无标题)",
-      "author": "清完兵线再团。",
-      "time": "昨天 15:48",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a2916e80000000035029055",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a2916e80000000035029055?xsec_token=ABl5Hz5IxOohsWe1NNkU4Biwfonmf9Fod9oMy9lDAW_9s=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "今天下午六点空降爱奇艺，是真的吗？",
-      "author": "WiFi",
-      "time": "昨天 10:53",
-      "likes": "133",
-      "link": "https://www.xiaohongshu.com/explore/6a28d195000000002003b6f9",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28d195000000002003b6f9?xsec_token=AB2thRlSsS197dJMY8EszHIOocwvj8FNk4K5zPLsx3MgM=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "恭喜学员拿下爱奇艺offer",
-      "author": "职选Marrkk求职咨询",
-      "time": "昨天 22:52",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a297a15000000001603d13c",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a297a15000000001603d13c?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi9GCIQb0v0vWPrAH-5KKbIA=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "(无标题)",
-      "author": "青山独归远",
-      "time": "昨天 12:19",
-      "likes": "1",
-      "link": "https://www.xiaohongshu.com/explore/6a28e5bd000000001603ef78",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28e5bd000000001603ef78?xsec_token=AB2thRlSsS197dJMY8EszHIA2RwqQ2AbcQ0d7CmY5EW6k=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "7点不播就开骂了！干嘛吊着我们",
-      "author": "F1s2a3b4y5k",
-      "time": "昨天 18:26",
-      "likes": "4",
-      "link": "https://www.xiaohongshu.com/explore/6a29388e0000000022015c8a",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a29388e0000000022015c8a?xsec_token=ABl5Hz5IxOohsWe1NNkU4BixEdAfB2lxKgcJwGQj3I5oM=&xsec_source=",
-      "platform": "xiaohongshu"
     },
     {
       "title": "出爱奇艺季卡",
@@ -116,15 +33,53 @@
       "likes": "2",
       "link": "https://www.xiaohongshu.com/explore/6a294df9000000003501e06b",
       "navLink": "https://www.xiaohongshu.com/search_result/6a294df9000000003501e06b?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi0fkeoaI9o4BgLTb7Y4j6mE=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "出爱奇艺季卡（可换绑） 京东开卡礼，只能你用 流程：先换绑到我手机号，我帮你领码，一个月后再换回你号（如果到时候政策不能换 就一直用我的） 爱奇艺会员，只有你一个人用，不共用"
+    },
+    {
+      "title": "点击收听李亦非傲娇“毒舌”语录~",
+      "author": "爱奇艺",
+      "time": "昨天 15:00",
+      "likes": "2696",
+      "link": "https://www.xiaohongshu.com/explore/6a28df16000000001c027759",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a28df16000000001c027759?xsec_token=AB2thRlSsS197dJMY8EszHIG-UtxlMLVmVtgcUb2FgHPA=&xsec_source=",
       "platform": "xiaohongshu"
     },
     {
-      "title": "我只是想开通爱奇艺 VIP 而已啊🥹",
-      "author": "Joy",
-      "time": "昨天 11:26",
-      "likes": "19",
-      "link": "https://www.xiaohongshu.com/explore/6a28d976000000000e021800",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28d976000000000e021800?xsec_token=AB2thRlSsS197dJMY8EszHINz7hvK0xzZJTCe5r6qHpKg=&xsec_source=",
+      "title": "出三端爱奇艺！！",
+      "author": "是小橙橙子",
+      "time": "2小时前",
+      "likes": "1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a01a60000000017029b38",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a01a60000000017029b38?xsec_token=AB5Wb5etkcAezZ90vqElu8MPC5o8dBHa7vENv-PXWQAB4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "一个人独享两个多月20💰，后面两个月还你的号码 一端月5，手机，电脑，平板三端都在，诚信可靠，需要的联系。#爱奇艺会员"
+    },
+    {
+      "title": "出爱奇艺会员",
+      "author": "w.",
+      "time": "2小时前",
+      "likes": "1",
+      "link": "https://www.xiaohongshu.com/explore/6a2a0b33000000003502295f",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a0b33000000003502295f?xsec_token=AB5Wb5etkcAezZ90vqElu8MP0CrT_fJYFG-VWkPlnStf8=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "李亦非钱菲 和喜欢的人一起吃啥都幸福",
+      "author": "爱奇艺",
+      "time": "昨天 14:11",
+      "likes": "2806",
+      "link": "https://www.xiaohongshu.com/explore/6a28ddaa000000001603c4ab",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a28ddaa000000001603c4ab?xsec_token=AB2thRlSsS197dJMY8EszHIASyVKthvFxJ179iu4amB7Y=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "岳云鹏锐评爱奇艺太狠了",
+      "author": "拌饭娱乐",
+      "time": "1天前",
+      "likes": "138",
+      "link": "https://www.xiaohongshu.com/explore/6a278a4500000000070106df",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a278a4500000000070106df?xsec_token=ABRuCe6_E_S4KGIbm-L10tSxQjgI7D-nqUTaUy8fmk-2M=&xsec_source=",
       "platform": "xiaohongshu"
     },
     {
@@ -146,66 +101,93 @@
       "platform": "xiaohongshu"
     },
     {
+      "title": "买肯德基大神卡送爱奇艺会员",
+      "author": "没有早安啦",
+      "time": "1天前",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/6a287c9b000000002201716b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a287c9b000000002201716b?xsec_token=AB2thRlSsS197dJMY8EszHIBvbWUFehGwpNRXyGzAEyj8=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
       "title": "(无标题)",
-      "author": "十三月的风",
-      "time": "昨天 12:55",
+      "author": "爱做梦的少女",
+      "time": "2小时前",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/6a2a0d950000000021016012",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a0d950000000021016012?xsec_token=AB5Wb5etkcAezZ90vqElu8MHm1D9Nyy6YIr8gQz-hQ_BE=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "爱奇艺季卡",
+      "author": "JKIMING",
+      "time": "昨天 15:58",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/6a2700960000000006036da7",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2700960000000006036da7?xsec_token=ABRuCe6_E_S4KGIbm-L10tSzJC7lWBjqPe6sFIuiU6f3o=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "今天下午六点空降爱奇艺，是真的吗？",
+      "author": "WiFi",
+      "time": "1天前",
+      "likes": "133",
+      "link": "https://www.xiaohongshu.com/explore/6a28d195000000002003b6f9",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a28d195000000002003b6f9?xsec_token=AB2thRlSsS197dJMY8EszHIOocwvj8FNk4K5zPLsx3MgM=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "15r出爱奇艺季卡，你独享我不用",
+      "author": "桑榆不晚",
+      "time": "2小时前",
+      "likes": "赞",
+      "link": "https://www.xiaohongshu.com/explore/6a2a07a4000000001702ed0e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a07a4000000001702ed0e?xsec_token=AB5Wb5etkcAezZ90vqElu8MOLvNuA2FUwvM4iW_s_QqU4=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "爱奇艺真恶心人",
+      "author": "大福是兔宝",
+      "time": "昨天 19:23",
+      "likes": "3",
+      "link": "https://www.xiaohongshu.com/explore/6a29494a000000001702e590",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a29494a000000001702e590?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi59rhu7v3FRKQsYpJVF71BI=&xsec_source=",
+      "platform": "xiaohongshu"
+    },
+    {
+      "title": "打卡爱奇艺乐园狂飙，后悔当初没追剧",
+      "author": "阿阳漫游",
+      "time": "2小时前",
       "likes": "2",
-      "link": "https://www.xiaohongshu.com/explore/6a28ee3400000000220212be",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28ee3400000000220212be?xsec_token=AB2thRlSsS197dJMY8EszHIEeNsBoi2NzkhYgY2IOAEhk=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "爱奇艺为了卖卡不择手段了……",
-      "author": "小小施",
-      "time": "昨天 17:55",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a2934840000000015026aee",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a2934840000000015026aee?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi8ORbNSEk8cGN8bPi-z8ywg=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "爱奇艺黄金vip 4个月",
-      "author": "star",
-      "time": "44分钟前",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a28a5db0000000008032f33",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28a5db0000000008032f33?xsec_token=AB2thRlSsS197dJMY8EszHIPX7GJE5rzhHv-XjZdI17Ys=&xsec_source=",
+      "link": "https://www.xiaohongshu.com/explore/6a2a0e6500000000350267ac",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a0e6500000000350267ac?xsec_token=AB5Wb5etkcAezZ90vqElu8MCILnC8OsdlDDpZmd_KnMtc=&xsec_source=",
       "platform": "xiaohongshu"
     },
     {
       "title": "(无标题)",
       "author": "萌萌🎫（主页个性",
-      "time": "昨天 11:06",
+      "time": "1天前",
       "likes": "4",
       "link": "https://www.xiaohongshu.com/explore/6a28d4a1000000001c027adc",
       "navLink": "https://www.xiaohongshu.com/search_result/6a28d4a1000000001c027adc?xsec_token=AB2thRlSsS197dJMY8EszHIPLgGb04hEGM_kdqoXy0Hkg=&xsec_source=",
       "platform": "xiaohongshu"
     },
     {
-      "title": "(无标题)",
-      "author": "之外",
-      "time": "1天前",
-      "likes": "赞",
-      "link": "https://www.xiaohongshu.com/explore/6a283d03000000000702f31f",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a283d03000000000702f31f?xsec_token=AB2thRlSsS197dJMY8EszHIJSzK3XghzlG2QPJrIsq6Ls=&xsec_source=",
+      "title": "7点不播就开骂了！干嘛吊着我们",
+      "author": "F1s2a3b4y5k",
+      "time": "昨天 18:26",
+      "likes": "8",
+      "link": "https://www.xiaohongshu.com/explore/6a29388e0000000022015c8a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a29388e0000000022015c8a?xsec_token=ABl5Hz5IxOohsWe1NNkU4BixEdAfB2lxKgcJwGQj3I5oM=&xsec_source=",
       "platform": "xiaohongshu"
     },
     {
-      "title": "6月15日起，CCTV8 &腾讯视频&爱奇艺",
-      "author": "玛奇朵mij",
-      "time": "昨天 11:20",
-      "likes": "4",
-      "link": "https://www.xiaohongshu.com/explore/6a28d6ab0000000006033891",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a28d6ab0000000006033891?xsec_token=AB2thRlSsS197dJMY8EszHIGxiIIcXsqzKP1o4XvSGuec=&xsec_source=",
-      "platform": "xiaohongshu"
-    },
-    {
-      "title": "(无标题)",
-      "author": "0824✨秋颖Joey",
-      "time": "昨天 23:41",
-      "likes": "2",
-      "link": "https://www.xiaohongshu.com/explore/6a298591000000003503bea8",
-      "navLink": "https://www.xiaohongshu.com/search_result/6a298591000000003503bea8?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi3lEA6FdJ-vE1CZITTYyv2Q=&xsec_source=",
+      "title": "爱奇艺尖叫之夜",
+      "author": "珊瑚shanhu",
+      "time": "昨天 12:28",
+      "likes": "53",
+      "link": "https://www.xiaohongshu.com/explore/6a28e7f4000000001702a865",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a28e7f4000000001702a865?xsec_token=AB2thRlSsS197dJMY8EszHIO8jOdvNUzopJYAW5rVPUF4=&xsec_source=",
       "platform": "xiaohongshu"
     }
   ]
