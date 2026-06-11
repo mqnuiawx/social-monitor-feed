@@ -2,6 +2,82 @@
   "updates": [
     {
       "date": "2026-06-11",
+      "keyword": "🥝",
+      "platform": "xiaohongshu",
+      "count": 23,
+      "file": "2026-06-11_🥝_xiaohongshu.json",
+      "analysisFile": "2026-06-11_🥝_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-11_🥝_xiaohongshu_insights.json",
+      "timestamp": "2026-06-11T03:29:38.636Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "分钟",
+            15
+          ],
+          [
+            "无标题",
+            5
+          ],
+          [
+            "南部档案",
+            4
+          ],
+          [
+            "云包场",
+            3
+          ],
+          [
+            "云包场分",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "《南部档案》定档🥝6.❓（maybe12号）",
+            "author": "爱看剧的温带北极熊",
+            "time": "昨天 18:14",
+            "likes": "107",
+            "link": "https://www.xiaohongshu.com/explore/6a28bb80000000001503e3bc",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a28bb80000000001503e3bc?xsec_token=AB2thRlSsS197dJMY8EszHIKp0w9Xoaaq4Kg5O3EQOwaM=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 107
+          },
+          {
+            "title": "广西男人 《爱情有烟火》CCTV8🥝🐧",
+            "author": "好了伤疤忘了疼",
+            "time": "昨天 14:55",
+            "likes": "96",
+            "link": "https://www.xiaohongshu.com/explore/6a2908d70000000021023d9f",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2908d70000000021023d9f?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi5AGu3QL5gU7Bi5t91HENsY=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 96
+          },
+          {
+            "title": "6.9☁️包场🐧🥝👖🥭",
+            "author": "🌾爱追剧",
+            "time": "1天前",
+            "likes": "93",
+            "link": "https://www.xiaohongshu.com/explore/6a276bad000000001702e7d6",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a276bad000000001702e7d6?xsec_token=ABRuCe6_E_S4KGIbm-L10tS-arOckRqbhNjUPMvTl0zi0=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 93
+          }
+        ],
+        "totalLikes": 641,
+        "avgLikes": 29,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 22,
+          "positivePercent": 4,
+          "negativePercent": 0,
+          "neutralPercent": 96
+        }
+      }
+    },
+    {
+      "date": "2026-06-11",
       "keyword": "爱艺奇",
       "platform": "xiaohongshu",
       "count": 26,
@@ -2254,83 +2330,6 @@
           "positivePercent": 5,
           "negativePercent": 0,
           "neutralPercent": 95
-        }
-      }
-    },
-    {
-      "date": "2026-05-28",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 7,
-      "file": "2026-05-28_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-28_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-28_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-28T00:45:47.193Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "自动续费",
-            4
-          ],
-          [
-            "无标题",
-            3
-          ],
-          [
-            "爱奇艺会",
-            2
-          ],
-          [
-            "电视剧",
-            2
-          ],
-          [
-            "爱奇艺一",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺会员六月开始就升级不了了！！！",
-            "author": "月落满霜✨",
-            "time": "1天前",
-            "likes": "6",
-            "link": "https://www.xiaohongshu.com/explore/6a14fbfc000000000702d31d",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a14fbfc000000000702d31d?xsec_token=ABz0PHN8aBnWmC58Xq4gfVRFueyt6Hp8A4nzzgShKhXO0=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 6
-          },
-          {
-            "title": "爱奇艺一季度 Ai相关成绩单",
-            "author": "冰川工作室",
-            "time": "昨天 10:19",
-            "likes": "5",
-            "link": "https://www.xiaohongshu.com/explore/6a1654c3000000003701f5b2",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1654c3000000003701f5b2?xsec_token=ABZ7fwsGqOGHUNau-Os-4e6WdXn9jjEx_KVTI8RXMLn5E=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 5
-          },
-          {
-            "title": "爱奇艺优酷你…..自动续费需要自己关两次！",
-            "author": "Yaya.",
-            "time": "1天前",
-            "likes": "4",
-            "link": "https://www.xiaohongshu.com/explore/6a1638a20000000008032e07",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1638a20000000008032e07?xsec_token=ABZ7fwsGqOGHUNau-Os-4e6RrBUxNEs38iRfEBi0HYaOc=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "前天看账单才知道被优酷偷偷扣费了，赶紧去关掉自动续费，还是去年为了看电视升级的svip，维权还被优酷拒绝了，准备今天早上继续找人工，就发现爱奇艺也被扣了，但是我爱奇艺手机上很早就关闭了自动续费，同样是vip升级的星钻….也没有通知，同时发现25日在优酷app内关闭的自动续费居然在支付宝还绑定着在，爱奇艺也是如此，app内关闭了自动续费后仍发现支付宝还绑定着在，我会继续投诉……这根本不合理，而且为什",
-            "likeCount": 4
-          }
-        ],
-        "totalLikes": 20,
-        "avgLikes": 3,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 7,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
