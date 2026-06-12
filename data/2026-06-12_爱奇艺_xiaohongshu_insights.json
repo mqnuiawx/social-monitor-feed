@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      5
+    ],
+    [
+      "无标题",
+      5
+    ],
+    [
+      "南部档案",
+      4
+    ],
+    [
+      "爱奇艺会",
+      2
+    ],
+    [
+      "爱奇艺动",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "🥝南部档案今日开播！",
+      "author": "爱奇艺",
+      "time": "昨天 11:25",
+      "likes": "6605",
+      "link": "https://www.xiaohongshu.com/explore/6a2a2abf000000001702dfe6",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a2abf000000001702dfe6?xsec_token=AB5Wb5etkcAezZ90vqElu8MNFtj5_QrMVfB9NCuVm8-cE=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 6605
+    },
+    {
+      "title": "檀健次王楚然 爱情有烟火最新剧照",
+      "author": "爱奇艺",
+      "time": "昨天 12:05",
+      "likes": "2342",
+      "link": "https://www.xiaohongshu.com/explore/6a2a17b8000000001603c360",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2a17b8000000001603c360?xsec_token=AB5Wb5etkcAezZ90vqElu8MCHnRIaiV6UaOzkCh_ppwZQ=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 2342
+    },
+    {
+      "title": "爱奇艺销售运营实习生招继任（急）",
+      "author": "楠穆糍",
+      "time": "1天前",
+      "likes": "73",
+      "link": "https://www.xiaohongshu.com/explore/6a28e01000000000080256e5",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a28e01000000000080256e5?xsec_token=AB2thRlSsS197dJMY8EszHIEa0p6UDr5hIhDFnUsTh42g=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 73
+    }
+  ],
+  "totalLikes": 9169,
+  "avgLikes": 509,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 23,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
