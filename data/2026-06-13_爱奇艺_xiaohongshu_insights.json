@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      5
+    ],
+    [
+      "爱奇艺季",
+      5
+    ],
+    [
+      "无标题",
+      4
+    ],
+    [
+      "季卡",
+      4
+    ],
+    [
+      "喜马拉雅",
+      3
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "檀健次王楚然 爱情有烟火狐兔师徒版海报",
+      "author": "爱奇艺",
+      "time": "昨天 10:46",
+      "likes": "2433",
+      "link": "https://www.xiaohongshu.com/explore/6a2b72f0000000001503e6a8",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2b72f0000000001503e6a8?xsec_token=ABMEhXAxSz6CpQA0rLoA_367YL3XMmC2eDI3QpxF0aFpQ=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 2433
+    },
+    {
+      "title": "南部档案爱奇艺热度破8000！",
+      "author": "爱奇艺",
+      "time": "昨天 13:29",
+      "likes": "2383",
+      "link": "https://www.xiaohongshu.com/explore/6a2b993c000000001700a03c",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2b993c000000001700a03c?xsec_token=ABMEhXAxSz6CpQA0rLoA_362-54w5BPyZS07A9caoB0jk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 2383
+    },
+    {
+      "title": "南部档案爱奇艺热度破8500！",
+      "author": "爱奇艺",
+      "time": "昨天 19:09",
+      "likes": "1126",
+      "link": "https://www.xiaohongshu.com/explore/6a2be8d30000000022027ca1",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2be8d30000000022027ca1?xsec_token=ABMEhXAxSz6CpQA0rLoA_369aeAv7E_XHMecyK_tnJlqc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 1126
+    }
+  ],
+  "totalLikes": 7190,
+  "avgLikes": 514,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 24,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
