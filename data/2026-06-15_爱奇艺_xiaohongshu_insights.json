@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      11
+    ],
+    [
+      "爱奇艺会",
+      4
+    ],
+    [
+      "邓为郑适",
+      3
+    ],
+    [
+      "南部档案",
+      3
+    ],
+    [
+      "恭喜邓为",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "南部档案爱奇艺热度破8888！",
+      "author": "爱奇艺",
+      "time": "昨天 21:17",
+      "likes": "1522",
+      "link": "https://www.xiaohongshu.com/explore/6a2ea9f300000000350242f4",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2ea9f300000000350242f4?xsec_token=ABU-Dz259GcxzN0deVWJOvS7JCG3f_jCniEHrGFvuPMj8=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "热度再新高！南洋秘境藏无数故事，跟随海鲜小队解锁一段段不为人知的过往~每日18:00，锁定🥝正在热播！#南部档案 领衔主演：#张新成 #丁禹兮 （排名不分先后）",
+      "likeCount": 1522
+    },
+    {
+      "title": "(无标题)",
+      "author": "南派三叔",
+      "time": "昨天 17:22",
+      "likes": "833",
+      "link": "https://www.xiaohongshu.com/explore/6a2e72e7000000003502d7d0",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2e72e7000000003502d7d0?xsec_token=ABU-Dz259GcxzN0deVWJOvS82U-aWD9zUaUv7lKxlM4BA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 833
+    },
+    {
+      "title": "我们渊雾已腌入味！",
+      "author": "当麻紗綾BAE17JOY",
+      "time": "7小时前",
+      "likes": "223",
+      "link": "https://www.xiaohongshu.com/explore/6a2eddad000000001503c10d",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2eddad000000001503c10d?xsec_token=ABU-Dz259GcxzN0deVWJOvS6FLP4xnWKvN64D3eZ0VYXs=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 223
+    }
+  ],
+  "totalLikes": 3380,
+  "avgLikes": 147,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 29,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
