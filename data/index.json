@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-16",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 23,
+      "file": "2026-06-16_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-16_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-16_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-16T00:45:47.421Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            5
+          ],
+          [
+            "无标题",
+            4
+          ],
+          [
+            "天行九歌",
+            4
+          ],
+          [
+            "爱奇艺吃",
+            2
+          ],
+          [
+            "相太难看",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺民国剧《惹惊鸿》王星越、赵晴🍠",
+            "author": "呆子娱乐资讯",
+            "time": "1天前",
+            "likes": "76",
+            "link": "https://www.xiaohongshu.com/explore/6a2e3f1100000000360039e7",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2e3f1100000000360039e7?xsec_token=ABU-Dz259GcxzN0deVWJOvS487udGeauB0Gv2b_oQSBJA=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 76
+          },
+          {
+            "title": "爱奇艺账号被刷播放量",
+            "author": "丸丸大魔王",
+            "time": "昨天 10:28",
+            "likes": "72",
+            "link": "https://www.xiaohongshu.com/explore/6a2f633d000000001702cd0d",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2f633d000000001702cd0d?xsec_token=ABl5kLO5-E4txGfIEpdXAWp6kZFaGdcdtUeFAxTWbXxtQ=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 72
+          },
+          {
+            "title": "(无标题)",
+            "author": "思红颜",
+            "time": "昨天 20:01",
+            "likes": "51",
+            "link": "https://www.xiaohongshu.com/explore/6a2fe9a4000000001700abb3",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a2fe9a4000000001700abb3?xsec_token=ABl5kLO5-E4txGfIEpdXAWp_aeqsHZnObg6tm2VTS4VYg=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "虾仔复活 海楼成为了真正的张家人 #爱奇艺好片推荐计划 #南部档案 #南部档案二创大赛",
+            "likeCount": 51
+          }
+        ],
+        "totalLikes": 333,
+        "avgLikes": 22,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 23,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-15",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2248,85 +2325,6 @@
           "positivePercent": 7,
           "negativePercent": 0,
           "neutralPercent": 93
-        }
-      }
-    },
-    {
-      "date": "2026-05-30",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 22,
-      "file": "2026-05-30_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-30_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-30_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-30T00:46:03.408Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            16
-          ],
-          [
-            "家业",
-            15
-          ],
-          [
-            "超燃青春",
-            8
-          ],
-          [
-            "的合唱",
-            8
-          ],
-          [
-            "杨紫",
-            6
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45766",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45766
-          },
-          {
-            "title": "【家中有喜】🎉恭喜#家业爱奇艺热度破9000# ，进入爱奇艺人气殿堂！用故事打动人心，用人物诉说真情，快来沉浸式感受中...",
-            "content": "【家中有喜】🎉恭喜#家业爱奇艺热度破9000# ，进入爱奇艺人气殿堂！用故事打动人心，用人物诉说真情，快来沉浸式感受中式家风底蕴，品味匠心里的温暖与坚守！#家业# 每晚19:30锁定CCTV-8@CCTV电视剧 黄金强档，@爱奇艺 正在热播！ ​",
-            "author": "电视剧家业",
-            "time": "05月24日 20:54",
-            "likes": "32950",
-            "link": "https://weibo.com/7948183734/R0VjQASWs?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "【家中有喜】🎉恭喜#家业爱奇艺热度破9000# ，进入爱奇艺人气殿堂！用故事打动人心，用人物诉说真情，快来沉浸式感受中式家风底蕴，品味匠心里的温暖与坚守！#家业# 每晚19:30锁定CCTV-8@CCTV电视剧 黄金强档，@爱奇艺 正在热播！ ​",
-            "likeCount": 32950
-          },
-          {
-            "title": "📢生贺崽崽活动｜倒计时最后2天\n\n因为大家的热爱与支持，\n我们与演员 @成毅 饰演的经典角色再次相见。\n感谢每一位赴这...",
-            "content": "📢生贺崽崽活动｜倒计时最后2天\n\n因为大家的热爱与支持，\n我们与演员 @成毅 饰演的经典角色再次相见。\n感谢每一位赴这场生辰之约的朋友，愿热爱常在，期待未来再次相见。\n\n⏰ 生贺崽崽系列新品单🔗发售将于5月31日截止\nO网页链接\n\n#毅奇共赴生辰之约# ​",
-            "author": "爱奇艺商店",
-            "time": "05月29日 20:00",
-            "likes": "22811",
-            "link": "https://weibo.com/4013112769/R1G6hmYOB?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "📢生贺崽崽活动｜倒计时最后2天\n\n因为大家的热爱与支持，\n我们与演员 @成毅 饰演的经典角色再次相见。\n感谢每一位赴这场生辰之约的朋友，愿热爱常在，期待未来再次相见。\n\n⏰ 生贺崽崽系列新品单🔗发售将于5月31日截止\nO网页链接\n\n#毅奇共赴生辰之约# ​",
-            "likeCount": 22811
-          }
-        ],
-        "totalLikes": 150615,
-        "avgLikes": 11586,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 20,
-          "positivePercent": 9,
-          "negativePercent": 0,
-          "neutralPercent": 91
         }
       }
     }

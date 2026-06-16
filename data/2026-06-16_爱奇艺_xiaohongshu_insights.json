@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      5
+    ],
+    [
+      "无标题",
+      4
+    ],
+    [
+      "天行九歌",
+      4
+    ],
+    [
+      "爱奇艺吃",
+      2
+    ],
+    [
+      "相太难看",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺民国剧《惹惊鸿》王星越、赵晴🍠",
+      "author": "呆子娱乐资讯",
+      "time": "1天前",
+      "likes": "76",
+      "link": "https://www.xiaohongshu.com/explore/6a2e3f1100000000360039e7",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2e3f1100000000360039e7?xsec_token=ABU-Dz259GcxzN0deVWJOvS487udGeauB0Gv2b_oQSBJA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 76
+    },
+    {
+      "title": "爱奇艺账号被刷播放量",
+      "author": "丸丸大魔王",
+      "time": "昨天 10:28",
+      "likes": "72",
+      "link": "https://www.xiaohongshu.com/explore/6a2f633d000000001702cd0d",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2f633d000000001702cd0d?xsec_token=ABl5kLO5-E4txGfIEpdXAWp6kZFaGdcdtUeFAxTWbXxtQ=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 72
+    },
+    {
+      "title": "(无标题)",
+      "author": "思红颜",
+      "time": "昨天 20:01",
+      "likes": "51",
+      "link": "https://www.xiaohongshu.com/explore/6a2fe9a4000000001700abb3",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a2fe9a4000000001700abb3?xsec_token=ABl5kLO5-E4txGfIEpdXAWp_aeqsHZnObg6tm2VTS4VYg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "虾仔复活 海楼成为了真正的张家人 #爱奇艺好片推荐计划 #南部档案 #南部档案二创大赛",
+      "likeCount": 51
+    }
+  ],
+  "totalLikes": 333,
+  "avgLikes": 22,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 23,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
