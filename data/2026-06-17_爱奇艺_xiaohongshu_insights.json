@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      7
+    ],
+    [
+      "京东",
+      4
+    ],
+    [
+      "无标题",
+      4
+    ],
+    [
+      "开卡礼",
+      3
+    ],
+    [
+      "爱奇艺季",
+      3
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺发布长生骨",
+      "author": "世一萌舒心酱",
+      "time": "昨天 13:10",
+      "likes": "2445",
+      "link": "https://www.xiaohongshu.com/explore/6a30dacc0000000007022417",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a30dacc0000000007022417?xsec_token=ABfoycYDCEpvBaahyxOGbyMg59wBM8uxJLf5b2S_XZQDc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 2445
+    },
+    {
+      "title": "@爱奇艺@龚宇求求你了🙏真的好想看",
+      "author": "历历钱来",
+      "time": "7小时前",
+      "likes": "37",
+      "link": "https://www.xiaohongshu.com/explore/6a317f440000000006033f70",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a317f440000000006033f70?xsec_token=ABrt9I_Joowmj_HmTCFWchWbOuj9ZWT6snMvEXHiNMMK8=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 37
+    },
+    {
+      "title": "爱奇艺暴跌 97% 为什么会深套？",
+      "author": "价值兔，深度逻辑提升",
+      "time": "昨天 15:51",
+      "likes": "17",
+      "link": "https://www.xiaohongshu.com/explore/6a310075000000001003edac",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a310075000000001003edac?xsec_token=ABrt9I_Joowmj_HmTCFWchWR2jXBIr40Q0jwMhmAZXgrc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "46跌到1元的爱奇艺，谢谢关注我的频道，谢谢点赞收藏，记录持有全过程，一起复盘一下，分析股价的风险和启示。投资有风险，投资需谨慎，本文不作为投资建议。大家认为爱奇艺还能逆境反转吗？#爱奇艺 #股票 #中概股 #价值投资 #投资 #股市 #股票知识 #投资需谨慎 #行情 #基金",
+      "likeCount": 17
+    }
+  ],
+  "totalLikes": 2539,
+  "avgLikes": 212,
+  "sentiment": {
+    "positive": 2,
+    "negative": 0,
+    "neutral": 15,
+    "positivePercent": 12,
+    "negativePercent": 0,
+    "neutralPercent": 88
+  }
+}

@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-17",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 17,
+      "file": "2026-06-17_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-17_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-17_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-17T00:45:47.185Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            7
+          ],
+          [
+            "京东",
+            4
+          ],
+          [
+            "无标题",
+            4
+          ],
+          [
+            "开卡礼",
+            3
+          ],
+          [
+            "爱奇艺季",
+            3
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺发布长生骨",
+            "author": "世一萌舒心酱",
+            "time": "昨天 13:10",
+            "likes": "2445",
+            "link": "https://www.xiaohongshu.com/explore/6a30dacc0000000007022417",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a30dacc0000000007022417?xsec_token=ABfoycYDCEpvBaahyxOGbyMg59wBM8uxJLf5b2S_XZQDc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 2445
+          },
+          {
+            "title": "@爱奇艺@龚宇求求你了🙏真的好想看",
+            "author": "历历钱来",
+            "time": "7小时前",
+            "likes": "37",
+            "link": "https://www.xiaohongshu.com/explore/6a317f440000000006033f70",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a317f440000000006033f70?xsec_token=ABrt9I_Joowmj_HmTCFWchWbOuj9ZWT6snMvEXHiNMMK8=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 37
+          },
+          {
+            "title": "爱奇艺暴跌 97% 为什么会深套？",
+            "author": "价值兔，深度逻辑提升",
+            "time": "昨天 15:51",
+            "likes": "17",
+            "link": "https://www.xiaohongshu.com/explore/6a310075000000001003edac",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a310075000000001003edac?xsec_token=ABrt9I_Joowmj_HmTCFWchWR2jXBIr40Q0jwMhmAZXgrc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "46跌到1元的爱奇艺，谢谢关注我的频道，谢谢点赞收藏，记录持有全过程，一起复盘一下，分析股价的风险和启示。投资有风险，投资需谨慎，本文不作为投资建议。大家认为爱奇艺还能逆境反转吗？#爱奇艺 #股票 #中概股 #价值投资 #投资 #股市 #股票知识 #投资需谨慎 #行情 #基金",
+            "likeCount": 17
+          }
+        ],
+        "totalLikes": 2539,
+        "avgLikes": 212,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 15,
+          "positivePercent": 12,
+          "negativePercent": 0,
+          "neutralPercent": 88
+        }
+      }
+    },
+    {
       "date": "2026-06-16",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2247,84 +2324,6 @@
           "positivePercent": 14,
           "negativePercent": 0,
           "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 14,
-      "file": "2026-05-31_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-05-31_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-05-31_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-05-31T00:45:48.044Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            3
-          ],
-          [
-            "无标题",
-            3
-          ],
-          [
-            "念相思",
-            2
-          ],
-          [
-            "虞书欣",
-            2
-          ],
-          [
-            "侯明昊",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "(无标题)",
-            "author": "嗑瓜子专用君",
-            "time": "昨天 18:48",
-            "likes": "384",
-            "link": "https://www.xiaohongshu.com/explore/6a1ac0760000000036031706",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1ac0760000000036031706?xsec_token=ABt7164RaAjt3WGkVaMtIIFvxupFGf7H6H8YtOFZntnRs=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "爱奇艺古装剧《念相思》虞书欣、侯明昊 导演：钟青《花间令》 编剧：赵天佑、应志南《柳舟记》 造型：易小雅《苍兰诀》 开机时间：6月30日横店 拍摄周期：3个月+ 改编自一度君华小说《神仙肉》。#念相思 #虞书欣 #侯明昊 #神仙肉 #小说改编 #一度君华 #古装 #仙侠 #电视剧 #影视资讯",
-            "likeCount": 384
-          },
-          {
-            "title": "爱奇艺你压热度是何意味啊",
-            "author": "Savior",
-            "time": "昨天 15:20",
-            "likes": "182",
-            "link": "https://www.xiaohongshu.com/explore/6a1a8fd70000000007023497",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1a8fd70000000007023497?xsec_token=ABt7164RaAjt3WGkVaMtIIFq1bpFL4aAJW0vMU3VXJ33M=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "无话可说了爱奇艺，🗡️的没边了",
-            "likeCount": 182
-          },
-          {
-            "title": "🥝到底在干什么啊🤬",
-            "author": "forever.木云🌾",
-            "time": "昨天 12:07",
-            "likes": "118",
-            "link": "https://www.xiaohongshu.com/explore/6a1a627f00000000350396b7",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1a627f00000000350396b7?xsec_token=ABt7164RaAjt3WGkVaMtIIFkR3zo3cWCqUwFoLZM6Ghjk=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 118
-          }
-        ],
-        "totalLikes": 902,
-        "avgLikes": 75,
-        "sentiment": {
-          "positive": 1,
-          "negative": 0,
-          "neutral": 13,
-          "positivePercent": 7,
-          "negativePercent": 0,
-          "neutralPercent": 93
         }
       }
     }
