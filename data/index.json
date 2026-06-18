@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-18",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 15,
+      "file": "2026-06-18_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-18_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-18_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-18T00:45:47.904Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            4
+          ],
+          [
+            "爱奇艺会",
+            2
+          ],
+          [
+            "投资需谨",
+            2
+          ],
+          [
+            "京东卡开",
+            1
+          ],
+          [
+            "卡礼",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺发布长生骨",
+            "author": "世一萌舒心酱",
+            "time": "1天前",
+            "likes": "2571",
+            "link": "https://www.xiaohongshu.com/explore/6a30dacc0000000007022417",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a30dacc0000000007022417?xsec_token=ABfoycYDCEpvBaahyxOGbyMoN0-D__ME6CZkiz-fpuY-w=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 2571
+          },
+          {
+            "title": "毕业快乐！千元大奖艺人签名照掉落中🔥",
+            "author": "爱奇艺",
+            "time": "昨天 10:30",
+            "likes": "267",
+            "link": "https://www.xiaohongshu.com/explore/6a320265000000001702dead",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a320265000000001702dead?xsec_token=ABegZq_a0OjXqsnAQBlxzzmxGESlqaNKaajYtWveaKK0Q=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 267
+          },
+          {
+            "title": "爱奇艺暴跌 97% 为什么会深套？",
+            "author": "价值兔，深度逻辑提升",
+            "time": "1天前",
+            "likes": "117",
+            "link": "https://www.xiaohongshu.com/explore/6a310075000000001003edac",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a310075000000001003edac?xsec_token=ABrt9I_Joowmj_HmTCFWchWTQ3Z6MOOpJCkQD0OA2cLuw=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "46跌到1元的爱奇艺，谢谢关注我的频道，谢谢点赞收藏，记录持有全过程，一起复盘一下，分析股价的风险和启示。投资有风险，投资需谨慎，本文不作为投资建议。大家认为爱奇艺还能逆境反转吗？#爱奇艺 #股票 #中概股 #价值投资 #投资 #股市 #股票知识 #投资需谨慎 #行情 #基金",
+            "likeCount": 117
+          }
+        ],
+        "totalLikes": 3153,
+        "avgLikes": 263,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 13,
+          "positivePercent": 13,
+          "negativePercent": 0,
+          "neutralPercent": 87
+        }
+      }
+    },
+    {
       "date": "2026-06-17",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2245,85 +2322,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 22,
-      "file": "2026-05-31_爱奇艺_weibo.json",
-      "analysisFile": "2026-05-31_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-05-31_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-05-31T00:46:04.663Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "会员",
-            16
-          ],
-          [
-            "微博会员",
-            14
-          ],
-          [
-            "超级会员",
-            10
-          ],
-          [
-            "芒果",
-            9
-          ],
-          [
-            "会员腾讯",
-            9
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺古装剧《念相思》虞书欣、侯明昊\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月...",
-            "content": "爱奇艺古装剧《念相思》虞书欣、侯明昊\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖怪有着绝大的诱惑 ​ 展开c",
-            "author": "朱红院",
-            "time": "05月30日 17:35",
-            "likes": "46479",
-            "link": "https://weibo.com/2949989907/R1OA3FDYc?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺古装剧《念相思》虞书欣、侯明昊\n导演：钟青《花间令》\n编剧：赵天佑、应志南《柳舟记》\n造型：易小雅《苍兰诀》\n6月30日横店开机，10月全剧杀青。\n\n简介：根据一度君华小说《神仙肉》改编。 清虚观知观容尘子道长乃禄存星君转世，不仅是个品行高洁的正人君子，其身体血肉更对妖怪有着绝大的诱惑 ​ 展",
-            "likeCount": 46479
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45760",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45760
-          },
-          {
-            "title": "#公诉开播三周年# 千里追踪，守望正义今天再来@爱奇艺 回顾安旎@Dear-迪丽热巴 何陆源@佟大为 为真相而战的故事吧...",
-            "content": "#公诉开播三周年# 千里追踪，守望正义今天再来@爱奇艺 回顾安旎@Dear-迪丽热巴 何陆源@佟大为 为真相而战的故事吧！#桃桃那年今日# L公诉第1集 ​",
-            "author": "爱奇艺",
-            "time": "05月29日 15:00",
-            "likes": "16725",
-            "link": "https://weibo.com/1731986465/R1E8vica3?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#公诉开播三周年# 千里追踪，守望正义今天再来@爱奇艺 回顾安旎@Dear-迪丽热巴 何陆源@佟大为 为真相而战的故事吧！#桃桃那年今日# L公诉第1集 ​",
-            "likeCount": 16725
-          }
-        ],
-        "totalLikes": 134937,
-        "avgLikes": 7937,
-        "sentiment": {
-          "positive": 3,
-          "negative": 0,
-          "neutral": 19,
-          "positivePercent": 14,
-          "negativePercent": 0,
-          "neutralPercent": 86
         }
       }
     }
