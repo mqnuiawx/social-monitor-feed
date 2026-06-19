@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-06-19",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 20,
+      "file": "2026-06-19_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-19_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-19_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-19T00:45:47.404Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            6
+          ],
+          [
+            "无标题",
+            5
+          ],
+          [
+            "影视会员",
+            3
+          ],
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "爱奇艺季",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "来来与白白菜",
+            "time": "昨天 22:50",
+            "likes": "84",
+            "link": "https://www.xiaohongshu.com/explore/6a3405cd0000000015024308",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a3405cd0000000015024308?xsec_token=ABHotSja8fI1fEh6ozTid49GZBAGez__sWest3HrqP7Sg=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 84
+          },
+          {
+            "title": "爱奇艺#每日一剧#家业",
+            "author": "精神食粮加油站",
+            "time": "1天前",
+            "likes": "51",
+            "link": "https://www.xiaohongshu.com/explore/6a32a1eb0000000008002959",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a32a1eb0000000008002959?xsec_token=ABegZq_a0OjXqsnAQBlxzzm0o2RT_d9W1BUflCf5htQcY=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 51
+          },
+          {
+            "title": "灵摆十年回归！我们追的不只是剧是整个青春",
+            "author": "电子榨菜研究员",
+            "time": "昨天 18:27",
+            "likes": "19",
+            "link": "https://www.xiaohongshu.com/explore/6a336124000000001602693e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a336124000000001602693e?xsec_token=ABuVSuIXzox1aLurLMI2rCEn8r9sRqRWQunOHwW1O-kyc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 19
+          }
+        ],
+        "totalLikes": 220,
+        "avgLikes": 16,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 20,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-18",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2247,84 +2323,6 @@
           "positivePercent": 14,
           "negativePercent": 0,
           "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 7,
-      "file": "2026-06-01_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-01_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-01_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-01T02:24:52.745Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺季",
-            4
-          ],
-          [
-            "寒战",
-            4
-          ],
-          [
-            "出京东爱",
-            3
-          ],
-          [
-            "奇艺黄金",
-            3
-          ],
-          [
-            "会员季卡",
-            3
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "寒战宇宙：警匪对决，港式权谋天花板",
-            "author": "小森林",
-            "time": "1小时前",
-            "likes": "11",
-            "link": "https://www.xiaohongshu.com/explore/6a1bd6070000000008027d0e",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1bd6070000000008027d0e?xsec_token=AByVvOwLbemQruFChTwZIZU_lC5_kZ8FVOKMlhtObXfJ8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "作为一个港片爱好者，自从五一看完《寒战1994》就一直在想怎么写这篇推荐，删删减减，终于在今天完稿，为寒战1995尽快上映做出小小努力。 推荐一百部电影🎬：3️⃣3️⃣/100 🎬电影名称：寒战1 寒战2 寒战1994 🔧电影类型：剧情｜动作｜香港 🚗观看途径：腾讯 爱奇艺 优酷 咪咕 B站等 🌟豆瓣评分：7.6 7.2 7.2 🏆影片得奖：金像奖 金马奖 📖关键词：警匪斗争 政治博",
-            "likeCount": 11
-          },
-          {
-            "title": "中立平台解说不应该带有倾向性",
-            "author": "Emil",
-            "time": "昨天 12:41",
-            "likes": "8",
-            "link": "https://www.xiaohongshu.com/explore/6a1bba1b00000000350262b5",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1bba1b00000000350262b5?xsec_token=AByVvOwLbemQruFChTwZIZU98ITo8kL_lDJfxJWULUlWM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "昨天怒砸 18 大洋在爱某艺购买了独家版权的欧冠决赛。但是该平台两位解说嘉宾全程表现出对于阿森纳的偏爱，和明显的倾向性，让我一个大巴黎球迷无法理解。最后不得已切换成现场声模式。平台解说不应该中立吗？#欧冠 #仅个人观点 #公平与正义 #不平等对待 #爱奇艺",
-            "likeCount": 8
-          },
-          {
-            "title": "20出京东爱奇艺黄金会员季卡",
-            "author": "Holiday",
-            "time": "昨天 16:20",
-            "likes": "6",
-            "link": "https://www.xiaohongshu.com/explore/6a1bee91000000000702d485",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1bee91000000000702d485?xsec_token=AByVvOwLbemQruFChTwZIZU5CUgQHBgfz3PanqSqb5Gcg=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 6
-          }
-        ],
-        "totalLikes": 25,
-        "avgLikes": 8,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 7,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }

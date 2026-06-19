@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      6
+    ],
+    [
+      "无标题",
+      5
+    ],
+    [
+      "影视会员",
+      3
+    ],
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "爱奇艺季",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "来来与白白菜",
+      "time": "昨天 22:50",
+      "likes": "84",
+      "link": "https://www.xiaohongshu.com/explore/6a3405cd0000000015024308",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3405cd0000000015024308?xsec_token=ABHotSja8fI1fEh6ozTid49GZBAGez__sWest3HrqP7Sg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 84
+    },
+    {
+      "title": "爱奇艺#每日一剧#家业",
+      "author": "精神食粮加油站",
+      "time": "1天前",
+      "likes": "51",
+      "link": "https://www.xiaohongshu.com/explore/6a32a1eb0000000008002959",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a32a1eb0000000008002959?xsec_token=ABegZq_a0OjXqsnAQBlxzzm0o2RT_d9W1BUflCf5htQcY=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 51
+    },
+    {
+      "title": "灵摆十年回归！我们追的不只是剧是整个青春",
+      "author": "电子榨菜研究员",
+      "time": "昨天 18:27",
+      "likes": "19",
+      "link": "https://www.xiaohongshu.com/explore/6a336124000000001602693e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a336124000000001602693e?xsec_token=ABuVSuIXzox1aLurLMI2rCEn8r9sRqRWQunOHwW1O-kyc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 19
+    }
+  ],
+  "totalLikes": 220,
+  "avgLikes": 16,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 20,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}
