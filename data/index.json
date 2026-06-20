@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-20",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 22,
+      "file": "2026-06-20_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-20_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-20_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-20T00:45:47.945Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺会",
+            5
+          ],
+          [
+            "爱奇艺",
+            4
+          ],
+          [
+            "爱奇艺吃",
+            2
+          ],
+          [
+            "影视会员",
+            2
+          ],
+          [
+            "爱奇艺季",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "就这个邓为，小奇再看亿遍！",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "5832",
+            "link": "https://www.xiaohongshu.com/explore/6a325ed300000000150275c1",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a325ed300000000150275c1?xsec_token=ABegZq_a0OjXqsnAQBlxzzm2wodkR0mNssdTq78L8tzj4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 5832
+          },
+          {
+            "title": "南部档案爱奇艺热度破9000！",
+            "author": "爱奇艺",
+            "time": "昨天 18:40",
+            "likes": "3408",
+            "link": "https://www.xiaohongshu.com/explore/6a351cb600000000110075b4",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a351cb600000000110075b4?xsec_token=ABcWsJYe17wP0dR1LTGu0ES4F6sRlgSU_yD3q0R7M3hjo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 3408
+          },
+          {
+            "title": "明晚爱奇艺有30120份云包场",
+            "author": "时怡",
+            "time": "昨天 20:39",
+            "likes": "447",
+            "link": "https://www.xiaohongshu.com/explore/6a352e4e000000001003e3f9",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a352e4e000000001003e3f9?xsec_token=ABcWsJYe17wP0dR1LTGu0ES2hMbftrwBN-1aObC9WycME=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "需要代抢的宝 来",
+            "likeCount": 447
+          }
+        ],
+        "totalLikes": 9797,
+        "avgLikes": 576,
+        "sentiment": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 21,
+          "positivePercent": 0,
+          "negativePercent": 5,
+          "neutralPercent": 95
+        }
+      }
+    },
+    {
       "date": "2026-06-19",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2246,83 +2323,6 @@
           "positivePercent": 18,
           "negativePercent": 0,
           "neutralPercent": 82
-        }
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 16,
-      "file": "2026-06-02_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-02_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-02_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-02T00:45:49.834Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺季",
-            6
-          ],
-          [
-            "京东",
-            5
-          ],
-          [
-            "开卡礼",
-            4
-          ],
-          [
-            "需换绑",
-            4
-          ],
-          [
-            "无标题",
-            4
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "五周年可以直播吗张弛",
-            "author": "绿皮特快T109",
-            "time": "昨天 23:38",
-            "likes": "445",
-            "link": "https://www.xiaohongshu.com/explore/6a1da7930000000006036211",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1da7930000000006036211?xsec_token=AB3vZanWpqnLVoQcdNABCBFQoG_vkIrbynJ3ealTtyg_g=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 445
-          },
-          {
-            "title": "爱奇艺6月推荐｜桃厂六月快乐不设限🎉",
-            "author": "爱奇艺",
-            "time": "昨天 10:10",
-            "likes": "396",
-            "link": "https://www.xiaohongshu.com/explore/6a1bb1af000000003700e7b9",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1bb1af000000003700e7b9?xsec_token=AByVvOwLbemQruFChTwZIZU7efPDSbxaNXSMs0SFuez3I=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "所有大朋友小朋友们，六月追更必看认准桃厂～ 甜宠、都市、悬疑等超多类型新剧欢乐集结，户外、美食、音乐等超多综艺精彩不停，还有超多萌趣动画、动漫持续更新，一起来🥝快乐追更！",
-            "likeCount": 396
-          },
-          {
-            "title": "✨磕颜党狂喜！高颜值古装剧一整个美住我",
-            "author": "小橘推剧日记",
-            "time": "1天前",
-            "likes": "306",
-            "link": "https://www.xiaohongshu.com/explore/6a190354000000003501d2b5",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a190354000000003501d2b5?xsec_token=AByNW1Py5BKi7f4yHoRBaiTQxs7AtSTdKuzMq9a4LeCV0=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 306
-          }
-        ],
-        "totalLikes": 1198,
-        "avgLikes": 100,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 14,
-          "positivePercent": 13,
-          "negativePercent": 0,
-          "neutralPercent": 88
         }
       }
     }
