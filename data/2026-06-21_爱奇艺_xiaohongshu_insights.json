@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "南部档案",
+      2
+    ],
+    [
+      "艺的电视",
+      2
+    ],
+    [
+      "无标题",
+      2
+    ],
+    [
+      "爱奇艺你",
+      2
+    ],
+    [
+      "这个热度",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "谁懂爱奇艺这个开屏啊啊啊啊啊啊",
+      "author": "Sweet potato",
+      "time": "昨天 19:38",
+      "likes": "2181",
+      "link": "https://www.xiaohongshu.com/explore/6a367b9b000000000f028f5c",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a367b9b000000000f028f5c?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXEu_hy9Tl1RPcQixvQrIHZ4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "简直就是视觉暴击！！！ 太帅了！！！ 我边喊卧槽边捂住了胸口",
+      "likeCount": 2181
+    },
+    {
+      "title": "(无标题)",
+      "author": "鹿饮汀兰⭐🍐",
+      "time": "1天前",
+      "likes": "346",
+      "link": "https://www.xiaohongshu.com/explore/6a3537590000000022016c44",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3537590000000022016c44?xsec_token=ABcWsJYe17wP0dR1LTGu0ESy4bKKBzyFCPS3hJicKFQxA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "爱奇艺你写出这段颁奖词时，真的没有什么想对我们说的嘛，就这段颁奖词说出了白月的真实热度，但是却没破万你永远欠我们一个解释！#白月梵星#白鹿敖瑞鹏#白烁梵樾#星月净渊 #逐月人#中国网络视听盛典",
+      "likeCount": 346
+    },
+    {
+      "title": "南部档案这个热度好诡异",
+      "author": "玻璃灯罩",
+      "time": "昨天 21:32",
+      "likes": "136",
+      "link": "https://www.xiaohongshu.com/explore/6a36965f000000000f033817",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a36965f000000000f033817?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXPZGerK_sytRHf3VLxwc_zo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 136
+    }
+  ],
+  "totalLikes": 2730,
+  "avgLikes": 341,
+  "sentiment": {
+    "positive": 0,
+    "negative": 2,
+    "neutral": 8,
+    "positivePercent": 0,
+    "negativePercent": 20,
+    "neutralPercent": 80
+  }
+}
