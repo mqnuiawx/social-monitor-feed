@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "会员",
+      4
+    ],
+    [
+      "艺的电视",
+      2
+    ],
+    [
+      "合诗雨",
+      2
+    ],
+    [
+      "爱奇艺",
+      2
+    ],
+    [
+      "无标题",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "谁懂爱奇艺这个开屏啊啊啊啊啊啊",
+      "author": "Sweet potato",
+      "time": "1天前",
+      "likes": "3571",
+      "link": "https://www.xiaohongshu.com/explore/6a367b9b000000000f028f5c",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a367b9b000000000f028f5c?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXL3dR4o0o59WMKk0nJnyoQ4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "简直就是视觉暴击！！！ 太帅了！！！ 我边喊卧槽边捂住了胸口",
+      "likeCount": 3571
+    },
+    {
+      "title": "你好啊，叶偲偲",
+      "author": "火锅er",
+      "time": "昨天 23:33",
+      "likes": "20",
+      "link": "https://www.xiaohongshu.com/explore/6a37e3330000000007022f70",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a37e3330000000007022f70?xsec_token=ABic4-HLbNXMcA3pC6WP3EKeiQoXkbTjCjU27XhYdRp58=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "很高兴认识你叶医生@合诗雨Hermia #问心2 #合诗雨 #医学生规培#爱奇艺",
+      "likeCount": 20
+    },
+    {
+      "title": "爱奇艺有人想来实习吗？可预留暑期",
+      "author": "惊慕",
+      "time": "昨天 18:24",
+      "likes": "5",
+      "link": "https://www.xiaohongshu.com/explore/6a37bbe0000000001100693a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a37bbe0000000001100693a?xsec_token=ABic4-HLbNXMcA3pC6WP3EKU1ys2x43-xHTI4BSB9_NSM=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 5
+    }
+  ],
+  "totalLikes": 3603,
+  "avgLikes": 515,
+  "sentiment": {
+    "positive": 0,
+    "negative": 1,
+    "neutral": 8,
+    "positivePercent": 0,
+    "negativePercent": 11,
+    "neutralPercent": 89
+  }
+}

@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-06-22",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 9,
+      "file": "2026-06-22_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-22_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-22_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-22T00:45:46.681Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "会员",
+            4
+          ],
+          [
+            "艺的电视",
+            2
+          ],
+          [
+            "合诗雨",
+            2
+          ],
+          [
+            "爱奇艺",
+            2
+          ],
+          [
+            "无标题",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "谁懂爱奇艺这个开屏啊啊啊啊啊啊",
+            "author": "Sweet potato",
+            "time": "1天前",
+            "likes": "3571",
+            "link": "https://www.xiaohongshu.com/explore/6a367b9b000000000f028f5c",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a367b9b000000000f028f5c?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXL3dR4o0o59WMKk0nJnyoQ4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "简直就是视觉暴击！！！ 太帅了！！！ 我边喊卧槽边捂住了胸口",
+            "likeCount": 3571
+          },
+          {
+            "title": "你好啊，叶偲偲",
+            "author": "火锅er",
+            "time": "昨天 23:33",
+            "likes": "20",
+            "link": "https://www.xiaohongshu.com/explore/6a37e3330000000007022f70",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a37e3330000000007022f70?xsec_token=ABic4-HLbNXMcA3pC6WP3EKeiQoXkbTjCjU27XhYdRp58=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "很高兴认识你叶医生@合诗雨Hermia #问心2 #合诗雨 #医学生规培#爱奇艺",
+            "likeCount": 20
+          },
+          {
+            "title": "爱奇艺有人想来实习吗？可预留暑期",
+            "author": "惊慕",
+            "time": "昨天 18:24",
+            "likes": "5",
+            "link": "https://www.xiaohongshu.com/explore/6a37bbe0000000001100693a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a37bbe0000000001100693a?xsec_token=ABic4-HLbNXMcA3pC6WP3EKU1ys2x43-xHTI4BSB9_NSM=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 5
+          }
+        ],
+        "totalLikes": 3603,
+        "avgLikes": 515,
+        "sentiment": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 8,
+          "positivePercent": 0,
+          "negativePercent": 11,
+          "neutralPercent": 89
+        }
+      }
+    },
+    {
       "date": "2026-06-21",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2246,83 +2324,6 @@
           "positivePercent": 14,
           "negativePercent": 0,
           "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 20,
-      "file": "2026-06-04_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-04_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-04_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-04T00:45:47.660Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "灵魂摆渡",
-            6
-          ],
-          [
-            "爱奇艺季",
-            5
-          ],
-          [
-            "个月",
-            2
-          ],
-          [
-            "会员季卡",
-            2
-          ],
-          [
-            "京东",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "灵魂摆渡十年爱奇艺热度破8000！",
-            "author": "爱奇艺",
-            "time": "昨天 12:23",
-            "likes": "2892",
-            "link": "https://www.xiaohongshu.com/explore/6a1fac3f000000003601d6ec",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1fac3f000000003601d6ec?xsec_token=ABxUVmTl4jkxkaxlvPM_KAnn-RZmf8x6ExMIlvChpJXYQ=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2892
-          },
-          {
-            "title": "灵魂摆渡十年爱奇艺热度破8500",
-            "author": "爱奇艺",
-            "time": "昨天 18:47",
-            "likes": "1744",
-            "link": "https://www.xiaohongshu.com/explore/6a200649000000003700d2c3",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a200649000000003700d2c3?xsec_token=AB8HHPrV8oq-fzKchdfqWjW3RMUS4Q4CsC4s-3rgl03mE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "🔥热度节节刷新，人气持续破峰，感谢摆渡人们倾心相伴！#灵魂摆渡十年  🥝正在热播！#灵魂摆渡 领衔主演：#于毅  #刘智扬  #肖茵",
-            "likeCount": 1744
-          },
-          {
-            "title": "葡萄不愤怒乐队公开向爱奇艺某节目组维权",
-            "author": "旁观记",
-            "time": "昨天 12:38",
-            "likes": "399",
-            "link": "https://www.xiaohongshu.com/explore/6a1fafd10000000008031613",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a1fafd10000000008031613?xsec_token=ABxUVmTl4jkxkaxlvPM_KAnovlX5NBudfsVaDqqAamVE8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 399
-          }
-        ],
-        "totalLikes": 5543,
-        "avgLikes": 370,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 20,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
