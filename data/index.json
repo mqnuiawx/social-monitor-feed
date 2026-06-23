@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-23",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 15,
+      "file": "2026-06-23_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-23_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-23_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-23T00:45:47.644Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "以后爱奇",
+            2
+          ],
+          [
+            "会员",
+            2
+          ],
+          [
+            "爱奇艺的",
+            1
+          ],
+          [
+            "热度显示",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "白玉兰暗示的已经很明显了",
+            "author": "橘子瓜社",
+            "time": "昨天 17:51",
+            "likes": "531",
+            "link": "https://www.xiaohongshu.com/explore/6a3905a1000000001c026e03",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a3905a1000000001c026e03?xsec_token=ABXRdx3fqr1EFfsKC-evKnUTJPvk9de4QNZmG29O52BVs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 531
+          },
+          {
+            "title": "感谢爱奇艺柯总！为浮生剧组送上消暑茶饮🎉",
+            "author": "憶廟街",
+            "time": "昨天 11:43",
+            "likes": "43",
+            "link": "https://www.xiaohongshu.com/explore/6a38af590000000022018c59",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a38af590000000022018c59?xsec_token=ABhVLSVxoWIxBfo9S9Ke4Y9gKOtpFYw1OCQxlVDIRc4nc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 43
+          },
+          {
+            "title": "爱奇艺的热度显示是随心情的是吧？",
+            "author": "一颗兮棠（跟丁禹兮一起特别合唱版",
+            "time": "昨天 20:30",
+            "likes": "34",
+            "link": "https://www.xiaohongshu.com/explore/6a392ad3000000001503ff80",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a392ad3000000001503ff80?xsec_token=ABXRdx3fqr1EFfsKC-evKnUX_WDWy-dDqQM2JEa-0eNCE=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "27秒每点一次，当前热度就变一次，完全开玩笑来着。好的不跟你玩了，从南部档案开始，以后爱奇艺的热度都在我这里排除榜单了。你就平台自嗨吧，以后爱奇艺平台推的剧，我这里一律当注水剧，再也不看了哦。",
+            "likeCount": 34
+          }
+        ],
+        "totalLikes": 622,
+        "avgLikes": 62,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 15,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-22",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2245,85 +2322,6 @@
           "positivePercent": 9,
           "negativePercent": 0,
           "neutralPercent": 91
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 6,
-      "file": "2026-06-05_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-05_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-05_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-05T00:45:47.154Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "腾讯视频",
-            3
-          ],
-          [
-            "爱奇艺的",
-            2
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "最高会员",
-            2
-          ],
-          [
-            "爱奇艺骚",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺，给我开发票！！！",
-            "author": "嗷哈哈",
-            "time": "昨天 17:34",
-            "likes": "45",
-            "link": "https://www.xiaohongshu.com/explore/6a2146b20000000038023177",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2146b20000000038023177?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwRlkYP8dooKSXfHkCRnbVUI=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "看家业的朋友们，买了超点或者星钻，记得在爱奇艺开发票哟！！！！卡热度是吧，那就把发票开起来，备注家业加更礼。在订单里面点击右上角三个点，输入开票信息后，即可开发票了～～～",
-            "likeCount": 45
-          },
-          {
-            "title": "体验了下爱奇艺的AIGC平台",
-            "author": "十七卡蓝里",
-            "time": "昨天 13:44",
-            "likes": "27",
-            "link": "https://www.xiaohongshu.com/explore/6a2110b90000000038034fa7",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2110b90000000038034fa7?xsec_token=ABaBjMooAp5ZAnd7Xib_2UwW0Wp4v6rbdHFDbeeC5LGeI=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "爱奇艺的纳逗pro蕞近搞了联合happyhorse的社区作品投稿项目，有对应模型的积分体验。有夯有拉。 体验不错的: 1️⃣这次主要体验了画布，有一个案例prompt参考，确实可以作为比较专业的剧本框架学 2️⃣画布使用不难，文生和图生效果都还不错，多个模型可以选，但得看纳逗积分的定向适用哪些模型。可以邀请团队成员共同创作 3️⃣同一个prompt和图片素材放在纳逗pro的happyhorse比直",
-            "likeCount": 27
-          },
-          {
-            "title": "爱奇艺骚操作",
-            "author": "球吖",
-            "time": "昨天 12:02",
-            "likes": "25",
-            "link": "https://www.xiaohongshu.com/explore/6a20f8f2000000002201a727",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a20f8f2000000002201a727?xsec_token=AB8HHPrV8oq-fzKchdfqWjW3q3zT9_IxX3irex2zTlXB8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "冲个会员追剧，追了这么多天了，没想到大结局还要我额外花钱看，果断弃剧，不是剧不好看，是我们路人不会为一个剧充值又充值，爱奇艺一生黑#影视会员 #家业 #爱奇艺会员 #家业大结局",
-            "likeCount": 25
-          }
-        ],
-        "totalLikes": 107,
-        "avgLikes": 21,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 6,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
