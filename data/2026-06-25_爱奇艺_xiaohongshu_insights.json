@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      3
+    ],
+    [
+      "无标题",
+      2
+    ],
+    [
+      "单号",
+      2
+    ],
+    [
+      "真实工作",
+      1
+    ],
+    [
+      "强度",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "来来与白白菜",
+      "time": "1天前",
+      "likes": "694",
+      "link": "https://www.xiaohongshu.com/explore/6a3405cd0000000015024308",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3405cd0000000015024308?xsec_token=ABHotSja8fI1fEh6ozTid49CC6x_2BtFk7hhzMimLgybY=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 694
+    },
+    {
+      "title": "喜单3终于回归！今夏电子榨菜预定！",
+      "author": "爱奇艺",
+      "time": "昨天 10:15",
+      "likes": "197",
+      "link": "https://www.xiaohongshu.com/explore/6a3b3dbd00000000170097b7",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3b3dbd00000000170097b7?xsec_token=ABIe81xYVQcY5wBjYv7cA3P_hDunfmzWEDBHnYsbx9OHc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "本季依旧聚焦小人物的各式精彩故事， 普通人也能自在“发疯”，野蛮创作！ 各大喜剧厂牌同台，汇聚全国各地脱口秀大神和宝藏漫才 看神仙斗嘴，喜剧氛围拉满！ 这个夏天就靠#喜剧之王单口季  解压了！",
+      "likeCount": 197
+    },
+    {
+      "title": "爱奇艺真的是p事办不好",
+      "author": "成何体统",
+      "time": "1天前",
+      "likes": "13",
+      "link": "https://www.xiaohongshu.com/explore/6a3ab05a0000000011007f2a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3ab05a0000000011007f2a?xsec_token=ABInyGIDIS_ClJZdiHpIN0hBIK8UPZLPwdev8ys6l9YSk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 13
+    }
+  ],
+  "totalLikes": 951,
+  "avgLikes": 95,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 9,
+    "positivePercent": 10,
+    "negativePercent": 0,
+    "neutralPercent": 90
+  }
+}
