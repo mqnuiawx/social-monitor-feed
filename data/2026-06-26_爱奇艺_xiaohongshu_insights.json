@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      4
+    ],
+    [
+      "爱奇艺",
+      4
+    ],
+    [
+      "季卡",
+      3
+    ],
+    [
+      "北京",
+      2
+    ],
+    [
+      "暑期实习",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "💜17💎（中亲签版）",
+      "time": "昨天 10:14",
+      "likes": "255",
+      "link": "https://www.xiaohongshu.com/explore/6a3c8f1e000000001503d8b8",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3c8f1e000000001503d8b8?xsec_token=ABR9Q9mnMGh7ZODR60CkYbUQ5tPvGpoBf4HEULaaViec4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "组训来了#爱奇艺官方",
+      "likeCount": 255
+    },
+    {
+      "title": "腾讯古偶爆像比爱奇艺大！还是鹅有钱",
+      "author": "哈哈哈哈",
+      "time": "昨天 14:03",
+      "likes": "63",
+      "link": "https://www.xiaohongshu.com/explore/6a3cc143000000001101695a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3cc143000000001101695a?xsec_token=ABR9Q9mnMGh7ZODR60CkYbUX9A7-0KIPHzdbEZJtAADxk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 63
+    },
+    {
+      "title": "昨夜将至好看！",
+      "author": "WALLECHAN0705",
+      "time": "昨天 21:06",
+      "likes": "7",
+      "link": "https://www.xiaohongshu.com/explore/6a3d27e1000000001702d808",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a3d27e1000000001702d808?xsec_token=ABbGeCZ_C8PBD3HQCpg1gJjT_5DFJvTNW2amBFh2bllAQ=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "前五集信息量巨大，节奏超级快，人物关系贼多，演技全部在线，太值得追剧。#昨夜将至 #电视剧 #爱奇艺 #迷雾剧场 #追剧 #",
+      "likeCount": 7
+    }
+  ],
+  "totalLikes": 339,
+  "avgLikes": 48,
+  "sentiment": {
+    "positive": 0,
+    "negative": 0,
+    "neutral": 13,
+    "positivePercent": 0,
+    "negativePercent": 0,
+    "neutralPercent": 100
+  }
+}

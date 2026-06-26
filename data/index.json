@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-06-26",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 13,
+      "file": "2026-06-26_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-26_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-26_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-26T00:45:47.895Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            4
+          ],
+          [
+            "爱奇艺",
+            4
+          ],
+          [
+            "季卡",
+            3
+          ],
+          [
+            "北京",
+            2
+          ],
+          [
+            "暑期实习",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "💜17💎（中亲签版）",
+            "time": "昨天 10:14",
+            "likes": "255",
+            "link": "https://www.xiaohongshu.com/explore/6a3c8f1e000000001503d8b8",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a3c8f1e000000001503d8b8?xsec_token=ABR9Q9mnMGh7ZODR60CkYbUQ5tPvGpoBf4HEULaaViec4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "组训来了#爱奇艺官方",
+            "likeCount": 255
+          },
+          {
+            "title": "腾讯古偶爆像比爱奇艺大！还是鹅有钱",
+            "author": "哈哈哈哈",
+            "time": "昨天 14:03",
+            "likes": "63",
+            "link": "https://www.xiaohongshu.com/explore/6a3cc143000000001101695a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a3cc143000000001101695a?xsec_token=ABR9Q9mnMGh7ZODR60CkYbUX9A7-0KIPHzdbEZJtAADxk=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 63
+          },
+          {
+            "title": "昨夜将至好看！",
+            "author": "WALLECHAN0705",
+            "time": "昨天 21:06",
+            "likes": "7",
+            "link": "https://www.xiaohongshu.com/explore/6a3d27e1000000001702d808",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a3d27e1000000001702d808?xsec_token=ABbGeCZ_C8PBD3HQCpg1gJjT_5DFJvTNW2amBFh2bllAQ=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "前五集信息量巨大，节奏超级快，人物关系贼多，演技全部在线，太值得追剧。#昨夜将至 #电视剧 #爱奇艺 #迷雾剧场 #追剧 #",
+            "likeCount": 7
+          }
+        ],
+        "totalLikes": 339,
+        "avgLikes": 48,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 13,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-06-25",
       "keyword": "爱奇艺",
       "platform": "weibo",
@@ -2237,83 +2315,6 @@
           "positivePercent": 10,
           "negativePercent": 0,
           "neutralPercent": 90
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 13,
-      "file": "2026-06-08_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-08_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-08_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-08T00:45:47.097Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺季",
-            4
-          ],
-          [
-            "京东",
-            3
-          ],
-          [
-            "爱奇艺",
-            3
-          ],
-          [
-            "无标题",
-            3
-          ],
-          [
-            "艺会员",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺热度",
-            "author": "花开富贵宁静致远",
-            "time": "1天前",
-            "likes": "763",
-            "link": "https://www.xiaohongshu.com/explore/6a242fa90000000017009ff4",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a242fa90000000017009ff4?xsec_token=ABqhrn0H1Z25c8xwkyMT3nPfPK0vl1gMq5P_l0vD2Zdkc=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "家业超点+6，自制剧超点+400，你说这是正常热度鬼都不信……#家业 #爱奇艺 #自制剧 #热度",
-            "likeCount": 763
-          },
-          {
-            "title": "封神 10 部年代剧｜剧荒直接码住不踩雷✅",
-            "author": "趣味",
-            "time": "1天前",
-            "likes": "41",
-            "link": "https://www.xiaohongshu.com/explore/6a23880c0000000007027472",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a23880c0000000007027472?xsec_token=ABiPonnL7sHHJEzEQSWiQ_v8CRBVjWOBT7lRg86LaUgcI=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 41
-          },
-          {
-            "title": "爱奇艺吃相真难看",
-            "author": "辰玉",
-            "time": "1天前",
-            "likes": "28",
-            "link": "https://www.xiaohongshu.com/explore/6a23f75d000000001702bd15",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a23f75d000000001702bd15?xsec_token=ABiPonnL7sHHJEzEQSWiQ_vxDJhZxoh-obXRsaSlgTvWM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 28
-          }
-        ],
-        "totalLikes": 858,
-        "avgLikes": 95,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 13,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
