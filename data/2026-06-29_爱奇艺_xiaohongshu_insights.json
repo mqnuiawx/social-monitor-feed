@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      9
+    ],
+    [
+      "无标题",
+      6
+    ],
+    [
+      "昨夜将至",
+      4
+    ],
+    [
+      "爱奇艺会",
+      2
+    ],
+    [
+      "爱奇艺热",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "说唱巅峰对决2026爱奇艺热度破8000啦！",
+      "author": "爱奇艺",
+      "time": "昨天 11:06",
+      "likes": "945",
+      "link": "https://www.xiaohongshu.com/explore/6a408fcd000000001503c81c",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a408fcd000000001503c81c?xsec_token=ABVbLQlLO6b9fTCbcI1aOINBO8dTauA4hQjwgj1WtSN3o=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 945
+    },
+    {
+      "title": "张海虾爱奇艺角色热度破5亿亿！！！",
+      "author": "WhiteDeer_晚鹿",
+      "time": "昨天 08:51",
+      "likes": "157",
+      "link": "https://www.xiaohongshu.com/explore/6a407022000000002201905b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a407022000000002201905b?xsec_token=ABVbLQlLO6b9fTCbcI1aOINCLJtB691lzGxD1P34Nu4_M=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 157
+    },
+    {
+      "title": "喜欢看足球的有福了！明天定档在爱奇艺预约",
+      "author": "虞梦相伴",
+      "time": "昨天 21:12",
+      "likes": "71",
+      "link": "https://www.xiaohongshu.com/explore/6a411dc4000000000702da6b",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a411dc4000000000702da6b?xsec_token=ABNd75fLtcaQ1HQuT4eDfHj5fzlODjNMrDa7EURtOvAQ4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 71
+    }
+  ],
+  "totalLikes": 1305,
+  "avgLikes": 57,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 27,
+    "positivePercent": 4,
+    "negativePercent": 0,
+    "neutralPercent": 96
+  }
+}
