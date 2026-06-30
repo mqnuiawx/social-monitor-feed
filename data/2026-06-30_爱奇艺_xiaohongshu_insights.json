@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺用",
+      2
+    ],
+    [
+      "作品说话",
+      2
+    ],
+    [
+      "真是太争",
+      2
+    ],
+    [
+      "气了",
+      2
+    ],
+    [
+      "奇艺",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺白玉兰之夜闭门答谢晚宴",
+      "author": "恶魔小王",
+      "time": "昨天 10:41",
+      "likes": "777",
+      "link": "https://www.xiaohongshu.com/explore/6a41d2e7000000000702872a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a41d2e7000000000702872a?xsec_token=ABNd75fLtcaQ1HQuT4eDfHj86xoVFEHZkZhV-0SrbL0bE=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 777
+    },
+    {
+      "title": "7月5日在爱奇艺看什么？",
+      "author": "星璟🐟",
+      "time": "昨天 14:16",
+      "likes": "202",
+      "link": "https://www.xiaohongshu.com/explore/6a420dae000000000f004d99",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a420dae000000000f004d99?xsec_token=ABZr65GqMmqYgUF4yMKoEtZ5BjK2a4ELP8Q1JwtF2mtpg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 202
+    },
+    {
+      "title": "不爱社交的陈晓难得的社交场面",
+      "author": "小红薯🍠🍠🍠",
+      "time": "昨天 23:43",
+      "likes": "126",
+      "link": "https://www.xiaohongshu.com/explore/6a42929e0000000015025eb3",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a42929e0000000015025eb3?xsec_token=ABZr65GqMmqYgUF4yMKoEtZ5bmPDOzUQeu9DPnnglniKo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "PS：社交的对象都是男人，虽然旁边坐着杨幂、刘诗诗……",
+      "likeCount": 126
+    }
+  ],
+  "totalLikes": 1536,
+  "avgLikes": 102,
+  "sentiment": {
+    "positive": 2,
+    "negative": 0,
+    "neutral": 23,
+    "positivePercent": 8,
+    "negativePercent": 0,
+    "neutralPercent": 92
+  }
+}

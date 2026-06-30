@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-06-30",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 25,
+      "file": "2026-06-30_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-06-30_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-06-30_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-06-30T00:45:48.249Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺用",
+            2
+          ],
+          [
+            "作品说话",
+            2
+          ],
+          [
+            "真是太争",
+            2
+          ],
+          [
+            "气了",
+            2
+          ],
+          [
+            "奇艺",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺白玉兰之夜闭门答谢晚宴",
+            "author": "恶魔小王",
+            "time": "昨天 10:41",
+            "likes": "777",
+            "link": "https://www.xiaohongshu.com/explore/6a41d2e7000000000702872a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a41d2e7000000000702872a?xsec_token=ABNd75fLtcaQ1HQuT4eDfHj86xoVFEHZkZhV-0SrbL0bE=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 777
+          },
+          {
+            "title": "7月5日在爱奇艺看什么？",
+            "author": "星璟🐟",
+            "time": "昨天 14:16",
+            "likes": "202",
+            "link": "https://www.xiaohongshu.com/explore/6a420dae000000000f004d99",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a420dae000000000f004d99?xsec_token=ABZr65GqMmqYgUF4yMKoEtZ5BjK2a4ELP8Q1JwtF2mtpg=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 202
+          },
+          {
+            "title": "不爱社交的陈晓难得的社交场面",
+            "author": "小红薯🍠🍠🍠",
+            "time": "昨天 23:43",
+            "likes": "126",
+            "link": "https://www.xiaohongshu.com/explore/6a42929e0000000015025eb3",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a42929e0000000015025eb3?xsec_token=ABZr65GqMmqYgUF4yMKoEtZ5bmPDOzUQeu9DPnnglniKo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "PS：社交的对象都是男人，虽然旁边坐着杨幂、刘诗诗……",
+            "likeCount": 126
+          }
+        ],
+        "totalLikes": 1536,
+        "avgLikes": 102,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 23,
+          "positivePercent": 8,
+          "negativePercent": 0,
+          "neutralPercent": 92
+        }
+      }
+    },
+    {
       "date": "2026-06-29",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2232,82 +2309,6 @@
           "positivePercent": 5,
           "negativePercent": 0,
           "neutralPercent": 95
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 22,
-      "file": "2026-06-11_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-11_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-11_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-11T00:45:49.120Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            7
-          ],
-          [
-            "无标题",
-            7
-          ],
-          [
-            "爱奇艺真",
-            2
-          ],
-          [
-            "腾讯",
-            2
-          ],
-          [
-            "优酷谁能",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "点击收听李亦非傲娇“毒舌”语录~",
-            "author": "爱奇艺",
-            "time": "昨天 15:00",
-            "likes": "2596",
-            "link": "https://www.xiaohongshu.com/explore/6a28df16000000001c027759",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28df16000000001c027759?xsec_token=AB2thRlSsS197dJMY8EszHIG-UtxlMLVmVtgcUb2FgHPA=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2596
-          },
-          {
-            "title": "今天下午六点空降爱奇艺，是真的吗？",
-            "author": "WiFi",
-            "time": "昨天 10:53",
-            "likes": "133",
-            "link": "https://www.xiaohongshu.com/explore/6a28d195000000002003b6f9",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28d195000000002003b6f9?xsec_token=AB2thRlSsS197dJMY8EszHIOocwvj8FNk4K5zPLsx3MgM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 133
-          },
-          {
-            "title": "爱奇艺销售运营实习生招继任（急）",
-            "author": "楠穆糍",
-            "time": "昨天 12:05",
-            "likes": "56",
-            "link": "https://www.xiaohongshu.com/explore/6a28e01000000000080256e5",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28e01000000000080256e5?xsec_token=AB2thRlSsS197dJMY8EszHIBi8C12RQKUIGFlrpMRZtx4=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 56
-          }
-        ],
-        "totalLikes": 2826,
-        "avgLikes": 236,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 22,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
