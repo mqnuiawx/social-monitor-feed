@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      4
+    ],
+    [
+      "虞书欣",
+      3
+    ],
+    [
+      "灿如繁星",
+      3
+    ],
+    [
+      "观剧被中",
+      2
+    ],
+    [
+      "途锁",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺白玉兰之夜闭门答谢晚宴",
+      "author": "恶魔小王",
+      "time": "1天前",
+      "likes": "814",
+      "link": "https://www.xiaohongshu.com/explore/6a41d2e7000000000702872a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a41d2e7000000000702872a?xsec_token=ABNd75fLtcaQ1HQuT4eDfHj3_jlS8rReHiIE_1Jh83KiE=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 814
+    },
+    {
+      "title": "7月5日在爱奇艺看什么？",
+      "author": "星璟🐟",
+      "time": "1天前",
+      "likes": "220",
+      "link": "https://www.xiaohongshu.com/explore/6a420dae000000000f004d99",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a420dae000000000f004d99?xsec_token=ABZr65GqMmqYgUF4yMKoEtZwBNovGNmjGmskz9qe9yEjA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 220
+    },
+    {
+      "title": "(无标题)",
+      "author": "星娱乐Online",
+      "time": "昨天 16:34",
+      "likes": "143",
+      "link": "https://www.xiaohongshu.com/explore/6a437f850000000011013ec1",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a437f850000000011013ec1?xsec_token=ABf7Vj2IOcgFMjQxmTMYJiu-znd191a_0uneyYKVvcDos=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 143
+    }
+  ],
+  "totalLikes": 1604,
+  "avgLikes": 80,
+  "sentiment": {
+    "positive": 3,
+    "negative": 0,
+    "neutral": 22,
+    "positivePercent": 12,
+    "negativePercent": 0,
+    "neutralPercent": 88
+  }
+}
