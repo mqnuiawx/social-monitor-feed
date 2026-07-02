@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "灿如繁星",
+      6
+    ],
+    [
+      "无标题",
+      4
+    ],
+    [
+      "来爱奇艺",
+      2
+    ],
+    [
+      "林晚星",
+      2
+    ],
+    [
+      "虞书欣",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "邓为fans💜💎",
+      "time": "昨天 12:40",
+      "likes": "326",
+      "link": "https://www.xiaohongshu.com/explore/6a449a2d000000000d00bc01",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a449a2d000000000d00bc01?xsec_token=ABb-c9thoRLJxhoVAHcS57ob7rdHwi9LyrIa_KrufuJK4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 326
+    },
+    {
+      "title": "喜单大日子定了 周五周六直接笑饱！",
+      "author": "爱奇艺",
+      "time": "1天前",
+      "likes": "157",
+      "link": "https://www.xiaohongshu.com/explore/6a436cfb000000001700bb40",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a436cfb000000001700bb40?xsec_token=ABf7Vj2IOcgFMjQxmTMYJiu3ip75jMR3Lf4Fb0viQj2a0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 157
+    },
+    {
+      "title": "(无标题)",
+      "author": "id.许曦椀",
+      "time": "昨天 15:31",
+      "likes": "151",
+      "link": "https://www.xiaohongshu.com/explore/6a44c24a000000001102edde",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a44c24a000000001102edde?xsec_token=ABb-c9thoRLJxhoVAHcS57odno3bIoia7n9n2qNBGKGjk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "七月五日爱奇艺看林晚星小林老师呀#灿如繁星 #林晚星 #虞书欣#许曦椀",
+      "likeCount": 151
+    }
+  ],
+  "totalLikes": 931,
+  "avgLikes": 47,
+  "sentiment": {
+    "positive": 3,
+    "negative": 0,
+    "neutral": 19,
+    "positivePercent": 14,
+    "negativePercent": 0,
+    "neutralPercent": 86
+  }
+}

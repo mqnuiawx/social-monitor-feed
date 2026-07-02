@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-02",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 22,
+      "file": "2026-07-02_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-02_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-02_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-02T00:45:47.918Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "灿如繁星",
+            6
+          ],
+          [
+            "无标题",
+            4
+          ],
+          [
+            "来爱奇艺",
+            2
+          ],
+          [
+            "林晚星",
+            2
+          ],
+          [
+            "虞书欣",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "邓为fans💜💎",
+            "time": "昨天 12:40",
+            "likes": "326",
+            "link": "https://www.xiaohongshu.com/explore/6a449a2d000000000d00bc01",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a449a2d000000000d00bc01?xsec_token=ABb-c9thoRLJxhoVAHcS57ob7rdHwi9LyrIa_KrufuJK4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 326
+          },
+          {
+            "title": "喜单大日子定了 周五周六直接笑饱！",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "157",
+            "link": "https://www.xiaohongshu.com/explore/6a436cfb000000001700bb40",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a436cfb000000001700bb40?xsec_token=ABf7Vj2IOcgFMjQxmTMYJiu3ip75jMR3Lf4Fb0viQj2a0=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 157
+          },
+          {
+            "title": "(无标题)",
+            "author": "id.许曦椀",
+            "time": "昨天 15:31",
+            "likes": "151",
+            "link": "https://www.xiaohongshu.com/explore/6a44c24a000000001102edde",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a44c24a000000001102edde?xsec_token=ABb-c9thoRLJxhoVAHcS57odno3bIoia7n9n2qNBGKGjk=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "七月五日爱奇艺看林晚星小林老师呀#灿如繁星 #林晚星 #虞书欣#许曦椀",
+            "likeCount": 151
+          }
+        ],
+        "totalLikes": 931,
+        "avgLikes": 47,
+        "sentiment": {
+          "positive": 3,
+          "negative": 0,
+          "neutral": 19,
+          "positivePercent": 14,
+          "negativePercent": 0,
+          "neutralPercent": 86
+        }
+      }
+    },
+    {
       "date": "2026-07-01",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2233,82 +2310,6 @@
           "positivePercent": 4,
           "negativePercent": 0,
           "neutralPercent": 96
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "keyword": "爱艺奇",
-      "platform": "xiaohongshu",
-      "count": 26,
-      "file": "2026-06-11_爱艺奇_xiaohongshu.json",
-      "analysisFile": "2026-06-11_爱艺奇_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-11_爱艺奇_xiaohongshu_insights.json",
-      "timestamp": "2026-06-11T03:28:31.287Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "无标题",
-            7
-          ],
-          [
-            "爱奇艺",
-            5
-          ],
-          [
-            "生气",
-            3
-          ],
-          [
-            "出爱奇艺",
-            3
-          ],
-          [
-            "内容营销",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "李亦非钱菲 和喜欢的人一起吃啥都幸福",
-            "author": "爱奇艺",
-            "time": "昨天 14:11",
-            "likes": "2808",
-            "link": "https://www.xiaohongshu.com/explore/6a28ddaa000000001603c4ab",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28ddaa000000001603c4ab?xsec_token=AB2thRlSsS197dJMY8EszHIASyVKthvFxJ179iu4amB7Y=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2808
-          },
-          {
-            "title": "点击收听李亦非傲娇“毒舌”语录~",
-            "author": "爱奇艺",
-            "time": "昨天 15:00",
-            "likes": "2698",
-            "link": "https://www.xiaohongshu.com/explore/6a28df16000000001c027759",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28df16000000001c027759?xsec_token=AB2thRlSsS197dJMY8EszHIG-UtxlMLVmVtgcUb2FgHPA=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2698
-          },
-          {
-            "title": "今天下午六点空降爱奇艺，是真的吗？",
-            "author": "WiFi",
-            "time": "1天前",
-            "likes": "133",
-            "link": "https://www.xiaohongshu.com/explore/6a28d195000000002003b6f9",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28d195000000002003b6f9?xsec_token=AB2thRlSsS197dJMY8EszHIOocwvj8FNk4K5zPLsx3MgM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 133
-          }
-        ],
-        "totalLikes": 5873,
-        "avgLikes": 367,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 24,
-          "positivePercent": 8,
-          "negativePercent": 0,
-          "neutralPercent": 92
         }
       }
     }
