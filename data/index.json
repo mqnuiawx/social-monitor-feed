@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-03",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 17,
+      "file": "2026-07-03_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-03_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-03_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-03T00:45:49.305Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "逐夏",
+            3
+          ],
+          [
+            "爱奇艺任",
+            2
+          ],
+          [
+            "命新任",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "毅起比个耶",
+            "time": "昨天 23:26",
+            "likes": "147",
+            "link": "https://www.xiaohongshu.com/explore/6a46833100000000110129a9",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a46833100000000110129a9?xsec_token=ABeaNMjf7sP7oDhKiN4TaZbK51hl5LFop9ilFQT8Epcs8=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 147
+          },
+          {
+            "title": "🐧🥝👖🥭7月排播",
+            "author": "来一碗迷魂汤🍦",
+            "time": "1天前",
+            "likes": "118",
+            "link": "https://www.xiaohongshu.com/explore/6a447c9c0000000017008aec",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a447c9c0000000017008aec?xsec_token=ABb-c9thoRLJxhoVAHcS57oUGcvdpWHCzCwQ_4ecbJuQo=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 118
+          },
+          {
+            "title": "(无标题)",
+            "author": "嗑瓜子专用君",
+            "time": "昨天 22:00",
+            "likes": "56",
+            "link": "https://www.xiaohongshu.com/explore/6a466ef3000000001702da72",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a466ef3000000001702da72?xsec_token=ABeaNMjf7sP7oDhKiN4TaZbNbpqpIxWKrORKSD1eViKcA=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "爱奇艺青春剧《逐夏》主演：张康乐、沈羽洁 导演：吴亚衡《许我耀眼》 编剧：王媛《树下有片红房子》 开机时间：8月宁波 拍摄周期：70天 出品/制作公司：琪铄影业 改编自木瓜黄现象级言情IP《逐夏》。#张康乐 #沈羽洁 #逐夏 #电视剧 #现代 #青春剧 #校园剧 #影视资讯 #组讯 #小说改编",
+            "likeCount": 56
+          }
+        ],
+        "totalLikes": 428,
+        "avgLikes": 31,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 15,
+          "positivePercent": 12,
+          "negativePercent": 0,
+          "neutralPercent": 88
+        }
+      }
+    },
+    {
       "date": "2026-07-02",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2234,82 +2311,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "keyword": "🥝",
-      "platform": "xiaohongshu",
-      "count": 23,
-      "file": "2026-06-11_🥝_xiaohongshu.json",
-      "analysisFile": "2026-06-11_🥝_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-11_🥝_xiaohongshu_insights.json",
-      "timestamp": "2026-06-11T03:29:38.636Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "分钟",
-            15
-          ],
-          [
-            "无标题",
-            5
-          ],
-          [
-            "南部档案",
-            4
-          ],
-          [
-            "云包场",
-            3
-          ],
-          [
-            "云包场分",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "《南部档案》定档🥝6.❓（maybe12号）",
-            "author": "爱看剧的温带北极熊",
-            "time": "昨天 18:14",
-            "likes": "107",
-            "link": "https://www.xiaohongshu.com/explore/6a28bb80000000001503e3bc",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28bb80000000001503e3bc?xsec_token=AB2thRlSsS197dJMY8EszHIKp0w9Xoaaq4Kg5O3EQOwaM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 107
-          },
-          {
-            "title": "广西男人 《爱情有烟火》CCTV8🥝🐧",
-            "author": "好了伤疤忘了疼",
-            "time": "昨天 14:55",
-            "likes": "96",
-            "link": "https://www.xiaohongshu.com/explore/6a2908d70000000021023d9f",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2908d70000000021023d9f?xsec_token=ABl5Hz5IxOohsWe1NNkU4Bi5AGu3QL5gU7Bi5t91HENsY=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 96
-          },
-          {
-            "title": "6.9☁️包场🐧🥝👖🥭",
-            "author": "🌾爱追剧",
-            "time": "1天前",
-            "likes": "93",
-            "link": "https://www.xiaohongshu.com/explore/6a276bad000000001702e7d6",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a276bad000000001702e7d6?xsec_token=ABRuCe6_E_S4KGIbm-L10tS-arOckRqbhNjUPMvTl0zi0=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 93
-          }
-        ],
-        "totalLikes": 641,
-        "avgLikes": 29,
-        "sentiment": {
-          "positive": 1,
-          "negative": 0,
-          "neutral": 22,
-          "positivePercent": 4,
-          "negativePercent": 0,
-          "neutralPercent": 96
         }
       }
     }

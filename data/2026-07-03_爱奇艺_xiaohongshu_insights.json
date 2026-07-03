@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "无标题",
+      3
+    ],
+    [
+      "逐夏",
+      3
+    ],
+    [
+      "爱奇艺任",
+      2
+    ],
+    [
+      "命新任",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "毅起比个耶",
+      "time": "昨天 23:26",
+      "likes": "147",
+      "link": "https://www.xiaohongshu.com/explore/6a46833100000000110129a9",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a46833100000000110129a9?xsec_token=ABeaNMjf7sP7oDhKiN4TaZbK51hl5LFop9ilFQT8Epcs8=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 147
+    },
+    {
+      "title": "🐧🥝👖🥭7月排播",
+      "author": "来一碗迷魂汤🍦",
+      "time": "1天前",
+      "likes": "118",
+      "link": "https://www.xiaohongshu.com/explore/6a447c9c0000000017008aec",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a447c9c0000000017008aec?xsec_token=ABb-c9thoRLJxhoVAHcS57oUGcvdpWHCzCwQ_4ecbJuQo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 118
+    },
+    {
+      "title": "(无标题)",
+      "author": "嗑瓜子专用君",
+      "time": "昨天 22:00",
+      "likes": "56",
+      "link": "https://www.xiaohongshu.com/explore/6a466ef3000000001702da72",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a466ef3000000001702da72?xsec_token=ABeaNMjf7sP7oDhKiN4TaZbNbpqpIxWKrORKSD1eViKcA=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "爱奇艺青春剧《逐夏》主演：张康乐、沈羽洁 导演：吴亚衡《许我耀眼》 编剧：王媛《树下有片红房子》 开机时间：8月宁波 拍摄周期：70天 出品/制作公司：琪铄影业 改编自木瓜黄现象级言情IP《逐夏》。#张康乐 #沈羽洁 #逐夏 #电视剧 #现代 #青春剧 #校园剧 #影视资讯 #组讯 #小说改编",
+      "likeCount": 56
+    }
+  ],
+  "totalLikes": 428,
+  "avgLikes": 31,
+  "sentiment": {
+    "positive": 2,
+    "negative": 0,
+    "neutral": 15,
+    "positivePercent": 12,
+    "negativePercent": 0,
+    "neutralPercent": 88
+  }
+}
