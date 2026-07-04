@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-07-04",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 33,
+      "file": "2026-07-04_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-04_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-04_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-04T00:45:49.029Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            8
+          ],
+          [
+            "爱奇艺",
+            4
+          ],
+          [
+            "灿如繁星",
+            4
+          ],
+          [
+            "逐夏",
+            3
+          ],
+          [
+            "爱奇艺吃",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "芋酱娱乐屋",
+            "time": "昨天 10:51",
+            "likes": "800",
+            "link": "https://www.xiaohongshu.com/explore/6a4723cd00000000080252e2",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4723cd00000000080252e2?xsec_token=ABYwR1868oiYgzwEBK3ebN_Vbsnj12HU4MCd-ZPvrIOsI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 800
+          },
+          {
+            "title": "(无标题)",
+            "author": "111",
+            "time": "8小时前",
+            "likes": "442",
+            "link": "https://www.xiaohongshu.com/explore/6a47df55000000001c0251c1",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a47df55000000001c0251c1?xsec_token=ABYwR1868oiYgzwEBK3ebN_fXPQHHfFyqKgPbm-TemaeA=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 442
+          },
+          {
+            "title": "7.5爱奇艺，静待灿如繁星",
+            "author": "若枫染秋",
+            "time": "昨天 11:55",
+            "likes": "391",
+            "link": "https://www.xiaohongshu.com/explore/6a473174000000001101b655",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a473174000000001101b655?xsec_token=ABYwR1868oiYgzwEBK3ebN_SKkWlt_eG2xqAeL_IlK5NU=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 391
+          }
+        ],
+        "totalLikes": 2189,
+        "avgLikes": 104,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 32,
+          "positivePercent": 3,
+          "negativePercent": 0,
+          "neutralPercent": 97
+        }
+      }
+    },
+    {
       "date": "2026-07-03",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2232,82 +2308,6 @@
           "positive": 0,
           "negative": 0,
           "neutral": 24,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 23,
-      "file": "2026-06-12_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-12_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-12_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-12T00:45:48.518Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            5
-          ],
-          [
-            "无标题",
-            5
-          ],
-          [
-            "南部档案",
-            4
-          ],
-          [
-            "爱奇艺会",
-            2
-          ],
-          [
-            "爱奇艺动",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "🥝南部档案今日开播！",
-            "author": "爱奇艺",
-            "time": "昨天 11:25",
-            "likes": "6605",
-            "link": "https://www.xiaohongshu.com/explore/6a2a2abf000000001702dfe6",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2a2abf000000001702dfe6?xsec_token=AB5Wb5etkcAezZ90vqElu8MNFtj5_QrMVfB9NCuVm8-cE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 6605
-          },
-          {
-            "title": "檀健次王楚然 爱情有烟火最新剧照",
-            "author": "爱奇艺",
-            "time": "昨天 12:05",
-            "likes": "2342",
-            "link": "https://www.xiaohongshu.com/explore/6a2a17b8000000001603c360",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2a17b8000000001603c360?xsec_token=AB5Wb5etkcAezZ90vqElu8MCHnRIaiV6UaOzkCh_ppwZQ=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2342
-          },
-          {
-            "title": "爱奇艺销售运营实习生招继任（急）",
-            "author": "楠穆糍",
-            "time": "1天前",
-            "likes": "73",
-            "link": "https://www.xiaohongshu.com/explore/6a28e01000000000080256e5",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a28e01000000000080256e5?xsec_token=AB2thRlSsS197dJMY8EszHIEa0p6UDr5hIhDFnUsTh42g=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 73
-          }
-        ],
-        "totalLikes": 9169,
-        "avgLikes": 509,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 23,
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
