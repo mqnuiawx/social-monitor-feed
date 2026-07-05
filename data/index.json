@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-07-05",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 28,
+      "file": "2026-07-05_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-05_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-05_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-05T00:45:49.171Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            8
+          ],
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "爱奇艺综",
+            2
+          ],
+          [
+            "卸载爱奇",
+            1
+          ],
+          [
+            "需要填理",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "芋酱娱乐屋",
+            "time": "1天前",
+            "likes": "812",
+            "link": "https://www.xiaohongshu.com/explore/6a4723cd00000000080252e2",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4723cd00000000080252e2?xsec_token=ABYwR1868oiYgzwEBK3ebN_YXUgbRE0GYuCEhgaodgxVU=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 812
+          },
+          {
+            "title": "(无标题)",
+            "author": "111",
+            "time": "1天前",
+            "likes": "664",
+            "link": "https://www.xiaohongshu.com/explore/6a47df55000000001c0251c1",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a47df55000000001c0251c1?xsec_token=ABYwR1868oiYgzwEBK3ebN_SU5k9Pmad6o2rWpIokVk3g=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 664
+          },
+          {
+            "title": "爱奇艺近两年开过的庆功宴/答谢宴",
+            "author": "momo",
+            "time": "昨天 15:29",
+            "likes": "242",
+            "link": "https://www.xiaohongshu.com/explore/6a48b0f50000000008000b64",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a48b0f50000000008000b64?xsec_token=ABtuPfUvEQIhRx85JJKuh9U1sCtNzzL6hBT5_gVCGmPUs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 242
+          }
+        ],
+        "totalLikes": 2285,
+        "avgLikes": 114,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 27,
+          "positivePercent": 4,
+          "negativePercent": 0,
+          "neutralPercent": 96
+        }
+      }
+    },
+    {
       "date": "2026-07-04",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2235,82 +2311,6 @@
           "positivePercent": 20,
           "negativePercent": 0,
           "neutralPercent": 80
-        }
-      }
-    },
-    {
-      "date": "2026-06-13",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 24,
-      "file": "2026-06-13_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-13_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-13_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-13T00:45:49.181Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            5
-          ],
-          [
-            "爱奇艺季",
-            5
-          ],
-          [
-            "无标题",
-            4
-          ],
-          [
-            "季卡",
-            4
-          ],
-          [
-            "喜马拉雅",
-            3
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "檀健次王楚然 爱情有烟火狐兔师徒版海报",
-            "author": "爱奇艺",
-            "time": "昨天 10:46",
-            "likes": "2433",
-            "link": "https://www.xiaohongshu.com/explore/6a2b72f0000000001503e6a8",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2b72f0000000001503e6a8?xsec_token=ABMEhXAxSz6CpQA0rLoA_367YL3XMmC2eDI3QpxF0aFpQ=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2433
-          },
-          {
-            "title": "南部档案爱奇艺热度破8000！",
-            "author": "爱奇艺",
-            "time": "昨天 13:29",
-            "likes": "2383",
-            "link": "https://www.xiaohongshu.com/explore/6a2b993c000000001700a03c",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2b993c000000001700a03c?xsec_token=ABMEhXAxSz6CpQA0rLoA_362-54w5BPyZS07A9caoB0jk=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2383
-          },
-          {
-            "title": "南部档案爱奇艺热度破8500！",
-            "author": "爱奇艺",
-            "time": "昨天 19:09",
-            "likes": "1126",
-            "link": "https://www.xiaohongshu.com/explore/6a2be8d30000000022027ca1",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2be8d30000000022027ca1?xsec_token=ABMEhXAxSz6CpQA0rLoA_369aeAv7E_XHMecyK_tnJlqc=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 1126
-          }
-        ],
-        "totalLikes": 7190,
-        "avgLikes": 514,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 24,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }

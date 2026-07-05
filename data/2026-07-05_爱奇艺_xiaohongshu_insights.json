@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      8
+    ],
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "爱奇艺综",
+      2
+    ],
+    [
+      "卸载爱奇",
+      1
+    ],
+    [
+      "需要填理",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "芋酱娱乐屋",
+      "time": "1天前",
+      "likes": "812",
+      "link": "https://www.xiaohongshu.com/explore/6a4723cd00000000080252e2",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4723cd00000000080252e2?xsec_token=ABYwR1868oiYgzwEBK3ebN_YXUgbRE0GYuCEhgaodgxVU=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 812
+    },
+    {
+      "title": "(无标题)",
+      "author": "111",
+      "time": "1天前",
+      "likes": "664",
+      "link": "https://www.xiaohongshu.com/explore/6a47df55000000001c0251c1",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a47df55000000001c0251c1?xsec_token=ABYwR1868oiYgzwEBK3ebN_SU5k9Pmad6o2rWpIokVk3g=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 664
+    },
+    {
+      "title": "爱奇艺近两年开过的庆功宴/答谢宴",
+      "author": "momo",
+      "time": "昨天 15:29",
+      "likes": "242",
+      "link": "https://www.xiaohongshu.com/explore/6a48b0f50000000008000b64",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a48b0f50000000008000b64?xsec_token=ABtuPfUvEQIhRx85JJKuh9U1sCtNzzL6hBT5_gVCGmPUs=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 242
+    }
+  ],
+  "totalLikes": 2285,
+  "avgLikes": 114,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 27,
+    "positivePercent": 4,
+    "negativePercent": 0,
+    "neutralPercent": 96
+  }
+}
