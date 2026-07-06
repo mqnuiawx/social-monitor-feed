@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      6
+    ],
+    [
+      "桃厂这夏",
+      2
+    ],
+    [
+      "小林老师",
+      2
+    ],
+    [
+      "灿如繁星",
+      2
+    ],
+    [
+      "爱奇艺会",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "娱圈咪咪酱",
+      "time": "昨天 23:26",
+      "likes": "345",
+      "link": "https://www.xiaohongshu.com/explore/6a4a7788000000001700a847",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4a7788000000001700a847?xsec_token=ABzo1PsCgzrSDSUf7Jz3GXenQHUkohGzbxE44RTgN0hRY=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 345
+    },
+    {
+      "title": "人家搁那煽情呢！",
+      "author": "Even 33（黑桃Q版本）",
+      "time": "昨天 23:53",
+      "likes": "194",
+      "link": "https://www.xiaohongshu.com/explore/6a4a7df00000000011004aa5",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4a7df00000000011004aa5?xsec_token=ABzo1PsCgzrSDSUf7Jz3GXelMGgeHSEwINW9__0-9XtFs=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "小林老师你别吃了星吗！",
+      "likeCount": 194
+    },
+    {
+      "title": "爱奇艺暑期推荐｜桃厂这夏直接玩嗨了",
+      "author": "爱奇艺",
+      "time": "昨天 10:30",
+      "likes": "185",
+      "link": "https://www.xiaohongshu.com/explore/6a48c9e100000000170094f6",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a48c9e100000000170094f6?xsec_token=ABtuPfUvEQIhRx85JJKuh9U7RfbmABiYC0UK3l_uJysUk=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "说唱、美食、恋综、脱口秀…… 综艺轮番来炸场！ 还有超多待播精彩蓄势待发，入股不亏！ 这个夏天，一起来🥝快乐追更不重样～#桃厂这夏玩嗨了 #夏日青春漾",
+      "likeCount": 185
+    }
+  ],
+  "totalLikes": 1018,
+  "avgLikes": 54,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 20,
+    "positivePercent": 5,
+    "negativePercent": 0,
+    "neutralPercent": 95
+  }
+}
