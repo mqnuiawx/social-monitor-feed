@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-07-07",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 23,
+      "file": "2026-07-07_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-07_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-07_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-07T00:45:50.580Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "灿如繁星",
+            8
+          ],
+          [
+            "爱奇艺",
+            5
+          ],
+          [
+            "爱奇艺你",
+            4
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "自动扣款",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "灿如繁星晴空寄愿版海报送达～中午见！",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "3316",
+            "link": "https://www.xiaohongshu.com/explore/6a49b5d6000000000f02bac2",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a49b5d6000000000f02bac2?xsec_token=ABiFtX_cCPuPj3bARFwPhC-1SizoPv6ABlkjuZ-fKk1ek=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 3316
+          },
+          {
+            "title": "爱奇艺你又这样……",
+            "author": "Zzzzzz🍀",
+            "time": "昨天 14:50",
+            "likes": "567",
+            "link": "https://www.xiaohongshu.com/explore/6a4b33a8000000000f02991c",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4b33a8000000000f02991c?xsec_token=ABfzji053BvYj6WYla07UlB5Wf3KvVhZE7KoSlN0Kfwjs=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "固屏是只有一天的，第二天就没了别的剧都有的大礼包我们爱奇艺现偶首日热度top1的剧也是没有的你抽月卡，我们灿如繁星是只有一张的一张就算了，你还假抽，抽卡的博文连抽卡链接都没有@爱奇艺 我看你是又欠麻辣了，想让粉丝氪金你倒是拿出态度来啊，我们又不是要求你开闸放水，正常剧的待遇我们也要有啊！你就这样对你们代言人@爱奇艺 #观众的命也是命 #灿如繁星",
+            "likeCount": 567
+          },
+          {
+            "title": "灿如繁星带动爱奇艺股价大涨",
+            "author": "我很萌别伤害我",
+            "time": "昨天 11:13",
+            "likes": "548",
+            "link": "https://www.xiaohongshu.com/explore/6a4b1c71000000002102364b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4b1c71000000002102364b?xsec_token=ABfzji053BvYj6WYla07UlB8HU15AWQwNOFv7wJxsw18w=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "由虞书欣主演的独播现偶《灿如繁星》7月5日开播热度爆发，站内峰值热度7400+，登顶全平台剧集榜单，云包场、全网播放、热搜数据刷新平台现偶纪录。打破爱奇艺两年的股价魔咒，实现回升，市场看好剧集拉动会员续费、广告增收，验证爱奇艺自制内容变现能力，资金看多平台内容储备与盈利预期，推动股价走强。虞书欣不愧是爱奇艺财神奶！！！#虞书欣 #灿如繁星 #虞书欣林晚星 #爱奇艺 #股票 #股价",
+            "likeCount": 548
+          }
+        ],
+        "totalLikes": 5036,
+        "avgLikes": 315,
+        "sentiment": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 21,
+          "positivePercent": 4,
+          "negativePercent": 4,
+          "neutralPercent": 91
+        }
+      }
+    },
+    {
       "date": "2026-07-06",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2230,83 +2308,6 @@
           "positive": 0,
           "negative": 0,
           "neutral": 23,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 29,
-      "file": "2026-06-15_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-15_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-15_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-15T00:45:46.538Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "无标题",
-            11
-          ],
-          [
-            "爱奇艺会",
-            4
-          ],
-          [
-            "邓为郑适",
-            3
-          ],
-          [
-            "南部档案",
-            3
-          ],
-          [
-            "恭喜邓为",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "南部档案爱奇艺热度破8888！",
-            "author": "爱奇艺",
-            "time": "昨天 21:17",
-            "likes": "1522",
-            "link": "https://www.xiaohongshu.com/explore/6a2ea9f300000000350242f4",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2ea9f300000000350242f4?xsec_token=ABU-Dz259GcxzN0deVWJOvS7JCG3f_jCniEHrGFvuPMj8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "热度再新高！南洋秘境藏无数故事，跟随海鲜小队解锁一段段不为人知的过往~每日18:00，锁定🥝正在热播！#南部档案 领衔主演：#张新成 #丁禹兮 （排名不分先后）",
-            "likeCount": 1522
-          },
-          {
-            "title": "(无标题)",
-            "author": "南派三叔",
-            "time": "昨天 17:22",
-            "likes": "833",
-            "link": "https://www.xiaohongshu.com/explore/6a2e72e7000000003502d7d0",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2e72e7000000003502d7d0?xsec_token=ABU-Dz259GcxzN0deVWJOvS82U-aWD9zUaUv7lKxlM4BA=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 833
-          },
-          {
-            "title": "我们渊雾已腌入味！",
-            "author": "当麻紗綾BAE17JOY",
-            "time": "7小时前",
-            "likes": "223",
-            "link": "https://www.xiaohongshu.com/explore/6a2eddad000000001503c10d",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2eddad000000001503c10d?xsec_token=ABU-Dz259GcxzN0deVWJOvS6FLP4xnWKvN64D3eZ0VYXs=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 223
-          }
-        ],
-        "totalLikes": 3380,
-        "avgLikes": 147,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 29,
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
