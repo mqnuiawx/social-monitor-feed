@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-08",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 24,
+      "file": "2026-07-08_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-08_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-08_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-08T00:45:50.374Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            6
+          ],
+          [
+            "无标题",
+            4
+          ],
+          [
+            "爱奇艺会",
+            3
+          ],
+          [
+            "灿如繁星",
+            3
+          ],
+          [
+            "爱奇艺吃",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "(无标题)",
+            "author": "欣欣记.",
+            "time": "昨天 22:58",
+            "likes": "95",
+            "link": "https://www.xiaohongshu.com/explore/6a4d142c000000001700a359",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4d142c000000001700a359?xsec_token=AB14xObfBW7QJpJVsFY0h3eZsMtcEpuuNX9ydogRKNw-Q=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 95
+          },
+          {
+            "title": "爱奇艺你吃相真难看",
+            "author": "超级酷炫",
+            "time": "1天前",
+            "likes": "92",
+            "link": "https://www.xiaohongshu.com/explore/6a4bcc6f000000000803fc0f",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4bcc6f000000000803fc0f?xsec_token=ABfzji053BvYj6WYla07UlB6L46ouUMv5Nk24iadZM0NY=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 92
+          },
+          {
+            "title": "谁都敢说，今晚星法仿佛精神左爱了一般",
+            "author": "小叮当",
+            "time": "昨天 21:46",
+            "likes": "70",
+            "link": "https://www.xiaohongshu.com/explore/6a4d0343000000000803040f",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4d0343000000000803040f?xsec_token=AB14xObfBW7QJpJVsFY0h3eVYn810iyn0joqp7652nfi0=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "第十集看得我一直在尖叫，这段擦药的对话起码拉进度条看了几十遍啊啊啊啊啊啊 怎么能有如此soulmate，又这么有性张力的cp啊，星法伟大",
+            "likeCount": 70
+          }
+        ],
+        "totalLikes": 633,
+        "avgLikes": 33,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 24,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-07-07",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2234,83 +2311,6 @@
           "positivePercent": 12,
           "negativePercent": 0,
           "neutralPercent": 88
-        }
-      }
-    },
-    {
-      "date": "2026-06-16",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 23,
-      "file": "2026-06-16_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-16_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-16_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-16T00:45:47.421Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            5
-          ],
-          [
-            "无标题",
-            4
-          ],
-          [
-            "天行九歌",
-            4
-          ],
-          [
-            "爱奇艺吃",
-            2
-          ],
-          [
-            "相太难看",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺民国剧《惹惊鸿》王星越、赵晴🍠",
-            "author": "呆子娱乐资讯",
-            "time": "1天前",
-            "likes": "76",
-            "link": "https://www.xiaohongshu.com/explore/6a2e3f1100000000360039e7",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2e3f1100000000360039e7?xsec_token=ABU-Dz259GcxzN0deVWJOvS487udGeauB0Gv2b_oQSBJA=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 76
-          },
-          {
-            "title": "爱奇艺账号被刷播放量",
-            "author": "丸丸大魔王",
-            "time": "昨天 10:28",
-            "likes": "72",
-            "link": "https://www.xiaohongshu.com/explore/6a2f633d000000001702cd0d",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2f633d000000001702cd0d?xsec_token=ABl5kLO5-E4txGfIEpdXAWp6kZFaGdcdtUeFAxTWbXxtQ=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 72
-          },
-          {
-            "title": "(无标题)",
-            "author": "思红颜",
-            "time": "昨天 20:01",
-            "likes": "51",
-            "link": "https://www.xiaohongshu.com/explore/6a2fe9a4000000001700abb3",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a2fe9a4000000001700abb3?xsec_token=ABl5kLO5-E4txGfIEpdXAWp_aeqsHZnObg6tm2VTS4VYg=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "虾仔复活 海楼成为了真正的张家人 #爱奇艺好片推荐计划 #南部档案 #南部档案二创大赛",
-            "likeCount": 51
-          }
-        ],
-        "totalLikes": 333,
-        "avgLikes": 22,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 23,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
