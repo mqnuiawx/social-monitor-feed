@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      11
+    ],
+    [
+      "无标题",
+      7
+    ],
+    [
+      "爱奇艺会",
+      3
+    ],
+    [
+      "桃你喜欢",
+      2
+    ],
+    [
+      "互动嘉年",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "(无标题)",
+      "author": "驀然回首浮生若夢",
+      "time": "昨天 13:54",
+      "likes": "445",
+      "link": "https://www.xiaohongshu.com/explore/6a4de632000000000f01ce9e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4de632000000000f01ce9e?xsec_token=AB14xObfBW7QJpJVsFY0h3eXMKjwq2tppIwDxW6XNLrFc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 445
+    },
+    {
+      "title": "2026🥝717“桃你喜欢IP互动嘉年华”官宣",
+      "author": "爱奇艺",
+      "time": "昨天 10:00",
+      "likes": "370",
+      "link": "https://www.xiaohongshu.com/explore/6a4ccd49000000001503cd38",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4ccd49000000001503cd38?xsec_token=ABwYAD4SAL0O26zD7UE9ZDdz6-s_1bzjZogiGQe012Wqo=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "2026#爱奇艺717  会员节官宣，海量桃厂热门IP惊喜亮相，超多会员福利玩法全新上线！7月17日，我们#桃你喜欢IP互动嘉年华  见！",
+      "likeCount": 370
+    },
+    {
+      "title": "(无标题)",
+      "author": "谈什么不如檀健次97",
+      "time": "昨天 14:26",
+      "likes": "64",
+      "link": "https://www.xiaohongshu.com/explore/6a4ded8d000000000e021800",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a4ded8d000000000e021800?xsec_token=AB14xObfBW7QJpJVsFY0h3eZ_scYbhld-gre7G16SYhfI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 64
+    }
+  ],
+  "totalLikes": 1048,
+  "avgLikes": 52,
+  "sentiment": {
+    "positive": 3,
+    "negative": 0,
+    "neutral": 20,
+    "positivePercent": 13,
+    "negativePercent": 0,
+    "neutralPercent": 87
+  }
+}
