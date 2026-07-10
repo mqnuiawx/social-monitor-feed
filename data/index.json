@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-07-10",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 11,
+      "file": "2026-07-10_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-10_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-10_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-10T00:45:48.945Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "按姓氏笔",
+            3
+          ],
+          [
+            "画排序",
+            3
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "爱奇艺",
+            2
+          ],
+          [
+            "电视大屏",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "侯明昊艾米《雀骨》定档7月11日爱奇艺播出❗️",
+            "author": "呆鱼娱乐资讯",
+            "time": "昨天 10:02",
+            "likes": "1397",
+            "link": "https://www.xiaohongshu.com/explore/6a4f012e000000000f01fe4e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4f012e000000000f01fe4e?xsec_token=ABgcq-djZ_y_JsNVhRkY_EcSa-jCFSzjBYYRVmB2ecK4s=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "侯明昊艾米《雀骨》官宣定档7月11日爱奇艺播出 领衔主演（按姓氏笔画排序）: 陈艾米（艾米）@演员艾米  侯明昊@侯明昊 特别出演（按姓氏笔画排序）： 马秋元@马秋元_  刘妍宏（刘令姿）@刘令姿__  米热夏提·亚里坤（米热）@米热MERXAT  何润东@何润东  郑雅文@鄭雅文Veronique  顾又齐（王以纶）@王以纶RileyKing 出 演（按姓氏笔画排序）： 王丽坤@王丽坤  张雨剑",
+            "likeCount": 1397
+          },
+          {
+            "title": "TOP7逍遥2026上半年爱奇艺国际版全球热播榜",
+            "author": "向阳而生",
+            "time": "昨天 18:25",
+            "likes": "94",
+            "link": "https://www.xiaohongshu.com/explore/6a4f75e00000000022015a50",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4f75e00000000022015a50?xsec_token=ABgcq-djZ_y_JsNVhRkY_EcYs5Z_e7MliSdan-_xL2d7A=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 94
+          },
+          {
+            "title": "你的暑假快乐，爱奇艺VIP“ALL IN”了🍉",
+            "author": "爱奇艺",
+            "time": "昨天 12:45",
+            "likes": "90",
+            "link": "https://www.xiaohongshu.com/explore/6a4f2004000000001700919b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4f2004000000001700919b?xsec_token=ABgcq-djZ_y_JsNVhRkY_EcfUGhnsh0t_IWaE7gYOOMJY=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "暑假进度条已开启，你的追剧补番计划安排上了吗？ 这个暑假，爱奇艺不止有数十部超精彩内容亟待上线，爱奇艺VIP多款VIP会员也超值又好玩，直接抄作业👇 🍿 独处追剧人：爱奇艺黄金VIP师生特惠低至12元/月，一杯奶茶钱解锁暑假追剧快乐！移动端享超高清4K，攒了一学期的内容，想几点追就几点追，空调房里一个人嗨到飞起 🎤 多人共享/电视大屏党：爱奇艺白金VIP电视大屏爽看！8台设备登录，2台同时播",
+            "likeCount": 90
+          }
+        ],
+        "totalLikes": 1685,
+        "avgLikes": 281,
+        "sentiment": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 9,
+          "positivePercent": 9,
+          "negativePercent": 9,
+          "neutralPercent": 82
+        }
+      }
+    },
+    {
       "date": "2026-07-09",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2234,83 +2312,6 @@
           "positivePercent": 10,
           "negativePercent": 0,
           "neutralPercent": 90
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 15,
-      "file": "2026-06-18_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-18_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-18_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-18T00:45:47.904Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "无标题",
-            4
-          ],
-          [
-            "爱奇艺会",
-            2
-          ],
-          [
-            "投资需谨",
-            2
-          ],
-          [
-            "京东卡开",
-            1
-          ],
-          [
-            "卡礼",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺发布长生骨",
-            "author": "世一萌舒心酱",
-            "time": "1天前",
-            "likes": "2571",
-            "link": "https://www.xiaohongshu.com/explore/6a30dacc0000000007022417",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a30dacc0000000007022417?xsec_token=ABfoycYDCEpvBaahyxOGbyMoN0-D__ME6CZkiz-fpuY-w=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 2571
-          },
-          {
-            "title": "毕业快乐！千元大奖艺人签名照掉落中🔥",
-            "author": "爱奇艺",
-            "time": "昨天 10:30",
-            "likes": "267",
-            "link": "https://www.xiaohongshu.com/explore/6a320265000000001702dead",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a320265000000001702dead?xsec_token=ABegZq_a0OjXqsnAQBlxzzmxGESlqaNKaajYtWveaKK0Q=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 267
-          },
-          {
-            "title": "爱奇艺暴跌 97% 为什么会深套？",
-            "author": "价值兔，深度逻辑提升",
-            "time": "1天前",
-            "likes": "117",
-            "link": "https://www.xiaohongshu.com/explore/6a310075000000001003edac",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a310075000000001003edac?xsec_token=ABrt9I_Joowmj_HmTCFWchWTQ3Z6MOOpJCkQD0OA2cLuw=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "46跌到1元的爱奇艺，谢谢关注我的频道，谢谢点赞收藏，记录持有全过程，一起复盘一下，分析股价的风险和启示。投资有风险，投资需谨慎，本文不作为投资建议。大家认为爱奇艺还能逆境反转吗？#爱奇艺 #股票 #中概股 #价值投资 #投资 #股市 #股票知识 #投资需谨慎 #行情 #基金",
-            "likeCount": 117
-          }
-        ],
-        "totalLikes": 3153,
-        "avgLikes": 263,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 13,
-          "positivePercent": 13,
-          "negativePercent": 0,
-          "neutralPercent": 87
         }
       }
     }
