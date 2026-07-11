@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-07-11",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 9,
+      "file": "2026-07-11_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-11_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-11_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-11T00:45:52.295Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            4
+          ],
+          [
+            "爱奇艺吃",
+            3
+          ],
+          [
+            "按姓氏笔",
+            3
+          ],
+          [
+            "画排序",
+            3
+          ],
+          [
+            "电视大屏",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "侯明昊艾米《雀骨》定档7月11日爱奇艺播出❗️",
+            "author": "呆鱼娱乐资讯",
+            "time": "1天前",
+            "likes": "1578",
+            "link": "https://www.xiaohongshu.com/explore/6a4f012e000000000f01fe4e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4f012e000000000f01fe4e?xsec_token=ABgcq-djZ_y_JsNVhRkY_EcbaXn1DAytsRfhGouFXXw_4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "侯明昊艾米《雀骨》官宣定档7月11日爱奇艺播出 领衔主演（按姓氏笔画排序）: 陈艾米（艾米）@演员艾米  侯明昊@侯明昊 特别出演（按姓氏笔画排序）： 马秋元@马秋元_  刘妍宏（刘令姿）@刘令姿__  米热夏提·亚里坤（米热）@米热MERXAT  何润东@何润东  郑雅文@鄭雅文Veronique  顾又齐（王以纶）@王以纶RileyKing 出 演（按姓氏笔画排序）： 王丽坤@王丽坤  张雨剑",
+            "likeCount": 1578
+          },
+          {
+            "title": "爱奇艺这广告……",
+            "author": "小慕",
+            "time": "昨天 16:08",
+            "likes": "278",
+            "link": "https://www.xiaohongshu.com/explore/6a50a890000000000f0179b4",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a50a890000000000f0179b4?xsec_token=ABzO7aq9STInreYGh_xYE9G-aOSa3H_MZ2CE66q0ES37M=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 278
+          },
+          {
+            "title": "你的暑假快乐，爱奇艺VIP“ALL IN”了🍉",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "98",
+            "link": "https://www.xiaohongshu.com/explore/6a4f2004000000001700919b",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a4f2004000000001700919b?xsec_token=ABgcq-djZ_y_JsNVhRkY_EcUTlvmZHj1Z9l64FEDJvMtI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "暑假进度条已开启，你的追剧补番计划安排上了吗？ 这个暑假，爱奇艺不止有数十部超精彩内容亟待上线，爱奇艺VIP多款VIP会员也超值又好玩，直接抄作业👇 🍿 独处追剧人：爱奇艺黄金VIP师生特惠低至12元/月，一杯奶茶钱解锁暑假追剧快乐！移动端享超高清4K，攒了一学期的内容，想几点追就几点追，空调房里一个人嗨到飞起 🎤 多人共享/电视大屏党：爱奇艺白金VIP电视大屏爽看！8台设备登录，2台同时播",
+            "likeCount": 98
+          }
+        ],
+        "totalLikes": 2023,
+        "avgLikes": 225,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 7,
+          "positivePercent": 22,
+          "negativePercent": 0,
+          "neutralPercent": 78
+        }
+      }
+    },
+    {
       "date": "2026-07-10",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2233,85 +2311,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 20,
-      "file": "2026-06-18_爱奇艺_weibo.json",
-      "analysisFile": "2026-06-18_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-06-18_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-06-18T11:00:08.939Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            19
-          ],
-          [
-            "爱情有烟",
-            13
-          ],
-          [
-            "锁定",
-            12
-          ],
-          [
-            "鞠婧祎",
-            10
-          ],
-          [
-            "生日快乐",
-            10
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45714",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45714
-          },
-          {
-            "title": "#檀健次爱情有烟火# 📅#檀健次李亦非#\n\n灯火可亲，人间本味尽在朝夕。「非」吃不可菜单已送达～\n\n每晚21:30锁定...",
-            "content": "#檀健次爱情有烟火# 📅#檀健次李亦非#\n\n灯火可亲，人间本味尽在朝夕。「非」吃不可菜单已送达～\n\n每晚21:30锁定CCTV8&腾讯视频&爱奇艺，美味持续解锁中🍽️\n\n@MIC檀健次JC-T ​",
-            "author": "檀健次JC-T工作室",
-            "time": "06月15日 12:02",
-            "likes": "26470",
-            "link": "https://weibo.com/3606929931/R4deS1wm2?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#檀健次爱情有烟火# 📅#檀健次李亦非#\n\n灯火可亲，人间本味尽在朝夕。「非」吃不可菜单已送达～\n\n每晚21:30锁定CCTV8&腾讯视频&爱奇艺，美味持续解锁中🍽️\n\n@MIC檀健次JC-T ​",
-            "likeCount": 26470
-          },
-          {
-            "title": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇...",
-            "content": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "author": "檀健次JC-T工作室",
-            "time": "06月16日 19:00",
-            "likes": "26225",
-            "link": "https://weibo.com/3606929931/R4poVDRU9?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "likeCount": 26225
-          }
-        ],
-        "totalLikes": 137872,
-        "avgLikes": 6894,
-        "sentiment": {
-          "positive": 2,
-          "negative": 0,
-          "neutral": 18,
-          "positivePercent": 10,
-          "negativePercent": 0,
-          "neutralPercent": 90
         }
       }
     }
