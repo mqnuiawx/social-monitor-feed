@@ -1,0 +1,68 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      4
+    ],
+    [
+      "爱奇艺吃",
+      3
+    ],
+    [
+      "爱奇艺你",
+      1
+    ],
+    [
+      "在跟我开",
+      1
+    ],
+    [
+      "玩笑吗",
+      1
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "神秘的爱奇艺长公主终于露面了！",
+      "author": "喜剧之王单口季小助理",
+      "time": "昨天 12:30",
+      "likes": "2850",
+      "link": "https://www.xiaohongshu.com/explore/6a51afca000000000f02a632",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a51afca000000000f02a632?xsec_token=ABVR-MBQ-7NTHuEcKzq4jz6TxPZzzeqP7UU-mmR_tkeG4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "cr.喜剧之王单口季官博",
+      "likeCount": 2850
+    },
+    {
+      "title": "爱奇艺你在跟我开玩笑吗",
+      "author": "苹什猫",
+      "time": "昨天 18:34",
+      "likes": "78",
+      "link": "https://www.xiaohongshu.com/explore/6a521c1b000000001700a81a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a521c1b000000001700a81a?xsec_token=ABItbStk0Mkkb5X1IcvhFpARKSHdn6MxCu2uR93w5aY1o=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "我以为我眼花了，结果是真的🤦‍♂️#爱奇艺 互动越互动越少啥意思你不如直接告诉还想要多少米才肯恢复正常热度😮‍💨#灿如繁星",
+      "likeCount": 78
+    },
+    {
+      "title": "(无标题)",
+      "author": "诗绪里",
+      "time": "昨天 21:49",
+      "likes": "46",
+      "link": "https://www.xiaohongshu.com/explore/6a5249d6000000002101b8d4",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5249d6000000002101b8d4?xsec_token=ABItbStk0Mkkb5X1IcvhFpAUi90bsHMztLSSLLe-2Bj1E=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 46
+    }
+  ],
+  "totalLikes": 3038,
+  "avgLikes": 304,
+  "sentiment": {
+    "positive": 0,
+    "negative": 1,
+    "neutral": 10,
+    "positivePercent": 0,
+    "negativePercent": 9,
+    "neutralPercent": 91
+  }
+}

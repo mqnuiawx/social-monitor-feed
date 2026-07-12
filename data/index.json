@@ -1,6 +1,84 @@
 {
   "updates": [
     {
+      "date": "2026-07-12",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 11,
+      "file": "2026-07-12_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-12_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-12_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-12T00:45:48.889Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            4
+          ],
+          [
+            "爱奇艺吃",
+            3
+          ],
+          [
+            "爱奇艺你",
+            1
+          ],
+          [
+            "在跟我开",
+            1
+          ],
+          [
+            "玩笑吗",
+            1
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "神秘的爱奇艺长公主终于露面了！",
+            "author": "喜剧之王单口季小助理",
+            "time": "昨天 12:30",
+            "likes": "2850",
+            "link": "https://www.xiaohongshu.com/explore/6a51afca000000000f02a632",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a51afca000000000f02a632?xsec_token=ABVR-MBQ-7NTHuEcKzq4jz6TxPZzzeqP7UU-mmR_tkeG4=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "cr.喜剧之王单口季官博",
+            "likeCount": 2850
+          },
+          {
+            "title": "爱奇艺你在跟我开玩笑吗",
+            "author": "苹什猫",
+            "time": "昨天 18:34",
+            "likes": "78",
+            "link": "https://www.xiaohongshu.com/explore/6a521c1b000000001700a81a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a521c1b000000001700a81a?xsec_token=ABItbStk0Mkkb5X1IcvhFpARKSHdn6MxCu2uR93w5aY1o=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "我以为我眼花了，结果是真的🤦‍♂️#爱奇艺 互动越互动越少啥意思你不如直接告诉还想要多少米才肯恢复正常热度😮‍💨#灿如繁星",
+            "likeCount": 78
+          },
+          {
+            "title": "(无标题)",
+            "author": "诗绪里",
+            "time": "昨天 21:49",
+            "likes": "46",
+            "link": "https://www.xiaohongshu.com/explore/6a5249d6000000002101b8d4",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5249d6000000002101b8d4?xsec_token=ABItbStk0Mkkb5X1IcvhFpAUi90bsHMztLSSLLe-2Bj1E=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 46
+          }
+        ],
+        "totalLikes": 3038,
+        "avgLikes": 304,
+        "sentiment": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 10,
+          "positivePercent": 0,
+          "negativePercent": 9,
+          "neutralPercent": 91
+        }
+      }
+    },
+    {
       "date": "2026-07-11",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2235,82 +2313,6 @@
           "positivePercent": 14,
           "negativePercent": 0,
           "neutralPercent": 86
-        }
-      }
-    },
-    {
-      "date": "2026-06-19",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 20,
-      "file": "2026-06-19_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-19_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-19_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-19T00:45:47.404Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            6
-          ],
-          [
-            "无标题",
-            5
-          ],
-          [
-            "影视会员",
-            3
-          ],
-          [
-            "爱奇艺会",
-            3
-          ],
-          [
-            "爱奇艺季",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "(无标题)",
-            "author": "来来与白白菜",
-            "time": "昨天 22:50",
-            "likes": "84",
-            "link": "https://www.xiaohongshu.com/explore/6a3405cd0000000015024308",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a3405cd0000000015024308?xsec_token=ABHotSja8fI1fEh6ozTid49GZBAGez__sWest3HrqP7Sg=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 84
-          },
-          {
-            "title": "爱奇艺#每日一剧#家业",
-            "author": "精神食粮加油站",
-            "time": "1天前",
-            "likes": "51",
-            "link": "https://www.xiaohongshu.com/explore/6a32a1eb0000000008002959",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a32a1eb0000000008002959?xsec_token=ABegZq_a0OjXqsnAQBlxzzm0o2RT_d9W1BUflCf5htQcY=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 51
-          },
-          {
-            "title": "灵摆十年回归！我们追的不只是剧是整个青春",
-            "author": "电子榨菜研究员",
-            "time": "昨天 18:27",
-            "likes": "19",
-            "link": "https://www.xiaohongshu.com/explore/6a336124000000001602693e",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a336124000000001602693e?xsec_token=ABuVSuIXzox1aLurLMI2rCEn8r9sRqRWQunOHwW1O-kyc=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 19
-          }
-        ],
-        "totalLikes": 220,
-        "avgLikes": 16,
-        "sentiment": {
-          "positive": 0,
-          "negative": 0,
-          "neutral": 20,
-          "positivePercent": 0,
-          "negativePercent": 0,
-          "neutralPercent": 100
         }
       }
     }
