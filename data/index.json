@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-07-14",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 13,
+      "file": "2026-07-14_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-14_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-14_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-14T00:45:48.143Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺你",
+            2
+          ],
+          [
+            "不了",
+            2
+          ],
+          [
+            "爱奇艺会",
+            2
+          ],
+          [
+            "招募",
+            2
+          ],
+          [
+            "无标题",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "不点取||爱奇艺把热度还给我们!",
+            "author": "🆔程书姩",
+            "time": "昨天 17:26",
+            "likes": "466",
+            "link": "https://www.xiaohongshu.com/explore/6a54af61000000001702b3ea",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a54af61000000001702b3ea?xsec_token=AB52kFdFkZTjRr8v5lxehUNPRj0QixnIIXQBQyO1V7210=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 466
+          },
+          {
+            "title": "爱奇艺你没有心",
+            "author": "欣子梅（想破300粉）",
+            "time": "昨天 20:05",
+            "likes": "131",
+            "link": "https://www.xiaohongshu.com/explore/6a54d4a300000000110134df",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a54d4a300000000110134df?xsec_token=AB52kFdFkZTjRr8v5lxehUNAcN8jUjeZrRTl2O4tKTABk=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 131
+          },
+          {
+            "title": "(无标题)",
+            "author": "我叫大妞🌻",
+            "time": "昨天 15:05",
+            "likes": "53",
+            "link": "https://www.xiaohongshu.com/explore/6a548e57000000000f0308a7",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a548e57000000000f0308a7?xsec_token=AB52kFdFkZTjRr8v5lxehUNM8sUwUXDdXeeRLW0vXWUXk=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 53
+          }
+        ],
+        "totalLikes": 712,
+        "avgLikes": 89,
+        "sentiment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 13,
+          "positivePercent": 0,
+          "negativePercent": 0,
+          "neutralPercent": 100
+        }
+      }
+    },
+    {
       "date": "2026-07-13",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2233,83 +2309,6 @@
           "positivePercent": 18,
           "negativePercent": 0,
           "neutralPercent": 82
-        }
-      }
-    },
-    {
-      "date": "2026-06-20",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 22,
-      "file": "2026-06-20_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-20_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-20_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-20T00:45:47.945Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺会",
-            5
-          ],
-          [
-            "爱奇艺",
-            4
-          ],
-          [
-            "爱奇艺吃",
-            2
-          ],
-          [
-            "影视会员",
-            2
-          ],
-          [
-            "爱奇艺季",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "就这个邓为，小奇再看亿遍！",
-            "author": "爱奇艺",
-            "time": "1天前",
-            "likes": "5832",
-            "link": "https://www.xiaohongshu.com/explore/6a325ed300000000150275c1",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a325ed300000000150275c1?xsec_token=ABegZq_a0OjXqsnAQBlxzzm2wodkR0mNssdTq78L8tzj4=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 5832
-          },
-          {
-            "title": "南部档案爱奇艺热度破9000！",
-            "author": "爱奇艺",
-            "time": "昨天 18:40",
-            "likes": "3408",
-            "link": "https://www.xiaohongshu.com/explore/6a351cb600000000110075b4",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a351cb600000000110075b4?xsec_token=ABcWsJYe17wP0dR1LTGu0ES4F6sRlgSU_yD3q0R7M3hjo=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 3408
-          },
-          {
-            "title": "明晚爱奇艺有30120份云包场",
-            "author": "时怡",
-            "time": "昨天 20:39",
-            "likes": "447",
-            "link": "https://www.xiaohongshu.com/explore/6a352e4e000000001003e3f9",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a352e4e000000001003e3f9?xsec_token=ABcWsJYe17wP0dR1LTGu0ES2hMbftrwBN-1aObC9WycME=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "需要代抢的宝 来",
-            "likeCount": 447
-          }
-        ],
-        "totalLikes": 9797,
-        "avgLikes": 576,
-        "sentiment": {
-          "positive": 0,
-          "negative": 1,
-          "neutral": 21,
-          "positivePercent": 0,
-          "negativePercent": 5,
-          "neutralPercent": 95
         }
       }
     }
