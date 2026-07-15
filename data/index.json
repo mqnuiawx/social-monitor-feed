@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-15",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 18,
+      "file": "2026-07-15_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-15_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-15_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-15T00:45:49.016Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            6
+          ],
+          [
+            "重器",
+            4
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "问题",
+            2
+          ],
+          [
+            "黄景瑜",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "《重器》首发预告来袭",
+            "author": "爱奇艺",
+            "time": "昨天 10:42",
+            "likes": "2670",
+            "link": "https://www.xiaohongshu.com/explore/6a55a216000000001700979e",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a55a216000000001700979e?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYdOrHMVkMUS88UQoOPW7gKI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "那些奔走的坚守，会在法治长河铸起时代重器！#电视剧重器 #重器 #黄景瑜 #蒋奇明 （按姓氏笔画排序）  #新剧推荐 #电视剧推荐 #好剧推荐 #电视剧 #拯救剧荒 #宝藏电视剧",
+            "likeCount": 2670
+          },
+          {
+            "title": "(无标题)",
+            "author": "黎耀辉",
+            "time": "1天前",
+            "likes": "864",
+            "link": "https://www.xiaohongshu.com/explore/6a556c88000000001603fa9a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a556c88000000001603fa9a?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYSR3d1dTORhVBMJg5oHpptI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 864
+          },
+          {
+            "title": "爱奇艺你继续坑钱压热度😂",
+            "author": "萌え🐾",
+            "time": "昨天 13:39",
+            "likes": "671",
+            "link": "https://www.xiaohongshu.com/explore/6a55cb9b000000002103ec27",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a55cb9b000000002103ec27?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYa07EDdtNxv5dv_Bh5AjKQg=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 671
+          }
+        ],
+        "totalLikes": 5883,
+        "avgLikes": 327,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 16,
+          "positivePercent": 11,
+          "negativePercent": 0,
+          "neutralPercent": 89
+        }
+      }
+    },
+    {
       "date": "2026-07-14",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2230,85 +2307,6 @@
           "positivePercent": 0,
           "negativePercent": 20,
           "neutralPercent": 80
-        }
-      }
-    },
-    {
-      "date": "2026-06-20",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 22,
-      "file": "2026-06-20_爱奇艺_weibo.json",
-      "analysisFile": "2026-06-20_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-06-20_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-06-20T00:46:04.560Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "网页链接",
-            17
-          ],
-          [
-            "爱奇艺",
-            13
-          ],
-          [
-            "何故",
-            11
-          ],
-          [
-            "云秀行",
-            11
-          ],
-          [
-            "优酷",
-            11
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故...",
-            "content": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故MV##云秀行#。聆听心底难言的遗憾。L云秀行官微的微博视频\n@酷狗音乐 O网页链接\n@QQ音乐 O网页链接\n@酷我音乐 O网页链接 ​",
-            "author": "摩登兄弟刘宇宁",
-            "time": "06月19日 12:25",
-            "likes": "351154",
-            "link": "https://weibo.com/5456865382/R4P6dkA2a?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故MV##云秀行#。聆听心底难言的遗憾。L云秀行官微的微博视频\n@酷狗音乐 O网页链接\n@QQ音乐 O网页链接\n@酷我音乐 O网页链接 ​",
-            "likeCount": 351154
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45708",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45708
-          },
-          {
-            "title": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇...",
-            "content": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "author": "檀健次JC-T工作室",
-            "time": "06月16日 19:00",
-            "likes": "28090",
-            "link": "https://weibo.com/3606929931/R4poVDRU9?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "likeCount": 28090
-          }
-        ],
-        "totalLikes": 512694,
-        "avgLikes": 30158,
-        "sentiment": {
-          "positive": 4,
-          "negative": 0,
-          "neutral": 18,
-          "positivePercent": 18,
-          "negativePercent": 0,
-          "neutralPercent": 82
         }
       }
     }

@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      6
+    ],
+    [
+      "重器",
+      4
+    ],
+    [
+      "无标题",
+      3
+    ],
+    [
+      "问题",
+      2
+    ],
+    [
+      "黄景瑜",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "《重器》首发预告来袭",
+      "author": "爱奇艺",
+      "time": "昨天 10:42",
+      "likes": "2670",
+      "link": "https://www.xiaohongshu.com/explore/6a55a216000000001700979e",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a55a216000000001700979e?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYdOrHMVkMUS88UQoOPW7gKI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "那些奔走的坚守，会在法治长河铸起时代重器！#电视剧重器 #重器 #黄景瑜 #蒋奇明 （按姓氏笔画排序）  #新剧推荐 #电视剧推荐 #好剧推荐 #电视剧 #拯救剧荒 #宝藏电视剧",
+      "likeCount": 2670
+    },
+    {
+      "title": "(无标题)",
+      "author": "黎耀辉",
+      "time": "1天前",
+      "likes": "864",
+      "link": "https://www.xiaohongshu.com/explore/6a556c88000000001603fa9a",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a556c88000000001603fa9a?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYSR3d1dTORhVBMJg5oHpptI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 864
+    },
+    {
+      "title": "爱奇艺你继续坑钱压热度😂",
+      "author": "萌え🐾",
+      "time": "昨天 13:39",
+      "likes": "671",
+      "link": "https://www.xiaohongshu.com/explore/6a55cb9b000000002103ec27",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a55cb9b000000002103ec27?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYa07EDdtNxv5dv_Bh5AjKQg=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 671
+    }
+  ],
+  "totalLikes": 5883,
+  "avgLikes": 327,
+  "sentiment": {
+    "positive": 2,
+    "negative": 0,
+    "neutral": 16,
+    "positivePercent": 11,
+    "negativePercent": 0,
+    "neutralPercent": 89
+  }
+}
