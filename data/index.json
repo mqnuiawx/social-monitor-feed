@@ -1,6 +1,82 @@
 {
   "updates": [
     {
+      "date": "2026-07-16",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 29,
+      "file": "2026-07-16_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-16_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-16_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-16T00:45:47.212Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            12
+          ],
+          [
+            "按姓氏笔",
+            2
+          ],
+          [
+            "画顺序排",
+            2
+          ],
+          [
+            "确认",
+            2
+          ],
+          [
+            "爱奇艺会",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "爱奇艺717丨22个🥝IP惊喜空降！",
+            "author": "爱奇艺",
+            "time": "昨天 19:01",
+            "likes": "650",
+            "link": "https://www.xiaohongshu.com/explore/6a576372000000000f0314fc",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a576372000000000f0314fc?xsec_token=ABFIutbA8BwUZFt7qgFiFmoPD2pg42stzKZE7bo8Q5qDc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 650
+          },
+          {
+            "title": "(无标题)",
+            "author": "不爱叨叨",
+            "time": "1小时前",
+            "likes": "122",
+            "link": "https://www.xiaohongshu.com/explore/6a581051000000000f030ad9",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a581051000000000f030ad9?xsec_token=ABnhOZmBmg55xzooIPjzsbojQ83_r_ttn-QBRcD-Ly7Jc=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 122
+          },
+          {
+            "title": "黄景瑜 蒋奇明！黄金班底！视帝视后作配！",
+            "author": "喵喵影像",
+            "time": "1天前",
+            "likes": "95",
+            "link": "https://www.xiaohongshu.com/explore/6a55d6850000000017008cdc",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a55d6850000000017008cdc?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYevet6vir8AyaPJ3wJyhMms=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 95
+          }
+        ],
+        "totalLikes": 1159,
+        "avgLikes": 48,
+        "sentiment": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 28,
+          "positivePercent": 3,
+          "negativePercent": 0,
+          "neutralPercent": 97
+        }
+      }
+    },
+    {
       "date": "2026-07-15",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2229,84 +2305,6 @@
           "positivePercent": 32,
           "negativePercent": 0,
           "neutralPercent": 68
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 10,
-      "file": "2026-06-21_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-21_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-21_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-21T00:45:47.929Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "南部档案",
-            2
-          ],
-          [
-            "艺的电视",
-            2
-          ],
-          [
-            "无标题",
-            2
-          ],
-          [
-            "爱奇艺你",
-            2
-          ],
-          [
-            "这个热度",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "谁懂爱奇艺这个开屏啊啊啊啊啊啊",
-            "author": "Sweet potato",
-            "time": "昨天 19:38",
-            "likes": "2181",
-            "link": "https://www.xiaohongshu.com/explore/6a367b9b000000000f028f5c",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a367b9b000000000f028f5c?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXEu_hy9Tl1RPcQixvQrIHZ4=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "简直就是视觉暴击！！！ 太帅了！！！ 我边喊卧槽边捂住了胸口",
-            "likeCount": 2181
-          },
-          {
-            "title": "(无标题)",
-            "author": "鹿饮汀兰⭐🍐",
-            "time": "1天前",
-            "likes": "346",
-            "link": "https://www.xiaohongshu.com/explore/6a3537590000000022016c44",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a3537590000000022016c44?xsec_token=ABcWsJYe17wP0dR1LTGu0ESy4bKKBzyFCPS3hJicKFQxA=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "爱奇艺你写出这段颁奖词时，真的没有什么想对我们说的嘛，就这段颁奖词说出了白月的真实热度，但是却没破万你永远欠我们一个解释！#白月梵星#白鹿敖瑞鹏#白烁梵樾#星月净渊 #逐月人#中国网络视听盛典",
-            "likeCount": 346
-          },
-          {
-            "title": "南部档案这个热度好诡异",
-            "author": "玻璃灯罩",
-            "time": "昨天 21:32",
-            "likes": "136",
-            "link": "https://www.xiaohongshu.com/explore/6a36965f000000000f033817",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a36965f000000000f033817?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXPZGerK_sytRHf3VLxwc_zo=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 136
-          }
-        ],
-        "totalLikes": 2730,
-        "avgLikes": 341,
-        "sentiment": {
-          "positive": 0,
-          "negative": 2,
-          "neutral": 8,
-          "positivePercent": 0,
-          "negativePercent": 20,
-          "neutralPercent": 80
         }
       }
     }

@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      12
+    ],
+    [
+      "按姓氏笔",
+      2
+    ],
+    [
+      "画顺序排",
+      2
+    ],
+    [
+      "确认",
+      2
+    ],
+    [
+      "爱奇艺会",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "爱奇艺717丨22个🥝IP惊喜空降！",
+      "author": "爱奇艺",
+      "time": "昨天 19:01",
+      "likes": "650",
+      "link": "https://www.xiaohongshu.com/explore/6a576372000000000f0314fc",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a576372000000000f0314fc?xsec_token=ABFIutbA8BwUZFt7qgFiFmoPD2pg42stzKZE7bo8Q5qDc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 650
+    },
+    {
+      "title": "(无标题)",
+      "author": "不爱叨叨",
+      "time": "1小时前",
+      "likes": "122",
+      "link": "https://www.xiaohongshu.com/explore/6a581051000000000f030ad9",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a581051000000000f030ad9?xsec_token=ABnhOZmBmg55xzooIPjzsbojQ83_r_ttn-QBRcD-Ly7Jc=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 122
+    },
+    {
+      "title": "黄景瑜 蒋奇明！黄金班底！视帝视后作配！",
+      "author": "喵喵影像",
+      "time": "1天前",
+      "likes": "95",
+      "link": "https://www.xiaohongshu.com/explore/6a55d6850000000017008cdc",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a55d6850000000017008cdc?xsec_token=ABJ9bw4-2V3rBB1g9nGGuOYevet6vir8AyaPJ3wJyhMms=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 95
+    }
+  ],
+  "totalLikes": 1159,
+  "avgLikes": 48,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 28,
+    "positivePercent": 3,
+    "negativePercent": 0,
+    "neutralPercent": 97
+  }
+}
