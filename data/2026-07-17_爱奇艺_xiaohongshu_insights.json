@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "爱奇艺",
+      7
+    ],
+    [
+      "角色卡",
+      4
+    ],
+    [
+      "无标题",
+      3
+    ],
+    [
+      "这一秒过",
+      2
+    ],
+    [
+      "看你明天",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "这一秒过火爱奇艺预约破400万👏🏻",
+      "author": "爱奇艺",
+      "time": "昨天 13:59",
+      "likes": "1661",
+      "link": "https://www.xiaohongshu.com/explore/6a587336000000000401d26d",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a587336000000000401d26d?xsec_token=ABnhOZmBmg55xzooIPjzsbonE2xSOOcJGnEsgb4kE7d3o=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "🔥无声引力将距离拉近，心动肆意流淌；咫尺间万般缱绻，此刻你在身旁。 领衔主演：#王楚然  张家玮（#张凌赫 ） （按姓氏笔画排序）",
+      "likeCount": 1661
+    },
+    {
+      "title": "#爱奇艺好片推荐计划",
+      "author": "雪雪公主",
+      "time": "昨天 11:09",
+      "likes": "1518",
+      "link": "https://www.xiaohongshu.com/explore/6a584b6f000000001c010320",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a584b6f000000001c010320?xsec_token=ABnhOZmBmg55xzooIPjzsbonGqs0WTC8u1u40DYYEeAIw=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 1518
+    },
+    {
+      "title": "爱奇艺717丨《这一秒过火》角色卡🈶",
+      "author": "爱奇艺",
+      "time": "昨天 13:34",
+      "likes": "1035",
+      "link": "https://www.xiaohongshu.com/explore/6a5761c7000000001c027b52",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5761c7000000001c027b52?xsec_token=ABFIutbA8BwUZFt7qgFiFmoDHSQgF--c3B_f6etpDrNlI=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 1035
+    }
+  ],
+  "totalLikes": 7319,
+  "avgLikes": 318,
+  "sentiment": {
+    "positive": 2,
+    "negative": 0,
+    "neutral": 22,
+    "positivePercent": 8,
+    "negativePercent": 0,
+    "neutralPercent": 92
+  }
+}

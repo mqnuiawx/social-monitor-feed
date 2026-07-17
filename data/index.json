@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-17",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 24,
+      "file": "2026-07-17_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-17_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-17_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-17T00:45:47.068Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            7
+          ],
+          [
+            "角色卡",
+            4
+          ],
+          [
+            "无标题",
+            3
+          ],
+          [
+            "这一秒过",
+            2
+          ],
+          [
+            "看你明天",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "这一秒过火爱奇艺预约破400万👏🏻",
+            "author": "爱奇艺",
+            "time": "昨天 13:59",
+            "likes": "1661",
+            "link": "https://www.xiaohongshu.com/explore/6a587336000000000401d26d",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a587336000000000401d26d?xsec_token=ABnhOZmBmg55xzooIPjzsbonE2xSOOcJGnEsgb4kE7d3o=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "🔥无声引力将距离拉近，心动肆意流淌；咫尺间万般缱绻，此刻你在身旁。 领衔主演：#王楚然  张家玮（#张凌赫 ） （按姓氏笔画排序）",
+            "likeCount": 1661
+          },
+          {
+            "title": "#爱奇艺好片推荐计划",
+            "author": "雪雪公主",
+            "time": "昨天 11:09",
+            "likes": "1518",
+            "link": "https://www.xiaohongshu.com/explore/6a584b6f000000001c010320",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a584b6f000000001c010320?xsec_token=ABnhOZmBmg55xzooIPjzsbonGqs0WTC8u1u40DYYEeAIw=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 1518
+          },
+          {
+            "title": "爱奇艺717丨《这一秒过火》角色卡🈶",
+            "author": "爱奇艺",
+            "time": "昨天 13:34",
+            "likes": "1035",
+            "link": "https://www.xiaohongshu.com/explore/6a5761c7000000001c027b52",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5761c7000000001c027b52?xsec_token=ABFIutbA8BwUZFt7qgFiFmoDHSQgF--c3B_f6etpDrNlI=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 1035
+          }
+        ],
+        "totalLikes": 7319,
+        "avgLikes": 318,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 22,
+          "positivePercent": 8,
+          "negativePercent": 0,
+          "neutralPercent": 92
+        }
+      }
+    },
+    {
       "date": "2026-07-16",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2226,85 +2303,6 @@
           "positivePercent": 0,
           "negativePercent": 11,
           "neutralPercent": 89
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 22,
-      "file": "2026-06-21_爱奇艺_weibo.json",
-      "analysisFile": "2026-06-21_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-06-21_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-06-21T00:46:04.631Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "网页链接",
-            22
-          ],
-          [
-            "期待",
-            18
-          ],
-          [
-            "爱奇艺",
-            17
-          ],
-          [
-            "云秀行",
-            14
-          ],
-          [
-            "任嘉伦",
-            10
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故...",
-            "content": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故MV##云秀行#。聆听心底难言的遗憾。L云秀行官微的微博视频\n@酷狗音乐 O网页链接\n@QQ音乐 O网页链接\n@酷我音乐 O网页链接 ​",
-            "author": "摩登兄弟刘宇宁",
-            "time": "06月19日 12:25",
-            "likes": "492366",
-            "link": "https://weibo.com/5456865382/R4P6dkA2a?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#刘宇宁云秀行插曲何故# 今日上线。\n赤诚赴爱。不问因果缘由。\n独饮往事。自省情起何故。\n一起来@爱奇艺 看#云秀行何故MV##云秀行#。聆听心底难言的遗憾。L云秀行官微的微博视频\n@酷狗音乐 O网页链接\n@QQ音乐 O网页链接\n@酷我音乐 O网页链接 ​",
-            "likeCount": 492366
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45706",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45706
-          },
-          {
-            "title": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅...",
-            "content": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅，我们继续同行！\n恭喜爱奇艺站内热度破9️⃣0️⃣0️⃣0️⃣🔥\n#丁禹兮##丁禹兮张海虾##丁禹兮南部档案# ​​​​",
-            "author": "丁禹兮工作室_OFFICIAL",
-            "time": "06月19日 18:37",
-            "likes": "28840",
-            "link": "https://weibo.com/6822431581/R4Rx8i8R5?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅，我们继续同行！\n恭喜爱奇艺站内热度破9️⃣0️⃣0️⃣0️⃣🔥\n#丁禹兮##丁禹兮张海虾##丁禹兮南部档案# ​​​​",
-            "likeCount": 28840
-          }
-        ],
-        "totalLikes": 614729,
-        "avgLikes": 30736,
-        "sentiment": {
-          "positive": 7,
-          "negative": 0,
-          "neutral": 15,
-          "positivePercent": 32,
-          "negativePercent": 0,
-          "neutralPercent": 68
         }
       }
     }
