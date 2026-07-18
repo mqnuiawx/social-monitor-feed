@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-18",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 37,
+      "file": "2026-07-18_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-18_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-18_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-18T00:45:47.805Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "爱奇艺",
+            15
+          ],
+          [
+            "官宣阵容",
+            7
+          ],
+          [
+            "无标题",
+            6
+          ],
+          [
+            "这一秒过",
+            4
+          ],
+          [
+            "爱奇艺会",
+            4
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "侯明昊x艾米《雀骨》爱奇艺会员节互动全程",
+            "author": "ok吧_data",
+            "time": "昨天 22:06",
+            "likes": "2281",
+            "link": "https://www.xiaohongshu.com/explore/6a5a1e30000000001303df71",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5a1e30000000001303df71?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZS6uzOF3b53UKDtef9bVhww=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 2281
+          },
+          {
+            "title": "这一秒过火爱奇艺预约破400万👏🏻",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "1873",
+            "link": "https://www.xiaohongshu.com/explore/6a587336000000000401d26d",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a587336000000000401d26d?xsec_token=ABnhOZmBmg55xzooIPjzsboqAvCsrWTXOCwESZnEKdn7k=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 1873
+          },
+          {
+            "title": "爱奇艺717官宣阵容丨田曦薇胡一天来了！",
+            "author": "爱奇艺",
+            "time": "昨天 10:40",
+            "likes": "1480",
+            "link": "https://www.xiaohongshu.com/explore/6a58c0db000000000103066a",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a58c0db000000000103066a?xsec_token=ABnhOZmBmg55xzooIPjzsboi3cHKt9YTR3zh8JREljOMQ=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "《天才，女友》惊喜嘉宾集结！ 领衔主演（按姓氏笔画排序）：田曦薇#田曦薇  胡一天#胡一天 今日16:30，和他们一起闪现爱奇艺“桃你喜欢・IP互动嘉年华”，感受桃厂宝藏IP的魅力，记得准时赴约哟~#爱奇艺717",
+            "likeCount": 1480
+          }
+        ],
+        "totalLikes": 11998,
+        "avgLikes": 353,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 35,
+          "positivePercent": 5,
+          "negativePercent": 0,
+          "neutralPercent": 95
+        }
+      }
+    },
+    {
       "date": "2026-07-17",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2225,84 +2302,6 @@
           "positivePercent": 33,
           "negativePercent": 0,
           "neutralPercent": 67
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 9,
-      "file": "2026-06-22_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-06-22_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-06-22_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-06-22T00:45:46.681Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "会员",
-            4
-          ],
-          [
-            "艺的电视",
-            2
-          ],
-          [
-            "合诗雨",
-            2
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "无标题",
-            2
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "谁懂爱奇艺这个开屏啊啊啊啊啊啊",
-            "author": "Sweet potato",
-            "time": "1天前",
-            "likes": "3571",
-            "link": "https://www.xiaohongshu.com/explore/6a367b9b000000000f028f5c",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a367b9b000000000f028f5c?xsec_token=AB5Xa1y3KoCRW50eGg0ZnyXL3dR4o0o59WMKk0nJnyoQ4=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "简直就是视觉暴击！！！ 太帅了！！！ 我边喊卧槽边捂住了胸口",
-            "likeCount": 3571
-          },
-          {
-            "title": "你好啊，叶偲偲",
-            "author": "火锅er",
-            "time": "昨天 23:33",
-            "likes": "20",
-            "link": "https://www.xiaohongshu.com/explore/6a37e3330000000007022f70",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a37e3330000000007022f70?xsec_token=ABic4-HLbNXMcA3pC6WP3EKeiQoXkbTjCjU27XhYdRp58=&xsec_source=",
-            "platform": "xiaohongshu",
-            "summary": "很高兴认识你叶医生@合诗雨Hermia #问心2 #合诗雨 #医学生规培#爱奇艺",
-            "likeCount": 20
-          },
-          {
-            "title": "爱奇艺有人想来实习吗？可预留暑期",
-            "author": "惊慕",
-            "time": "昨天 18:24",
-            "likes": "5",
-            "link": "https://www.xiaohongshu.com/explore/6a37bbe0000000001100693a",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a37bbe0000000001100693a?xsec_token=ABic4-HLbNXMcA3pC6WP3EKU1ys2x43-xHTI4BSB9_NSM=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 5
-          }
-        ],
-        "totalLikes": 3603,
-        "avgLikes": 515,
-        "sentiment": {
-          "positive": 0,
-          "negative": 1,
-          "neutral": 8,
-          "positivePercent": 0,
-          "negativePercent": 11,
-          "neutralPercent": 89
         }
       }
     }
