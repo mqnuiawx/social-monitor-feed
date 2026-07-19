@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-07-19",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 45,
+      "file": "2026-07-19_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-19_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-19_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-19T00:45:47.675Z",
+      "insights": {
+        "topKeywords": [
+          [
+            "无标题",
+            14
+          ],
+          [
+            "爱奇艺",
+            11
+          ],
+          [
+            "这一秒过",
+            6
+          ],
+          [
+            "艾米",
+            2
+          ],
+          [
+            "侯明昊",
+            2
+          ]
+        ],
+        "topItems": [
+          {
+            "title": "🥝《这一秒过火》定档0719｜今夏燎原预告发布",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "9646",
+            "link": "https://www.xiaohongshu.com/explore/6a5a1a02000000000f014767",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5a1a02000000000f014767?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZVaN9VIPDisO5oPU9-tT5Z0=&xsec_source=",
+            "platform": "xiaohongshu",
+            "summary": "身负前尘，乱世浮沉，爱恨漩涡中，他们步步周旋，最终又该走向何方？7月19日来爱奇艺看#这一秒过火 不见不散！ 领衔主演（按姓氏笔画排序）：王楚然#王楚然 张家玮（张凌赫）#张凌赫",
+            "likeCount": 9646
+          },
+          {
+            "title": "爱奇艺717丨最受期待男性角色：朱瞻基",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "5873",
+            "link": "https://www.xiaohongshu.com/explore/6a5a583f000000001003e3c2",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5a583f000000001003e3c2?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZaamdlAXB69XPRIDLPX_RV0=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 5873
+          },
+          {
+            "title": "爱奇艺717丨最受期待IP《两京十五日》",
+            "author": "爱奇艺",
+            "time": "1天前",
+            "likes": "3979",
+            "link": "https://www.xiaohongshu.com/explore/6a5a589e0000000011016506",
+            "navLink": "https://www.xiaohongshu.com/search_result/6a5a589e0000000011016506?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZQtBObRWGWpC4Ayl7ICb_2s=&xsec_source=",
+            "platform": "xiaohongshu",
+            "likeCount": 3979
+          }
+        ],
+        "totalLikes": 28413,
+        "avgLikes": 836,
+        "sentiment": {
+          "positive": 3,
+          "negative": 0,
+          "neutral": 42,
+          "positivePercent": 7,
+          "negativePercent": 0,
+          "neutralPercent": 93
+        }
+      }
+    },
+    {
       "date": "2026-07-18",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2223,85 +2300,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-06-22_爱奇艺_weibo.json",
-      "analysisFile": "2026-06-22_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-06-22_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-06-22T00:46:03.529Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            21
-          ],
-          [
-            "网页链接",
-            14
-          ],
-          [
-            "云秀行",
-            12
-          ],
-          [
-            "锁定",
-            9
-          ],
-          [
-            "腾讯视频",
-            9
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45703",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45703
-          },
-          {
-            "title": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅...",
-            "content": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅，我们继续同行！\n恭喜爱奇艺站内热度破9️⃣0️⃣0️⃣0️⃣🔥\n#丁禹兮##丁禹兮张海虾##丁禹兮南部档案# ​​​​",
-            "author": "丁禹兮工作室_OFFICIAL",
-            "time": "06月19日 18:37",
-            "likes": "30026",
-            "link": "https://weibo.com/6822431581/R4Rx8i8R5?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "丁禹兮超话\n万千热爱，汇聚九千热度🔥\n谢谢每一位跟随海虾@丁禹兮 探寻真相的你，所有支持与陪伴尽数收下，前路探案之旅，我们继续同行！\n恭喜爱奇艺站内热度破9️⃣0️⃣0️⃣0️⃣🔥\n#丁禹兮##丁禹兮张海虾##丁禹兮南部档案# ​​​​",
-            "likeCount": 30026
-          },
-          {
-            "title": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇...",
-            "content": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "author": "檀健次JC-T工作室",
-            "time": "06月16日 19:00",
-            "likes": "28980",
-            "link": "https://weibo.com/3606929931/R4poVDRU9?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#檀健次李亦非# 👓#檀健次爱情有烟火#\n\n穿行林立楼群，自有方寸天地。\n\n今晚21:30在CCTV8&腾讯视频&爱奇艺，继续与李亦非@MIC檀健次JC-T 相见～ ​",
-            "likeCount": 28980
-          }
-        ],
-        "totalLikes": 174698,
-        "avgLikes": 11647,
-        "sentiment": {
-          "positive": 7,
-          "negative": 0,
-          "neutral": 14,
-          "positivePercent": 33,
-          "negativePercent": 0,
-          "neutralPercent": 67
         }
       }
     }

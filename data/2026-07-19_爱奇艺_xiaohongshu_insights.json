@@ -1,0 +1,67 @@
+{
+  "topKeywords": [
+    [
+      "无标题",
+      14
+    ],
+    [
+      "爱奇艺",
+      11
+    ],
+    [
+      "这一秒过",
+      6
+    ],
+    [
+      "艾米",
+      2
+    ],
+    [
+      "侯明昊",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "🥝《这一秒过火》定档0719｜今夏燎原预告发布",
+      "author": "爱奇艺",
+      "time": "1天前",
+      "likes": "9646",
+      "link": "https://www.xiaohongshu.com/explore/6a5a1a02000000000f014767",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5a1a02000000000f014767?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZVaN9VIPDisO5oPU9-tT5Z0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "summary": "身负前尘，乱世浮沉，爱恨漩涡中，他们步步周旋，最终又该走向何方？7月19日来爱奇艺看#这一秒过火 不见不散！ 领衔主演（按姓氏笔画排序）：王楚然#王楚然 张家玮（张凌赫）#张凌赫",
+      "likeCount": 9646
+    },
+    {
+      "title": "爱奇艺717丨最受期待男性角色：朱瞻基",
+      "author": "爱奇艺",
+      "time": "1天前",
+      "likes": "5873",
+      "link": "https://www.xiaohongshu.com/explore/6a5a583f000000001003e3c2",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5a583f000000001003e3c2?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZaamdlAXB69XPRIDLPX_RV0=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 5873
+    },
+    {
+      "title": "爱奇艺717丨最受期待IP《两京十五日》",
+      "author": "爱奇艺",
+      "time": "1天前",
+      "likes": "3979",
+      "link": "https://www.xiaohongshu.com/explore/6a5a589e0000000011016506",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5a589e0000000011016506?xsec_token=ABHMkToKGOMsBubQ6L3kL2ZQtBObRWGWpC4Ayl7ICb_2s=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 3979
+    }
+  ],
+  "totalLikes": 28413,
+  "avgLikes": 836,
+  "sentiment": {
+    "positive": 3,
+    "negative": 0,
+    "neutral": 42,
+    "positivePercent": 7,
+    "negativePercent": 0,
+    "neutralPercent": 93
+  }
+}
