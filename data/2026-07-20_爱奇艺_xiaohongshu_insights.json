@@ -1,0 +1,66 @@
+{
+  "topKeywords": [
+    [
+      "这一秒过",
+      6
+    ],
+    [
+      "无标题",
+      6
+    ],
+    [
+      "爱奇艺你",
+      3
+    ],
+    [
+      "火爱奇艺",
+      2
+    ],
+    [
+      "热度破",
+      2
+    ]
+  ],
+  "topItems": [
+    {
+      "title": "《这一秒过火》🐧云包场_107000+份",
+      "author": "momo",
+      "time": "昨天 12:21",
+      "likes": "1656",
+      "link": "https://www.xiaohongshu.com/explore/6a5b120f000000000f00b3d4",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5b120f000000000f00b3d4?xsec_token=ABFYZn3VRWHA27rGorUrBsLPEabuo_yNLsKjU-RbusqxQ=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 1656
+    },
+    {
+      "title": "这一秒过火爱奇艺热度破7000！",
+      "author": "爱奇艺",
+      "time": "昨天 19:46",
+      "likes": "1027",
+      "link": "https://www.xiaohongshu.com/explore/6a5cb91e000000002201a190",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5cb91e000000002201a190?xsec_token=ABVfinJFLInEYA4jfLOXE356sceKCzGPq7wEBxKTkBiw4=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 1027
+    },
+    {
+      "title": "这一秒过火爱奇艺热度破6500！",
+      "author": "爱奇艺",
+      "time": "昨天 16:58",
+      "likes": "627",
+      "link": "https://www.xiaohongshu.com/explore/6a5c91d3000000000f01fa80",
+      "navLink": "https://www.xiaohongshu.com/search_result/6a5c91d3000000000f01fa80?xsec_token=ABVfinJFLInEYA4jfLOXE353Z3zOXZjCvBmoyoNEAgc9w=&xsec_source=",
+      "platform": "xiaohongshu",
+      "likeCount": 627
+    }
+  ],
+  "totalLikes": 4360,
+  "avgLikes": 174,
+  "sentiment": {
+    "positive": 1,
+    "negative": 0,
+    "neutral": 28,
+    "positivePercent": 3,
+    "negativePercent": 0,
+    "neutralPercent": 97
+  }
+}
