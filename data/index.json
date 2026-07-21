@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2026-07-21",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 0,
+      "file": "2026-07-21_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-07-21_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-07-21_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-07-21T00:45:16.551Z",
+      "insights": null
+    },
+    {
       "date": "2026-07-20",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -2220,85 +2231,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "keyword": "爱奇艺",
-      "platform": "weibo",
-      "count": 21,
-      "file": "2026-06-23_爱奇艺_weibo.json",
-      "analysisFile": "2026-06-23_爱奇艺_weibo_analysis.md",
-      "insightsFile": "2026-06-23_爱奇艺_weibo_insights.json",
-      "timestamp": "2026-06-23T00:46:04.563Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺",
-            24
-          ],
-          [
-            "芒果",
-            17
-          ],
-          [
-            "优酷",
-            15
-          ],
-          [
-            "丁禹兮",
-            13
-          ],
-          [
-            "腾讯",
-            9
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "#南部档案爱奇艺热度破9000# 海盐报到，接下来的路，我们准备好了#剧集南部档案# L姜珮瑶等人的共创视频 ​",
-            "content": "#南部档案爱奇艺热度破9000# 海盐报到，接下来的路，我们准备好了#剧集南部档案# L姜珮瑶等人的共创视频 ​",
-            "author": "张新成",
-            "time": "06月19日 19:34",
-            "likes": "57987",
-            "link": "https://weibo.com/1955957617/R4RUpxrJ6?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#南部档案爱奇艺热度破9000# 海盐报到，接下来的路，我们准备好了#剧集南部档案# L姜珮瑶等人的共创视频 ​",
-            "likeCount": 57987
-          },
-          {
-            "title": "#说唱巅峰对决2026# 牌总来抢跑物料了\n《My Way(由我)》巅峰集结宣传片——巅峰赛事组@时代少年团-严浩翔 抢...",
-            "content": "#说唱巅峰对决2026# 牌总来抢跑物料了\n《My Way(由我)》巅峰集结宣传片——巅峰赛事组@时代少年团-严浩翔 抢先看！帅吧！明天都来看更帅的成片！！！\n6月27日中午12点先导片上线，周六18点、周日12点正片双更接力，更多高能时刻等你来见证！\n爱奇艺：O网页链接\n微博： ​ 展开c",
-            "author": "说唱巅峰对决2026",
-            "time": "06月22日 16:00",
-            "likes": "54801",
-            "link": "https://weibo.com/6521541772/R5iMP2IVv?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "#说唱巅峰对决2026# 牌总来抢跑物料了\n《My Way(由我)》巅峰集结宣传片——巅峰赛事组@时代少年团-严浩翔 抢先看！帅吧！明天都来看更帅的成片！！！\n6月27日中午12点先导片上线，周六18点、周日12点正片双更接力，更多高能时刻等你来见证！\n爱奇艺：O网页链接\n微博： ​ 展开c",
-            "likeCount": 54801
-          },
-          {
-            "title": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高...",
-            "content": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ​ 展开c",
-            "author": "爱奇艺",
-            "time": "04月20日 16:35",
-            "likes": "45700",
-            "link": "https://weibo.com/1731986465/QBGyndtEU?refer_flag=1001030103_",
-            "platform": "weibo",
-            "summary": "爱奇艺纳逗Pro艺人库建立的初衷，旨在为AIGC创作者提供一个规范的平台，便于其在创作中遴选艺人，并通过爱奇艺与艺人方高效沟通合作细节。目前，已有100多位深度合作艺人同意入驻爱奇艺纳逗Pro艺人库。\n需要强调的是，入驻爱奇艺纳逗Pro艺人库，代表艺人有接洽AI影视项目的意愿，但是否参加某个具体项 ",
-            "likeCount": 45700
-          }
-        ],
-        "totalLikes": 210101,
-        "avgLikes": 12359,
-        "sentiment": {
-          "positive": 3,
-          "negative": 0,
-          "neutral": 18,
-          "positivePercent": 14,
-          "negativePercent": 0,
-          "neutralPercent": 86
         }
       }
     }
