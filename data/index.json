@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2026-08-12",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 0,
+      "file": "2026-08-12_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-08-12_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-08-12_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-08-12T00:45:15.956Z",
+      "insights": null
+    },
+    {
       "date": "2026-08-11",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -775,82 +786,6 @@
           "positivePercent": 0,
           "negativePercent": 0,
           "neutralPercent": 100
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 15,
-      "file": "2026-07-13_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-07-13_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-07-13_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-07-13T00:45:49.898Z",
-      "insights": {
-        "topKeywords": [
-          [
-            "爱奇艺你",
-            4
-          ],
-          [
-            "无标题",
-            4
-          ],
-          [
-            "爱奇艺",
-            2
-          ],
-          [
-            "到了",
-            2
-          ],
-          [
-            "近十年爱",
-            1
-          ]
-        ],
-        "topItems": [
-          {
-            "title": "雀骨爱奇艺热度破8000！",
-            "author": "爱奇艺",
-            "time": "昨天 15:35",
-            "likes": "569",
-            "link": "https://www.xiaohongshu.com/explore/6a5343dc000000001102c97f",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a5343dc000000001102c97f?xsec_token=ABnKIL6Nef_mSaJEadt5N8LXlw8GoSMaZwGH3-dTiLHQ8=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 569
-          },
-          {
-            "title": "(无标题)",
-            "author": "嗑瓜子专用君",
-            "time": "昨天 22:36",
-            "likes": "134",
-            "link": "https://www.xiaohongshu.com/explore/6a53a6750000000016027efc",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a53a6750000000016027efc?xsec_token=ABnKIL6Nef_mSaJEadt5N8LYDqTgpZtqpH_RwHwnOXyyI=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 134
-          },
-          {
-            "title": "爱奇艺你在跟我开玩笑吗",
-            "author": "苹什猫",
-            "time": "1天前",
-            "likes": "115",
-            "link": "https://www.xiaohongshu.com/explore/6a521c1b000000001700a81a",
-            "navLink": "https://www.xiaohongshu.com/search_result/6a521c1b000000001700a81a?xsec_token=ABItbStk0Mkkb5X1IcvhFpAYJA2pNAoICAGXKHpd658AE=&xsec_source=",
-            "platform": "xiaohongshu",
-            "likeCount": 115
-          }
-        ],
-        "totalLikes": 982,
-        "avgLikes": 70,
-        "sentiment": {
-          "positive": 0,
-          "negative": 1,
-          "neutral": 14,
-          "positivePercent": 0,
-          "negativePercent": 7,
-          "neutralPercent": 93
         }
       }
     }
