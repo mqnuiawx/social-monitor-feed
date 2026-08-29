@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2026-08-29",
+      "keyword": "爱奇艺",
+      "platform": "xiaohongshu",
+      "count": 0,
+      "file": "2026-08-29_爱奇艺_xiaohongshu.json",
+      "analysisFile": "2026-08-29_爱奇艺_xiaohongshu_analysis.md",
+      "insightsFile": "2026-08-29_爱奇艺_xiaohongshu_insights.json",
+      "timestamp": "2026-08-29T00:45:16.141Z",
+      "insights": null
+    },
+    {
       "date": "2026-08-28",
       "keyword": "爱奇艺",
       "platform": "xiaohongshu",
@@ -317,17 +328,6 @@
       "analysisFile": "2026-07-31_爱奇艺_xiaohongshu_analysis.md",
       "insightsFile": "2026-07-31_爱奇艺_xiaohongshu_insights.json",
       "timestamp": "2026-07-31T00:45:16.206Z",
-      "insights": null
-    },
-    {
-      "date": "2026-07-30",
-      "keyword": "爱奇艺",
-      "platform": "xiaohongshu",
-      "count": 0,
-      "file": "2026-07-30_爱奇艺_xiaohongshu.json",
-      "analysisFile": "2026-07-30_爱奇艺_xiaohongshu_analysis.md",
-      "insightsFile": "2026-07-30_爱奇艺_xiaohongshu_insights.json",
-      "timestamp": "2026-07-30T00:45:16.278Z",
       "insights": null
     }
   ]
